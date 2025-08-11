@@ -1,0 +1,6 @@
+Metric,Score,Category,Improvements,Description
+Fidelity,0.6916489200769207,Good,Multiple strategies + robustness,TreeExplainer expected_value + validazione perturbazioni
+Faithfulness,0.6837500000000001,Good,Multiple strategies + robustness,Multiple removal strategies + test progressivi
+Sparsity,0.37323882031698297,Poor,Multiple strategies + robustness,Entropy + Gini + concentrazione + varianza
+Stability,0.842081057319937,Excellent,Multiple strategies + robustness,Bootstrap re-training + correlazioni robuste
+Consistency,0.32076017931754164,Poor,Multiple strategies + robustness,Clustering gerarchico + k-NN fallback
