@@ -1,0 +1,6 @@
+Metric,Score,Quality,Description
+Fidelity,0.9224,🟢 Excellent,Accuratezza dei PDP nel rappresentare il comportamento del modello
+Faithfulness,1.0000,🟢 Excellent,Fedeltà dei PDP a variazioni delle features importanti vs non-importanti
+Sparsity,0.6868,🟡 Good,Concentrazione degli effetti su poche features principali
+Consistency,0.7111,🟡 Good,Coerenza dei PDP tra campioni simili
+Stability,0.9654,🟢 Excellent,Robustezza dei PDP a variazioni nei dati

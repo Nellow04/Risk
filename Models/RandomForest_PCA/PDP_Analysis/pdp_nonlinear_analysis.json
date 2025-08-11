@@ -1,0 +1,162 @@
+{
+  "PC8": {
+    "component_description": "Componente PC8",
+    "effect_range": 0.34586572067884486,
+    "nonlinearity_score": 0.013880152299996885,
+    "critical_points": [
+      -0.6096370707747,
+      -0.35161457484711467,
+      0.03541916904426312,
+      0.09992479302615953,
+      0.16443041700805572,
+      0.22893604098995213,
+      0.2934416649718483,
+      0.3579472889537447,
+      0.4224529129356409,
+      0.4869585369175373
+    ],
+    "n_critical_points": 10,
+    "max_gradient": 0.49183311312127387,
+    "interpretazione": "Forte impatto sul rischio | Relazione altamente non-lineare | Multiple soglie critiche identificate"
+  },
+  "PC9": {
+    "component_description": "Componente PC9",
+    "effect_range": 0.30217195631639093,
+    "nonlinearity_score": 0.021591891572087362,
+    "critical_points": [
+      -0.6786680152282426,
+      -0.6193341676695223,
+      -0.5006664725520819,
+      -0.44133262499336157,
+      -0.14466338719976024,
+      -0.08532953964104006,
+      0.03333815547640051,
+      0.09267200303512069,
+      0.6266766310636029,
+      0.7453443261810437
+    ],
+    "n_critical_points": 10,
+    "max_gradient": 0.6802859477030925,
+    "interpretazione": "Forte impatto sul rischio | Relazione altamente non-lineare | Multiple soglie critiche identificate"
+  },
+  "PC14": {
+    "component_description": "Componente PC14",
+    "effect_range": 0.1619572355047918,
+    "nonlinearity_score": 0.003256239002289538,
+    "critical_points": [
+      -1.3492934693270147,
+      -1.104387433990805,
+      -0.9819344163227005,
+      -0.737028380986491,
+      -0.6145753633183864,
+      -0.5533488544843339,
+      0.9773138663669749,
+      1.0385403752010272,
+      1.160993392869132,
+      1.2222199017031843
+    ],
+    "n_critical_points": 10,
+    "max_gradient": 0.24770536916427055,
+    "interpretazione": "Forte impatto sul rischio | Relazione altamente non-lineare | Multiple soglie critiche identificate"
+  },
+  "PC11": {
+    "component_description": "Componente PC11",
+    "effect_range": 0.06646168066134361,
+    "nonlinearity_score": 0.0009004598614161199,
+    "critical_points": [
+      -1.6480335153279861,
+      -1.582163885478386,
+      -0.06716239893757892,
+      0.7232731592576249,
+      0.7891427891072251,
+      0.8550124189568253,
+      1.1843605682048268,
+      1.381969457753628,
+      1.447839087603228,
+      1.5137087174528283
+    ],
+    "n_critical_points": 10,
+    "max_gradient": 0.0935691261912206,
+    "interpretazione": "Impatto moderato sul rischio | Relazione moderatamente non-lineare | Multiple soglie critiche identificate"
+  },
+  "PC3": {
+    "component_description": "Componente PC3",
+    "effect_range": 0.08973987109206416,
+    "nonlinearity_score": 0.0005547901343457306,
+    "critical_points": [
+      -2.2978890004031234,
+      -2.2146901241114914,
+      -1.9650934952365962,
+      -0.9667069797370142,
+      -0.8835081034453824,
+      -0.8003092271537506,
+      -0.7171103508621188,
+      -0.5507125982788552,
+      -0.3843148456955916,
+      -0.30111596940395957
+    ],
+    "n_critical_points": 10,
+    "max_gradient": 0.1011733563717594,
+    "interpretazione": "Impatto moderato sul rischio | Relazione moderatamente non-lineare | Multiple soglie critiche identificate"
+  },
+  "PC7": {
+    "component_description": "Componente PC7",
+    "effect_range": 0.06806519707359882,
+    "nonlinearity_score": 0.0016846547324331465,
+    "critical_points": [
+      -1.4465590920382483,
+      -1.380047570423116,
+      -1.1140014839625874,
+      -1.047489962347455,
+      -0.9809784407323228,
+      -0.9144669191171906,
+      -0.8479553975020584,
+      -0.7814438758869262,
+      -0.3158632245810007,
+      -0.2493517029658685
+    ],
+    "n_critical_points": 10,
+    "max_gradient": 0.19484004329369675,
+    "interpretazione": "Impatto moderato sul rischio | Relazione altamente non-lineare | Multiple soglie critiche identificate"
+  },
+  "PC2": {
+    "component_description": "Componente PC2",
+    "effect_range": 0.1266164537768183,
+    "nonlinearity_score": 0.0011846750110110448,
+    "critical_points": [
+      -1.024429597980686,
+      -0.9354616176469128,
+      -0.84649363731314,
+      -0.7575256569793671,
+      -0.5795896963118214,
+      0.7549300086947723,
+      0.932865969362318,
+      1.0218339496960906,
+      1.1997699103636368,
+      1.2887378906974094
+    ],
+    "n_critical_points": 10,
+    "max_gradient": 0.1410298211010801,
+    "interpretazione": "Forte impatto sul rischio | Relazione altamente non-lineare | Multiple soglie critiche identificate"
+  },
+  "PC6": {
+    "component_description": "Componente PC6",
+    "effect_range": 0.019684008700511568,
+    "nonlinearity_score": 0.0004005537553669413,
+    "critical_points": [
+      -1.0287155889903417,
+      -0.9698806604855604,
+      -0.9110457319807793,
+      -0.8522108034759982,
+      -0.7345409464664359,
+      -0.6757060179616547,
+      -0.14619166141862439,
+      0.03031312409571907,
+      0.08914805260050018,
+      0.2068179096100624
+    ],
+    "n_critical_points": 10,
+    "max_gradient": 0.08203036917032502,
+    "interpretazione": "Impatto limitato sul rischio | Relazione moderatamente non-lineare | Multiple soglie critiche identificate"
+  }
+}

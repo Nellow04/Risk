@@ -1,0 +1,171 @@
+{
+  "fidelity": {
+    "score": 0.9223751308496186,
+    "details": {
+      "PC8": {
+        "fidelity_score": 0.913716773888647,
+        "n_bins_used": 10,
+        "pdp_range": 0.34557743239055644,
+        "interpretation": "PDP rappresenta accuratamente il comportamento del modello"
+      },
+      "PC9": {
+        "fidelity_score": 0.9183673492137648,
+        "n_bins_used": 10,
+        "pdp_range": 0.30217195631639093,
+        "interpretation": "PDP rappresenta accuratamente il comportamento del modello"
+      },
+      "PC14": {
+        "fidelity_score": 0.9633866890732525,
+        "n_bins_used": 8,
+        "pdp_range": 0.16228324901830526,
+        "interpretation": "PDP rappresenta accuratamente il comportamento del modello"
+      },
+      "PC11": {
+        "fidelity_score": 0.8985935496634634,
+        "n_bins_used": 9,
+        "pdp_range": 0.06608780678746984,
+        "interpretation": "PDP rappresenta accuratamente il comportamento del modello"
+      },
+      "PC3": {
+        "fidelity_score": 0.9178112924089661,
+        "n_bins_used": 8,
+        "pdp_range": 0.08973987109206416,
+        "interpretation": "PDP rappresenta accuratamente il comportamento del modello"
+      }
+    },
+    "description": "Accuratezza dei PDP nel rappresentare il comportamento del modello"
+  },
+  "faithfulness": {
+    "score": 0.9999945512513762,
+    "details": {
+      "PC8": {
+        "faithfulness_score": 0.9999994706394505,
+        "unimportant_correlation": 0.9999994706394505,
+        "interpretation": "PDP faithful: stabile a perturbazioni non-importanti"
+      },
+      "PC9": {
+        "faithfulness_score": 0.999998252615227,
+        "unimportant_correlation": 0.999998252615227,
+        "interpretation": "PDP faithful: stabile a perturbazioni non-importanti"
+      },
+      "PC14": {
+        "faithfulness_score": 0.9999988252287552,
+        "unimportant_correlation": 0.9999988252287552,
+        "interpretation": "PDP faithful: stabile a perturbazioni non-importanti"
+      },
+      "PC11": {
+        "faithfulness_score": 0.9999779237477235,
+        "unimportant_correlation": 0.9999779237477235,
+        "interpretation": "PDP faithful: stabile a perturbazioni non-importanti"
+      },
+      "PC3": {
+        "faithfulness_score": 0.9999982840257245,
+        "unimportant_correlation": 0.9999982840257245,
+        "interpretation": "PDP faithful: stabile a perturbazioni non-importanti"
+      }
+    },
+    "description": "Fedelt\u00e0 dei PDP a variazioni delle features importanti vs non-importanti"
+  },
+  "sparsity": {
+    "score": 0.686803165501816,
+    "details": {
+      "feature_effects": {
+        "PC8": 0.34557743239055644,
+        "PC9": 0.30217195631639093,
+        "PC14": 0.16228324901830538,
+        "PC11": 0.06608780678746984,
+        "PC3": 0.08973987109206416,
+        "PC7": 0.06804392901624623,
+        "PC2": 0.12634344163424094,
+        "PC6": 0.019177043293546192
+      },
+      "top_3_concentration": 0.686803165501816,
+      "top_5_concentration": 0.8700139353904262,
+      "total_features_analyzed": 8,
+      "interpretation": "Effetti moderatamente concentrati"
+    },
+    "description": "Concentrazione degli effetti su poche features principali"
+  },
+  "consistency": {
+    "score": 0.7110696769488455,
+    "details": {
+      "PC8": {
+        "consistency_score": 0.7615984249057002,
+        "mean_correlation": 0.8179762348525859,
+        "std_correlation": 0.13784706094070323,
+        "n_clusters_used": 5,
+        "interpretation": "PDP moderatamente consistenti"
+      },
+      "PC9": {
+        "consistency_score": 0.8160460683201707,
+        "mean_correlation": 0.8703660890713717,
+        "std_correlation": 0.12482108720287391,
+        "n_clusters_used": 5,
+        "interpretation": "PDP moderatamente consistenti"
+      },
+      "PC14": {
+        "consistency_score": 0.8051501953304155,
+        "mean_correlation": 0.8317774905852892,
+        "std_correlation": 0.0640250440923497,
+        "n_clusters_used": 5,
+        "interpretation": "PDP moderatamente consistenti"
+      },
+      "PC11": {
+        "consistency_score": 0.6157135661364307,
+        "mean_correlation": 0.6760800840683954,
+        "std_correlation": 0.1785780097786692,
+        "n_clusters_used": 5,
+        "interpretation": "PDP inconsistenti tra gruppi simili"
+      },
+      "PC3": {
+        "consistency_score": 0.5568401300515108,
+        "mean_correlation": 0.6581928696783084,
+        "std_correlation": 0.30797276693785425,
+        "n_clusters_used": 5,
+        "interpretation": "PDP inconsistenti tra gruppi simili"
+      }
+    },
+    "description": "Coerenza dei PDP tra campioni simili"
+  },
+  "stability": {
+    "score": 0.9653826723422414,
+    "details": {
+      "PC8": {
+        "stability_score": 0.9527203839088239,
+        "mean_correlation": 0.9752606143455753,
+        "std_correlation": 0.023112007298558293,
+        "n_valid_bootstrap": 15,
+        "interpretation": "PDP molto stabile e robusto"
+      },
+      "PC9": {
+        "stability_score": 0.9748930637568997,
+        "mean_correlation": 0.987636215995137,
+        "std_correlation": 0.012902678164143073,
+        "n_valid_bootstrap": 15,
+        "interpretation": "PDP molto stabile e robusto"
+      },
+      "PC14": {
+        "stability_score": 0.9506757432041183,
+        "mean_correlation": 0.9673177249192204,
+        "std_correlation": 0.017204255940303254,
+        "n_valid_bootstrap": 15,
+        "interpretation": "PDP molto stabile e robusto"
+      },
+      "PC11": {
+        "stability_score": 0.9675671735953003,
+        "mean_correlation": 0.9830563114634171,
+        "std_correlation": 0.015756104393510273,
+        "n_valid_bootstrap": 15,
+        "interpretation": "PDP molto stabile e robusto"
+      },
+      "PC3": {
+        "stability_score": 0.9810569972460651,
+        "mean_correlation": 0.990838611766495,
+        "std_correlation": 0.009872056260495322,
+        "n_valid_bootstrap": 15,
+        "interpretation": "PDP molto stabile e robusto"
+      }
+    },
+    "description": "Robustezza dei PDP a variazioni nei dati"
+  }
+}

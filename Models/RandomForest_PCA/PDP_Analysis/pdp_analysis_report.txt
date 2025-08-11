@@ -1,0 +1,67 @@
+PARTIAL DEPENDENCE PLOTS ANALYSIS - RANDOM FOREST PCA
+=======================================================
+
+TOP 10 COMPONENTI PIÙ IMPORTANTI:
+-----------------------------------
+ 8. PC8 : 0.0901 - Componente PC8
+ 9. PC9 : 0.0523 - Componente PC9
+14. PC14: 0.0252 - Componente PC14
+11. PC11: 0.0198 - Componente PC11
+ 3. PC3 : 0.0162 - Componente PC3
+ 7. PC7 : 0.0162 - Componente PC7
+ 2. PC2 : 0.0144 - Componente PC2
+ 6. PC6 : 0.0099 - Componente PC6
+18. PC18: 0.0072 - Componente PC18
+12. PC12: 0.0036 - Componente PC12
+
+
+ANALISI EFFETTI NON-LINEARI:
+------------------------------
+
+PC8 - Componente PC8:
+  Effect Range: 0.3459
+  Nonlinearity Score: 0.013880
+  Critical Points: 10
+  Interpretazione: Forte impatto sul rischio | Relazione altamente non-lineare | Multiple soglie critiche identificate
+
+PC9 - Componente PC9:
+  Effect Range: 0.3022
+  Nonlinearity Score: 0.021592
+  Critical Points: 10
+  Interpretazione: Forte impatto sul rischio | Relazione altamente non-lineare | Multiple soglie critiche identificate
+
+PC14 - Componente PC14:
+  Effect Range: 0.1620
+  Nonlinearity Score: 0.003256
+  Critical Points: 10
+  Interpretazione: Forte impatto sul rischio | Relazione altamente non-lineare | Multiple soglie critiche identificate
+
+PC11 - Componente PC11:
+  Effect Range: 0.0665
+  Nonlinearity Score: 0.000900
+  Critical Points: 10
+  Interpretazione: Impatto moderato sul rischio | Relazione moderatamente non-lineare | Multiple soglie critiche identificate
+
+PC3 - Componente PC3:
+  Effect Range: 0.0897
+  Nonlinearity Score: 0.000555
+  Critical Points: 10
+  Interpretazione: Impatto moderato sul rischio | Relazione moderatamente non-lineare | Multiple soglie critiche identificate
+
+PC7 - Componente PC7:
+  Effect Range: 0.0681
+  Nonlinearity Score: 0.001685
+  Critical Points: 10
+  Interpretazione: Impatto moderato sul rischio | Relazione altamente non-lineare | Multiple soglie critiche identificate
+
+PC2 - Componente PC2:
+  Effect Range: 0.1266
+  Nonlinearity Score: 0.001185
+  Critical Points: 10
+  Interpretazione: Forte impatto sul rischio | Relazione altamente non-lineare | Multiple soglie critiche identificate
+
+PC6 - Componente PC6:
+  Effect Range: 0.0197
+  Nonlinearity Score: 0.000401
+  Critical Points: 10
+  Interpretazione: Impatto limitato sul rischio | Relazione moderatamente non-lineare | Multiple soglie critiche identificate
