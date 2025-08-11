@@ -321,9 +321,6 @@ def main():
         ensemble, X_train, X_test, y_train, y_test
     )
 
-    # Analizza miglioramenti
-    improvements = analyze_ensemble_improvements(individual_results, ensemble_results)
-
     # Crea visualizzazioni
     create_ensemble_visualizations(individual_results, ensemble_results, y_test)
 
