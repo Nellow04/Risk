@@ -7,8 +7,9 @@ import json
 from datetime import datetime
 import warnings
 warnings.filterwarnings('ignore')
-import lightgbm as lgb
-from lightgbm import LGBMClassifier
+
+import xgboost as xgb
+from xgboost import XGBClassifier
 
 from sklearn.model_selection import RandomizedSearchCV, cross_val_score
 from sklearn.metrics import (accuracy_score, precision_score, recall_score,
@@ -29,16 +30,16 @@ def load_pca_data():
     X_test_pca = np.load('../../T1Diabetes/PCA/X_test_pca.npy')
     y_test = np.load('../../T1Diabetes/PCA/y_test.npy')
 
+
     return X_train_pca, y_train, X_val_pca, y_val, X_test_pca, y_test
 
-def create_lightgbm_param_grid():
+def create_xgboost_param_grid():
 
     param_grid = {
         # Parametri del booster
         'n_estimators': [100, 200, 300, 500],
-        'max_depth': [3, 5, 7, 10, 15],
+        'max_depth': [3, 4, 5, 6, 7],
         'learning_rate': [0.01, 0.05, 0.1, 0.2],
-        'num_leaves': [31, 50, 100, 150],
         'subsample': [0.8, 0.9, 1.0],
         'colsample_bytree': [0.8, 0.9, 1.0],
 
@@ -46,13 +47,12 @@ def create_lightgbm_param_grid():
         'reg_alpha': [0, 0.1, 0.5, 1.0],
         'reg_lambda': [0, 0.1, 0.5, 1.0],
 
-        # Parametri specifici per LightGBM
-        'min_child_samples': [20, 30, 50],
-        'min_child_weight': [0.001, 0.01, 0.1],
-        'subsample_freq': [1, 5, 10],
+        # Parametri specifici per classificazione
+        'min_child_weight': [1, 3, 5],
+        'gamma': [0, 0.1, 0.2],
 
         # Parametri per dataset bilanciato
-        'class_weight': ['balanced', None]
+        'scale_pos_weight': [1, 2, 3]  # Per gestire possibili sbilanciamenti residui
     }
 
     for param, values in param_grid.items():
@@ -60,24 +60,25 @@ def create_lightgbm_param_grid():
 
     total_combinations = np.prod([len(v) for v in param_grid.values()])
 
+
     return param_grid
 
-def train_lightgbm_with_tuning(X_train, y_train, X_val, y_val, param_grid, n_iter=100):
-    print(f"\nADDESTRAMENTO LIGHTGBM CON TUNING")
+def train_xgboost_with_tuning(X_train, y_train, X_val, y_val, param_grid, n_iter=100):
+    print(f"\nADDESTRAMENTO XGBOOST CON TUNING")
+    print("="*42)
 
-    # Modello base LightGBM
-    lgbm_model = LGBMClassifier(
-        objective='binary',
-        boosting_type='gbdt',
+    # Modello base XGBoost
+    xgb_model = XGBClassifier(
+        objective='binary:logistic',
         random_state=42,
         n_jobs=-1,
-        verbosity=-1
+        verbosity=0
     )
 
 
     # RandomizedSearchCV con 3-fold CV
     random_search = RandomizedSearchCV(
-        estimator=lgbm_model,
+        estimator=xgb_model,
         param_distributions=param_grid,
         n_iter=n_iter,
         cv=3,
@@ -95,6 +96,7 @@ def train_lightgbm_with_tuning(X_train, y_train, X_val, y_val, param_grid, n_ite
     best_score = random_search.best_score_
 
 
+
     # Valutazione sul validation set
     val_predictions = best_model.predict(X_val)
     val_probabilities = best_model.predict_proba(X_val)[:, 1]
@@ -105,7 +107,7 @@ def train_lightgbm_with_tuning(X_train, y_train, X_val, y_val, param_grid, n_ite
 
     return best_model, best_params, random_search
 
-def evaluate_lightgbm_model(model, X_test, y_test, save_path="./"):
+def evaluate_xgboost_model(model, X_test, y_test, save_path="./"):
 
     # Predizioni
     y_pred = model.predict(X_test)
@@ -131,7 +133,7 @@ def evaluate_lightgbm_model(model, X_test, y_test, save_path="./"):
 
     # Assembla risultati
     results = {
-        'model_type': 'LightGBM',
+        'model_type': 'XGBoost',
         'dataset_type': 'PCA',
         'metrics': {
             'accuracy': float(accuracy),
@@ -148,7 +150,7 @@ def evaluate_lightgbm_model(model, X_test, y_test, save_path="./"):
 
     return results
 
-def create_lightgbm_visualizations(model, results, best_params, save_path="./"):
+def create_xgboost_visualizations(model, results, best_params, save_path="./"):
 
     # Configurazione subplots
     fig = plt.figure(figsize=(20, 15))
@@ -161,8 +163,8 @@ def create_lightgbm_visualizations(model, results, best_params, save_path="./"):
     # Ordina per importanza
     indices = np.argsort(importances)[::-1][:15]  # Top 15
 
-    plt.bar(range(len(indices)), importances[indices], color='lightgreen', alpha=0.8)
-    plt.title('LightGBM Feature Importance\n(Top 15 Components)', fontweight='bold', fontsize=12)
+    plt.bar(range(len(indices)), importances[indices], color='skyblue', alpha=0.8)
+    plt.title('XGBoost Feature Importance\n(Top 15 Components)', fontweight='bold', fontsize=12)
     plt.xlabel('PCA Components')
     plt.ylabel('Importance')
     plt.xticks(range(len(indices)), [feature_names[i] for i in indices], rotation=45)
@@ -171,10 +173,10 @@ def create_lightgbm_visualizations(model, results, best_params, save_path="./"):
     # 2. Confusion Matrix
     ax2 = plt.subplot(2, 3, 2)
     cm = np.array(results['confusion_matrix'])
-    sns.heatmap(cm, annot=True, fmt='d', cmap='Greens',
+    sns.heatmap(cm, annot=True, fmt='d', cmap='Blues',
                 xticklabels=['Basso Rischio', 'Alto Rischio'],
                 yticklabels=['Basso Rischio', 'Alto Rischio'])
-    plt.title('Confusion Matrix\nLightGBM PCA', fontweight='bold', fontsize=12)
+    plt.title('Confusion Matrix\nXGBoost PCA', fontweight='bold', fontsize=12)
     plt.ylabel('True Label')
     plt.xlabel('Predicted Label')
 
@@ -184,25 +186,25 @@ def create_lightgbm_visualizations(model, results, best_params, save_path="./"):
     y_proba = np.array(results['probabilities'])
 
     fpr, tpr, _ = roc_curve(y_test, y_proba)
-    plt.plot(fpr, tpr, color='green', lw=2,
+    plt.plot(fpr, tpr, color='darkorange', lw=2,
              label=f'ROC Curve (AUC = {results["metrics"]["roc_auc"]:.3f})')
     plt.plot([0, 1], [0, 1], color='navy', lw=2, linestyle='--', alpha=0.5)
     plt.xlim([0.0, 1.0])
     plt.ylim([0.0, 1.05])
     plt.xlabel('False Positive Rate')
     plt.ylabel('True Positive Rate')
-    plt.title('ROC Curve\nLightGBM PCA', fontweight='bold', fontsize=12)
+    plt.title('ROC Curve\nXGBoost PCA', fontweight='bold', fontsize=12)
     plt.legend(loc="lower right")
     plt.grid(True, alpha=0.3)
 
     # 4. Precision-Recall Curve
     ax4 = plt.subplot(2, 3, 4)
     precision_vals, recall_vals, _ = precision_recall_curve(y_test, y_proba)
-    plt.plot(recall_vals, precision_vals, color='darkgreen', lw=2,
+    plt.plot(recall_vals, precision_vals, color='darkred', lw=2,
              label=f'PR Curve (F1 = {results["metrics"]["f1_score"]:.3f})')
     plt.xlabel('Recall')
     plt.ylabel('Precision')
-    plt.title('Precision-Recall Curve\nLightGBM PCA', fontweight='bold', fontsize=12)
+    plt.title('Precision-Recall Curve\nXGBoost PCA', fontweight='bold', fontsize=12)
     plt.legend()
     plt.grid(True, alpha=0.3)
 
@@ -219,7 +221,7 @@ def create_lightgbm_visualizations(model, results, best_params, save_path="./"):
 
     colors = ['#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd']
     bars = plt.bar(metrics_names, metrics_values, color=colors, alpha=0.8)
-    plt.title('Performance Metrics\nLightGBM PCA', fontweight='bold', fontsize=12)
+    plt.title('Performance Metrics\nXGBoost PCA', fontweight='bold', fontsize=12)
     plt.ylabel('Score')
     plt.ylim(0, 1)
 
@@ -241,24 +243,24 @@ def create_lightgbm_visualizations(model, results, best_params, save_path="./"):
         param_text += f"{param}: {value}\n"
 
     ax6.text(0.1, 0.9, param_text, transform=ax6.transAxes, fontsize=10,
-             verticalalignment='top', bbox=dict(boxstyle='round', facecolor='lightgreen', alpha=0.8))
+             verticalalignment='top', bbox=dict(boxstyle='round', facecolor='lightblue', alpha=0.8))
 
     plt.tight_layout()
-    plt.savefig(f"{save_path}/lightgbm_pca_analysis.png", dpi=300, bbox_inches='tight')
+    plt.savefig(f"{save_path}/xgboost_pca_analysis.png", dpi=300, bbox_inches='tight')
     plt.close()
 
 
-def save_lightgbm_results(model, results, best_params, search_results, save_path="./"):
+def save_xgboost_results(model, results, best_params, search_results, save_path="./"):
 
     # Salva il modello
-    model_path = f"{save_path}/lightgbm_pca_model.pkl"
+    model_path = f"{save_path}/xgboost_pca_model.pkl"
     with open(model_path, 'wb') as f:
         pickle.dump(model, f)
 
     # Salva risultati completi
     complete_results = {
         'model_info': {
-            'type': 'LightGBM',
+            'type': 'XGBoost',
             'dataset': 'PCA',
             'timestamp': datetime.now().isoformat(),
             'best_params': best_params,
@@ -269,14 +271,14 @@ def save_lightgbm_results(model, results, best_params, search_results, save_path
         'feature_importance': model.feature_importances_.tolist()
     }
 
-    results_path = f"{save_path}/lightgbm_pca_results.json"
+    results_path = f"{save_path}/xgboost_pca_results.json"
     with open(results_path, 'w') as f:
         json.dump(complete_results, f, indent=2)
 
     # Salva risultati CSV per facile lettura
     metrics_df = pd.DataFrame([results['metrics']])
-    metrics_df['model'] = 'LightGBM_PCA'
-    metrics_path = f"{save_path}/lightgbm_pca_metrics.csv"
+    metrics_df['model'] = 'XGBoost_PCA'
+    metrics_path = f"{save_path}/xgboost_pca_metrics.csv"
     metrics_df.to_csv(metrics_path, index=False)
 
 def main():
@@ -285,23 +287,24 @@ def main():
     X_train, y_train, X_val, y_val, X_test, y_test = load_pca_data()
 
     # Definisci griglia iperparametri
-    param_grid = create_lightgbm_param_grid()
+    param_grid = create_xgboost_param_grid()
 
     # Addestra modello con tuning
-    best_model, best_params, search_results = train_lightgbm_with_tuning(
+    best_model, best_params, search_results = train_xgboost_with_tuning(
         X_train, y_train, X_val, y_val, param_grid, n_iter=100
     )
 
     # Valuta modello
-    results = evaluate_lightgbm_model(best_model, X_test, y_test)
+    results = evaluate_xgboost_model(best_model, X_test, y_test)
 
     # Crea visualizzazioni
-    create_lightgbm_visualizations(best_model, results, best_params)
+    create_xgboost_visualizations(best_model, results, best_params)
 
     # Salva risultati
-    save_lightgbm_results(best_model, results, best_params, search_results)
+    save_xgboost_results(best_model, results, best_params, search_results)
 
-    print("\nLightGBM completato!")
+    print("XGBoost completato")
+
 
 if __name__ == "__main__":
     main()
