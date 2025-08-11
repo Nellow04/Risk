@@ -1,8 +1,3 @@
-"""
-Estrae le misurazioni glicemiche degli ultimi 14 giorni per ogni paziente,
-o l'ultima misurazione disponibile se il paziente non ha dati recenti.
-"""
-
 import pandas as pd
 import numpy as np
 from datetime import datetime, timedelta
@@ -10,7 +5,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 class GlucoseFilter:
-    def __init__(self, input_file='../T1Diabetes/Glucose_measurements.csv', output_file='Glucose_measurements_filtered.csv'):
+    def __init__(self, input_file='../T1Diabetes/Glucose_measurements.csv', output_file='Glucose_measurements_filtered.csv'): # File rimosso per dimensioni troppo grandi per Git
         self.input_file = input_file
         self.output_file = output_file
         self.filtered_data = None
