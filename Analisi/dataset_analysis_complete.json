@@ -1,0 +1,294 @@
+{
+  "analysis_date": "2025-07-29T18:18:22.585207",
+  "dataset_path": "T1Diabetes/main_dataset/dataset_with_composite_risk.csv",
+  "analysis_version": "1.0",
+  "results": {
+    "basic_info": {
+      "total_patients": 736,
+      "total_features": 26,
+      "columns": [
+        "Patient_ID",
+        "Sex",
+        "Age",
+        "Number_of_diagnostics",
+        "TIR",
+        "CV",
+        "Cardiovascular_Comorbidity",
+        "Potassium",
+        "HDL_cholesterol",
+        "GGT",
+        "Creatinine",
+        "Glucose",
+        "Uric_acid",
+        "Triglycerides",
+        "GPT",
+        "Chlorine",
+        "TSH",
+        "Sodium",
+        "HbA1c",
+        "Total_cholesterol",
+        "Albumin_urine",
+        "Creatinine_urine",
+        "Insulin",
+        "IA2_ANTIBODIES",
+        "Risk_Score",
+        "Risk"
+      ]
+    },
+    "demographics": {
+      "sex": {
+        "males": 373,
+        "females": 363,
+        "males_percentage": 50.67934782608695,
+        "females_percentage": 49.32065217391305
+      },
+      "age": {
+        "mean": 46.33695652173913,
+        "median": 46.0,
+        "min": 18.0,
+        "max": 87.0,
+        "std": 15.77272401436991,
+        "ranges": {
+          "Under_30": 130,
+          "30-45": 227,
+          "46-60": 229,
+          "Over_60": 150
+        },
+        "ranges_percentages": {
+          "Under_30": 17.66304347826087,
+          "30-45": 30.842391304347828,
+          "46-60": 31.11413043478261,
+          "Over_60": 20.380434782608695
+        }
+      }
+    },
+    "risk_analysis": {
+      "risk_score_distribution": {
+        "0": 90,
+        "1": 154,
+        "2": 260,
+        "3": 164,
+        "4": 59,
+        "5": 9
+      },
+      "risk_score_percentages": {
+        "0": 12.228260869565217,
+        "1": 20.92391304347826,
+        "2": 35.32608695652174,
+        "3": 22.282608695652172,
+        "4": 8.016304347826086,
+        "5": 1.2228260869565217
+      },
+      "binary_risk": {
+        "low_risk": 244,
+        "high_risk": 492,
+        "low_risk_percentage": 33.15217391304348,
+        "high_risk_percentage": 66.84782608695652
+      }
+    },
+    "risk_criteria": {
+      "TIR_below_70": {
+        "count": 450,
+        "percentage": 61.141304347826086,
+        "mean_tir": 59.000352861514955,
+        "median_tir": 61.20179239221759
+      },
+      "CV_above_36": {
+        "count": 254,
+        "percentage": 34.51086956521739,
+        "mean_cv": 24.36123273246709,
+        "median_cv": 31.684548730024417
+      },
+      "HbA1c_above_7": {
+        "count": 465,
+        "percentage": 63.17934782608695,
+        "mean_hba1c": 7.622777777777777,
+        "median_hba1c": 7.4
+      },
+      "Age_above_45": {
+        "count": 379,
+        "percentage": 51.49456521739131
+      },
+      "Cardiovascular_Comorbidity": {
+        "count": 130,
+        "percentage": 17.66304347826087
+      }
+    },
+    "biochemical_analysis": {
+      "Potassium": {
+        "available": 722,
+        "missing": 14,
+        "missing_percentage": 1.9021739130434785,
+        "mean": 4.50404432132964,
+        "median": 4.495,
+        "std": 0.4507010882914811
+      },
+      "HDL_cholesterol": {
+        "available": 717,
+        "missing": 19,
+        "missing_percentage": 2.5815217391304346,
+        "mean": 57.88284518828452,
+        "median": 56.0,
+        "std": 14.046021673573321
+      },
+      "GGT": {
+        "available": 716,
+        "missing": 20,
+        "missing_percentage": 2.717391304347826,
+        "mean": 27.004469273743013,
+        "median": 17.0,
+        "std": 52.635463140335865
+      },
+      "Creatinine": {
+        "available": 723,
+        "missing": 13,
+        "missing_percentage": 1.766304347826087,
+        "mean": 0.8384370677731674,
+        "median": 0.77,
+        "std": 0.39319159632660133
+      },
+      "Glucose": {
+        "available": 723,
+        "missing": 13,
+        "missing_percentage": 1.766304347826087,
+        "mean": 152.28146611341631,
+        "median": 143.0,
+        "std": 67.96571128787608
+      },
+      "Uric_acid": {
+        "available": 708,
+        "missing": 28,
+        "missing_percentage": 3.804347826086957,
+        "mean": 4.302528248587571,
+        "median": 4.14,
+        "std": 1.3117792825192491
+      },
+      "Triglycerides": {
+        "available": 720,
+        "missing": 16,
+        "missing_percentage": 2.1739130434782608,
+        "mean": 94.64722222222223,
+        "median": 76.0,
+        "std": 71.58834174483513
+      },
+      "GPT": {
+        "available": 722,
+        "missing": 14,
+        "missing_percentage": 1.9021739130434785,
+        "mean": 22.683795013850414,
+        "median": 19.0,
+        "std": 22.421357722280966
+      },
+      "Chlorine": {
+        "available": 423,
+        "missing": 313,
+        "missing_percentage": 42.52717391304348,
+        "mean": 102.81323877068557,
+        "median": 103.0,
+        "std": 3.736031127417645
+      },
+      "TSH": {
+        "available": 714,
+        "missing": 22,
+        "missing_percentage": 2.989130434782609,
+        "mean": 2.8131120448179274,
+        "median": 2.2565,
+        "std": 2.391132099391649
+      },
+      "Sodium": {
+        "available": 722,
+        "missing": 14,
+        "missing_percentage": 1.9021739130434785,
+        "mean": 138.41274238227146,
+        "median": 139.0,
+        "std": 2.621643292047832
+      },
+      "HbA1c": {
+        "available": 720,
+        "missing": 16,
+        "missing_percentage": 2.1739130434782608,
+        "mean": 7.622777777777777,
+        "median": 7.4,
+        "std": 1.3191888836596268
+      },
+      "Total_cholesterol": {
+        "available": 720,
+        "missing": 16,
+        "missing_percentage": 2.1739130434782608,
+        "mean": 170.13194444444446,
+        "median": 168.0,
+        "std": 35.788990336630164
+      },
+      "Albumin_urine": {
+        "available": 713,
+        "missing": 23,
+        "missing_percentage": 3.125,
+        "mean": 4.652861150070127,
+        "median": 0.7,
+        "std": 38.96268182799137
+      },
+      "Creatinine_urine": {
+        "available": 713,
+        "missing": 23,
+        "missing_percentage": 3.125,
+        "mean": 112.82363253856943,
+        "median": 102.6,
+        "std": 61.23475350588569
+      },
+      "Insulin": {
+        "available": 49,
+        "missing": 687,
+        "missing_percentage": 93.34239130434783,
+        "mean": 21.704285714285714,
+        "median": 10.08,
+        "std": 43.90214786886855
+      },
+      "IA2_ANTIBODIES": {
+        "available": 64,
+        "missing": 672,
+        "missing_percentage": 91.30434782608695,
+        "mean": 422.37796875000004,
+        "median": 1.15,
+        "std": 1255.0243649531142
+      }
+    },
+    "diagnostics_analysis": {
+      "diagnosis_stats": {
+        "mean": 3.4383561643835616,
+        "median": 3.0,
+        "min": 1.0,
+        "max": 24.0,
+        "ranges": {
+          "No_diagnosis": 0,
+          "1-3_diagnoses": 328,
+          "4-6_diagnoses": 116,
+          "More_than_6": 67
+        },
+        "ranges_percentages": {
+          "No_diagnosis": 0.0,
+          "1-3_diagnoses": 44.565217391304344,
+          "4-6_diagnoses": 15.760869565217392,
+          "More_than_6": 9.103260869565217
+        }
+      }
+    },
+    "summary_statistics": {
+      "dataset_overview": {
+        "total_patients": 736,
+        "total_features": 26,
+        "study_period": "2018-2022",
+        "data_collection_method": "FreeStyle Libre FGM devices"
+      },
+      "key_demographics": {
+        "average_age": 46.33695652173913,
+        "age_range": "18-87",
+        "gender_balance": "50.7% M, 49.3% F"
+      },
+      "risk_distribution": {
+        "high_risk_patients": 492,
+        "high_risk_percentage": 66.84782608695652,
+        "most_common_risk_score": 2
+      }
+    }
+  }
+}
