@@ -1,0 +1,6 @@
+Metric,Score,Level,Method
+Fidelity,1.0,Excellent,Local linear approximation
+Faithfulness,0.9179083101859177,Excellent,Local linear approximation
+Sparsity,0.10112799025968566,Poor,Local linear approximation
+Stability,0.9742656222654826,Excellent,Local linear approximation
+Consistency,0.7055598327314712,Good,Local linear approximation

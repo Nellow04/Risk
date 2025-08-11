@@ -1,0 +1,31 @@
+{
+  "total_explanations": 30,
+  "feature_importance_stats": {
+    "mean": 0.0767299513613093,
+    "std": 0.06388892255278787,
+    "total": 1.3811391245035676
+  },
+  "top_5_features": [
+    {
+      "feature": "PC8",
+      "importance": 0.2414012964029321
+    },
+    {
+      "feature": "PC9",
+      "importance": 0.2125824614615309
+    },
+    {
+      "feature": "PC2",
+      "importance": 0.14564531727986393
+    },
+    {
+      "feature": "PC10",
+      "importance": 0.13701516779117362
+    },
+    {
+      "feature": "PC14",
+      "importance": 0.09426614599066657
+    }
+  ],
+  "timestamp": "2025-07-28T11:38:30.528750"
+}
