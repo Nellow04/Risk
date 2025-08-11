@@ -14,14 +14,10 @@ from sklearn.metrics import (
 import warnings
 warnings.filterwarnings('ignore')
 
-# Configurazione plot
 plt.style.use('seaborn-v0_8')
 sns.set_palette("husl")
 
 def load_individual_models():
-    """Carica i tre modelli individuali pre-addestrati"""
-    print("📂 CARICAMENTO MODELLI INDIVIDUALI")
-    print("="*38)
 
     models = {}
 
@@ -29,36 +25,25 @@ def load_individual_models():
     try:
         with open('../RandomForest_PCA/RandomForest/random_forest_pca_model.pkl', 'rb') as f:
             models['RandomForest'] = pickle.load(f)
-        print("✅ RandomForest caricato")
     except Exception as e:
-        print(f"❌ Errore caricamento RandomForest: {e}")
         return None
 
     # Carica LightGBM
     try:
         with open('../LightGBM_PCA/LightGBM/lightgbm_pca_model.pkl', 'rb') as f:
             models['LightGBM'] = pickle.load(f)
-        print("✅ LightGBM caricato")
     except Exception as e:
-        print(f"❌ Errore caricamento LightGBM: {e}")
         return None
 
     # Carica XGBoost
     try:
         with open('../XGBoost_PCA/XGBoost/xgboost_pca_model.pkl', 'rb') as f:
             models['XGBoost'] = pickle.load(f)
-        print("✅ XGBoost caricato")
     except Exception as e:
-        print(f"❌ Errore caricamento XGBoost: {e}")
         return None
-
-    print(f"\n📊 MODELLI CARICATI: {len(models)}/3")
     return models
 
 def load_pca_data():
-    """Carica i dati PCA per l'ensemble"""
-    print("\n📂 CARICAMENTO DATI PCA")
-    print("="*25)
 
     data_path = '../../T1Diabetes/PCA/'
 
@@ -70,17 +55,9 @@ def load_pca_data():
     y_test = np.load(data_path + 'y_test.npy')
     y_val = np.load(data_path + 'y_val.npy')
 
-    print(f"✅ Training set: {X_train_pca.shape}")
-    print(f"✅ Validation set: {X_val_pca.shape}")
-    print(f"✅ Test set: {X_test_pca.shape}")
-    print(f"✅ Componenti PCA: {X_train_pca.shape[1]}")
-
     return X_train_pca, X_val_pca, X_test_pca, y_train, y_val, y_test
 
 def create_ensemble_model(models):
-    """Crea il modello ensemble con soft voting"""
-    print("\n🔧 CREAZIONE MODELLO ENSEMBLE")
-    print("="*32)
 
     # Crea lista di modelli per VotingClassifier
     estimators = [
@@ -95,21 +72,15 @@ def create_ensemble_model(models):
         voting='soft'  # Usa le probabilità per il voting
     )
 
-    print("✅ Ensemble creato con soft voting")
-    print(f"   Modelli: {len(estimators)}")
-    print(f"   Voting: soft (probabilità)")
-
     return ensemble
 
 def evaluate_individual_models(models, X_test, y_test):
-    """Valuta le performance dei modelli individuali"""
-    print("\n📊 VALUTAZIONE MODELLI INDIVIDUALI")
-    print("="*38)
+
 
     individual_results = {}
 
     for name, model in models.items():
-        print(f"\n🔍 Valutando {name}...")
+        print(f"\nValutando {name}...")
 
         # Predizioni
         y_pred = model.predict(X_test)
@@ -143,14 +114,9 @@ def evaluate_individual_models(models, X_test, y_test):
     return individual_results
 
 def evaluate_ensemble_model(ensemble, X_train, X_test, y_train, y_test):
-    """Addestra e valuta il modello ensemble"""
-    print("\n🎯 ADDESTRAMENTO E VALUTAZIONE ENSEMBLE")
-    print("="*42)
 
-    print("🔧 Addestrando ensemble su training set...")
     ensemble.fit(X_train, y_train)
 
-    print("📊 Valutando ensemble su test set...")
 
     # Predizioni ensemble
     y_pred_ensemble = ensemble.predict(X_test)
@@ -173,7 +139,7 @@ def evaluate_ensemble_model(ensemble, X_train, X_test, y_train, y_test):
         'probabilities': y_pred_proba_ensemble
     }
 
-    print(f"\n🏆 RISULTATI ENSEMBLE:")
+    print(f"\nENSEMBLE:")
     print(f"   Accuracy: {accuracy:.4f}")
     print(f"   Precision: {precision:.4f}")
     print(f"   Recall: {recall:.4f}")
@@ -183,9 +149,6 @@ def evaluate_ensemble_model(ensemble, X_train, X_test, y_train, y_test):
     return ensemble, ensemble_results
 
 def create_ensemble_visualizations(individual_results, ensemble_results, y_test):
-    """Crea visualizzazioni per confrontare ensemble vs modelli individuali"""
-    print("\n📊 GENERAZIONE VISUALIZZAZIONI")
-    print("="*32)
 
     # 1. Confronto metriche
     fig, axes = plt.subplots(2, 2, figsize=(15, 12))
@@ -286,15 +249,7 @@ def create_ensemble_visualizations(individual_results, ensemble_results, y_test)
     plt.savefig('./ensemble_roc_comparison.png', dpi=300, bbox_inches='tight')
     plt.close()
 
-    print("✅ Visualizzazioni create:")
-    print("   - ./ensemble_metrics_comparison.png")
-    print("   - ./ensemble_confusion_matrix.png")
-    print("   - ./ensemble_roc_comparison.png")
-
 def save_ensemble_results(ensemble, individual_results, ensemble_results):
-    """Salva il modello ensemble e i risultati"""
-    print("\n💾 SALVATAGGIO RISULTATI")
-    print("="*25)
 
     # Salva modello ensemble
     with open('Ensemble/ensemble_model.pkl', 'wb') as f:
@@ -346,55 +301,12 @@ def save_ensemble_results(ensemble, individual_results, ensemble_results):
     metrics_df = pd.DataFrame(metrics_data)
     metrics_df.to_csv('./ensemble_metrics_comparison.csv', index=False)
 
-    print("✅ Risultati salvati:")
-    print("   - ./ensemble_model.pkl")
-    print("   - ./ensemble_results.json")
-    print("   - ./ensemble_metrics_comparison.csv")
-
-def analyze_ensemble_improvements(individual_results, ensemble_results):
-    """Analizza i miglioramenti dell'ensemble"""
-    print("\n🔍 ANALISI MIGLIORAMENTI ENSEMBLE")
-    print("="*35)
-
-    # Trova il migliore modello individuale per ogni metrica
-    metrics = ['accuracy', 'precision', 'recall', 'f1_score', 'roc_auc']
-
-    improvements = {}
-
-    for metric in metrics:
-        individual_values = [individual_results[name][metric] for name in individual_results.keys()]
-        best_individual = max(individual_values)
-        ensemble_value = ensemble_results[metric]
-
-        improvement = ensemble_value - best_individual
-        improvement_pct = (improvement / best_individual) * 100
-
-        improvements[metric] = {
-            'best_individual': best_individual,
-            'ensemble': ensemble_value,
-            'improvement': improvement,
-            'improvement_pct': improvement_pct
-        }
-
-        status = "🟢 Miglioramento" if improvement > 0 else "🔴 Peggioramento" if improvement < 0 else "🟡 Pari"
-
-        print(f"{metric.upper()}:")
-        print(f"   Migliore individuale: {best_individual:.4f}")
-        print(f"   Ensemble: {ensemble_value:.4f}")
-        print(f"   Differenza: {improvement:+.4f} ({improvement_pct:+.2f}%) {status}")
-        print()
-
-    return improvements
-
 def main():
-    """Funzione principale per l'ensemble"""
-    print("🚀 ENSEMBLE MODEL - RANDOMFOREST + LIGHTGBM + XGBOOST")
-    print("="*55)
 
     # Carica modelli individuali
     models = load_individual_models()
     if models is None:
-        print("❌ Impossibile caricare tutti i modelli")
+        print("Impossibile caricare tutti i modelli")
         return
 
     # Carica dati PCA
@@ -418,29 +330,6 @@ def main():
     # Salva risultati
     save_ensemble_results(ensemble_fitted, individual_results, ensemble_results)
 
-    # Riassunto finale
-    print("\n" + "="*55)
-    print("RIASSUNTO ENSEMBLE MODEL")
-    print("="*55)
-    print()
-    print("🔧 CONFIGURAZIONE:")
-    print("   Modelli: RandomForest + LightGBM + XGBoost")
-    print("   Voting: Soft (probabilità)")
-    print("   Dataset: PCA (18 componenti)")
-    print()
-    print("🏆 PERFORMANCE ENSEMBLE:")
-    print(f"   Accuracy: {ensemble_results['accuracy']:.4f}")
-    print(f"   Precision: {ensemble_results['precision']:.4f}")
-    print(f"   Recall: {ensemble_results['recall']:.4f}")
-    print(f"   F1-Score: {ensemble_results['f1_score']:.4f}")
-    print(f"   ROC-AUC: {ensemble_results['roc_auc']:.4f}")
-    print()
-    print("📊 MIGLIORAMENTI:")
-    for metric, imp in improvements.items():
-        status = "🟢" if imp['improvement'] > 0 else "🔴" if imp['improvement'] < 0 else "🟡"
-        print(f"   {metric.upper()}: {imp['improvement']:+.4f} ({imp['improvement_pct']:+.2f}%) {status}")
-    print()
-    print("✅ ENSEMBLE COMPLETATO!")
 
 if __name__ == "__main__":
     main()
