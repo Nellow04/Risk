@@ -1,0 +1,36 @@
+{
+    "model_type": "Random Forest",
+    "dataset_type": "PCA",
+    "timestamp": "2025-07-25T15:31:17.715078",
+    "n_components": 18,
+    "n_samples_analyzed": 111,
+    "analysis_results": {
+        "top_components": [
+            [
+                "PC8",
+                0.11969588971344187
+            ],
+            [
+                "PC9",
+                0.10004322899789003
+            ],
+            [
+                "PC10",
+                0.04265695674762181
+            ],
+            [
+                "PC2",
+                0.03979179989138013
+            ],
+            [
+                "PC12",
+                0.035542821673678976
+            ]
+        ],
+        "total_importance": 0.5180104084470302,
+        "top_5_percentage": 65.19766620839007,
+        "mean_importance": 0.02877835602483501,
+        "std_importance": 0.031159163489912347
+    },
+    "shap_method": "TreeExplainer"
+}

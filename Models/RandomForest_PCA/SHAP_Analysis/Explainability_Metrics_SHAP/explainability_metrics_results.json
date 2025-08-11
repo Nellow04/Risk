@@ -1,0 +1,65 @@
+{
+    "timestamp": "2025-07-25T15:33:47.211622",
+    "model_type": "Random Forest",
+    "dataset_type": "PCA",
+    "explainability_method": "SHAP TreeExplainer",
+    "metrics": {
+        "fidelity": {
+            "fidelity_score": 0.9069669798505826,
+            "accuracy_agreement": 0.9099099099099099,
+            "probability_correlation": 1.0,
+            "mean_prob_diff": 0.09597595020874482
+        },
+        "faithfulness": {
+            "faithfulness_score": 0.8017183810540695,
+            "faithfulness_per_iteration": [
+                0.9843190257213703,
+                0.9790464676411914,
+                0.9620129620161312,
+                0.957578012822732,
+                0.9920634224526288,
+                0.9913499826583091,
+                0.9445888116195982,
+                0.8914046744233567,
+                0.8662398185038803,
+                0.8191673166927717,
+                0.767772606753801,
+                0.7346691269480932,
+                0.6607896167252435,
+                0.6450476370952674,
+                0.6106418377502727,
+                0.5614557862344982,
+                0.5370311477489669,
+                0.525752605165136
+            ],
+            "iterations_tested": 18
+        },
+        "sparsity": {
+            "sparsity_score": 0.27477477477477474,
+            "mean_significant_features": 13.054054054054054,
+            "total_features": 18,
+            "sparsity_ratio": 0.7252252252252253,
+            "threshold": 0.01
+        },
+        "stability": {
+            "stability_score": 0.9934635639794486,
+            "stability_per_noise_level": {
+                "0.01": 0.9956935988717694,
+                "0.02": 0.9949506286164095,
+                "0.05": 0.9897464644501668
+            },
+            "noise_levels_tested": [
+                0.01,
+                0.02,
+                0.05
+            ],
+            "iterations_per_level": 10
+        },
+        "consistency": {
+            "consistency_score": 0.9107507377527453,
+            "valid_comparisons": 27,
+            "similarity_threshold": 0.1,
+            "samples_analyzed": 50
+        }
+    }
+}
