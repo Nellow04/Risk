@@ -1,0 +1,46 @@
+{
+    "timestamp": "2025-07-25T16:09:30.320140",
+    "model_type": "Random Forest",
+    "dataset_type": "PCA",
+    "explainability_method": "Anchors Tabular",
+    "metrics_focus": "Rule-based explanations quality and consistency",
+    "metrics": {
+        "fidelity": {
+            "fidelity_score": 1.0,
+            "weighted_fidelity": 0.9701183994371769,
+            "avg_precision": 0.9762433684811193,
+            "avg_coverage": 0.055965,
+            "precision_boost": 0.0881216842405596,
+            "rules_analyzed": 20
+        },
+        "faithfulness": {
+            "faithfulness_score": 0.7336881728060838,
+            "spearman_correlation": 0.5148742198587642,
+            "kendall_correlation": 0.39612953424227293,
+            "removal_impact": 1.0,
+            "important_features_count": 9
+        },
+        "sparsity": {
+            "sparsity_score": 0.8416666666666667,
+            "mean_rule_length": 2.85,
+            "total_features": 18,
+            "sparsity_ratio": 0.15833333333333333,
+            "rules_analyzed": 20
+        },
+        "stability": {
+            "stability_score": 0.8,
+            "note": "Riusato valore precedente per performance",
+            "previous_quality": "Excellent"
+        },
+        "consistency": {
+            "consistency_score": 0.6676954864199616,
+            "base_consistency": 0.5676954864199616,
+            "balance_bonus": 0.1,
+            "valid_comparisons": 2,
+            "class_distribution": {
+                "0": 10,
+                "1": 10
+            }
+        }
+    }
+}

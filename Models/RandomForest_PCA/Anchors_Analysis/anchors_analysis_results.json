@@ -1,0 +1,84 @@
+{
+    "model_type": "Random Forest",
+    "dataset_type": "PCA",
+    "timestamp": "2025-07-25T15:53:47.068354",
+    "explainability_method": "Anchors",
+    "n_explanations_generated": 20,
+    "n_components": 18,
+    "statistics": {
+        "avg_precision": 0.9762433684811193,
+        "avg_coverage": 0.055965,
+        "std_precision": 0.014780065824594651,
+        "std_coverage": 0.027790632864330384,
+        "max_precision": 1.0,
+        "min_precision": 0.9543080939947781,
+        "max_coverage": 0.0951,
+        "min_coverage": 0.016
+    },
+    "rules_by_class": {
+        "alto_rischio": 10,
+        "basso_rischio": 10
+    },
+    "top_features": [
+        {
+            "component": "PC8",
+            "frequency": 20,
+            "percentage": 100.0,
+            "rank": 1
+        },
+        {
+            "component": "PC9",
+            "frequency": 19,
+            "percentage": 95.0,
+            "rank": 2
+        },
+        {
+            "component": "PC1",
+            "frequency": 11,
+            "percentage": 55.00000000000001,
+            "rank": 3
+        },
+        {
+            "component": "PC2",
+            "frequency": 5,
+            "percentage": 25.0,
+            "rank": 4
+        },
+        {
+            "component": "PC5",
+            "frequency": 2,
+            "percentage": 10.0,
+            "rank": 5
+        },
+        {
+            "component": "PC3",
+            "frequency": 0,
+            "percentage": 0.0,
+            "rank": 6
+        },
+        {
+            "component": "PC4",
+            "frequency": 0,
+            "percentage": 0.0,
+            "rank": 7
+        },
+        {
+            "component": "PC6",
+            "frequency": 0,
+            "percentage": 0.0,
+            "rank": 8
+        },
+        {
+            "component": "PC7",
+            "frequency": 0,
+            "percentage": 0.0,
+            "rank": 9
+        },
+        {
+            "component": "PC10",
+            "frequency": 0,
+            "percentage": 0.0,
+            "rank": 10
+        }
+    ]
+}

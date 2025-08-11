@@ -1,0 +1,239 @@
+[
+    {
+        "sample_idx": 0,
+        "anchor_rule": [
+            "PC8 <= -0.39",
+            "PC9 <= -0.51"
+        ],
+        "precision": 0.9679144385026738,
+        "coverage": 0.0931,
+        "prediction": "1",
+        "prediction_proba": "[0.09645376 0.90354624]"
+    },
+    {
+        "sample_idx": 1,
+        "anchor_rule": [
+            "PC8 <= -0.39",
+            "PC9 <= -0.51"
+        ],
+        "precision": 0.9695571955719557,
+        "coverage": 0.0874,
+        "prediction": "1",
+        "prediction_proba": "[0.09351538 0.90648462]"
+    },
+    {
+        "sample_idx": 2,
+        "anchor_rule": [
+            "PC8 <= -0.39",
+            "PC9 <= -0.51"
+        ],
+        "precision": 0.9569990850869168,
+        "coverage": 0.0916,
+        "prediction": "1",
+        "prediction_proba": "[0.08451338 0.91548662]"
+    },
+    {
+        "sample_idx": 3,
+        "anchor_rule": [
+            "PC8 <= -0.39",
+            "PC2 <= -0.75",
+            "PC13 <= -0.49"
+        ],
+        "precision": 0.9938271604938271,
+        "coverage": 0.0246,
+        "prediction": "1",
+        "prediction_proba": "[0.08344821 0.91655179]"
+    },
+    {
+        "sample_idx": 4,
+        "anchor_rule": [
+            "PC8 <= -0.39",
+            "PC9 <= -0.51"
+        ],
+        "precision": 0.9667832167832168,
+        "coverage": 0.0951,
+        "prediction": "1",
+        "prediction_proba": "[0.07678095 0.92321905]"
+    },
+    {
+        "sample_idx": 5,
+        "anchor_rule": [
+            "PC8 <= -0.39",
+            "PC9 <= -0.51"
+        ],
+        "precision": 0.9566184649610678,
+        "coverage": 0.089,
+        "prediction": "1",
+        "prediction_proba": "[0.07456306 0.92543694]"
+    },
+    {
+        "sample_idx": 6,
+        "anchor_rule": [
+            "PC8 <= -0.39",
+            "PC2 <= -0.75",
+            "PC9 <= 0.06"
+        ],
+        "precision": 0.9916666666666667,
+        "coverage": 0.0523,
+        "prediction": "1",
+        "prediction_proba": "[0.0741997 0.9258003]"
+    },
+    {
+        "sample_idx": 7,
+        "anchor_rule": [
+            "PC8 <= -0.39",
+            "PC10 <= -0.43",
+            "PC9 <= 0.06"
+        ],
+        "precision": 0.9829545454545454,
+        "coverage": 0.0413,
+        "prediction": "1",
+        "prediction_proba": "[0.07195412 0.92804588]"
+    },
+    {
+        "sample_idx": 8,
+        "anchor_rule": [
+            "PC8 <= -0.39",
+            "PC9 <= -0.51"
+        ],
+        "precision": 0.9632139399806389,
+        "coverage": 0.0891,
+        "prediction": "1",
+        "prediction_proba": "[0.06234095 0.93765905]"
+    },
+    {
+        "sample_idx": 9,
+        "anchor_rule": [
+            "PC8 <= -0.39",
+            "PC9 <= -0.51"
+        ],
+        "precision": 0.9631255487269534,
+        "coverage": 0.0867,
+        "prediction": "1",
+        "prediction_proba": "[0.05975921 0.94024079]"
+    },
+    {
+        "sample_idx": 10,
+        "anchor_rule": [
+            "PC8 > 0.73",
+            "PC9 > 0.73",
+            "PC10 > 0.54"
+        ],
+        "precision": 0.9699140401146131,
+        "coverage": 0.0377,
+        "prediction": "0",
+        "prediction_proba": "[0.97484255 0.02515745]"
+    },
+    {
+        "sample_idx": 11,
+        "anchor_rule": [
+            "PC8 > 0.73",
+            "PC9 > 0.73",
+            "PC10 > 0.54"
+        ],
+        "precision": 0.987603305785124,
+        "coverage": 0.0391,
+        "prediction": "0",
+        "prediction_proba": "[0.96044385 0.03955615]"
+    },
+    {
+        "sample_idx": 12,
+        "anchor_rule": [
+            "PC8 > 0.73",
+            "PC9 > 0.73",
+            "PC10 > 0.54"
+        ],
+        "precision": 0.9828897338403042,
+        "coverage": 0.0417,
+        "prediction": "0",
+        "prediction_proba": "[0.95761437 0.04238563]"
+    },
+    {
+        "sample_idx": 13,
+        "anchor_rule": [
+            "PC8 > 0.73",
+            "PC9 > 0.73",
+            "PC2 > 0.25",
+            "PC15 <= -0.50"
+        ],
+        "precision": 1.0,
+        "coverage": 0.016,
+        "prediction": "0",
+        "prediction_proba": "[0.94683084 0.05316916]"
+    },
+    {
+        "sample_idx": 14,
+        "anchor_rule": [
+            "PC8 > 0.73",
+            "PC9 > 0.73",
+            "PC10 > 0.54"
+        ],
+        "precision": 0.972027972027972,
+        "coverage": 0.0443,
+        "prediction": "0",
+        "prediction_proba": "[0.93214229 0.06785771]"
+    },
+    {
+        "sample_idx": 15,
+        "anchor_rule": [
+            "PC8 > 0.73",
+            "PC9 > 0.73",
+            "PC10 > 0.54"
+        ],
+        "precision": 0.9775280898876404,
+        "coverage": 0.0389,
+        "prediction": "0",
+        "prediction_proba": "[0.92393788 0.07606212]"
+    },
+    {
+        "sample_idx": 16,
+        "anchor_rule": [
+            "PC8 > 0.73",
+            "PC9 > 0.73",
+            "PC5 > -0.04",
+            "PC13 > 0.09"
+        ],
+        "precision": 1.0,
+        "coverage": 0.017,
+        "prediction": "0",
+        "prediction_proba": "[0.91963611 0.08036389]"
+    },
+    {
+        "sample_idx": 17,
+        "anchor_rule": [
+            "PC8 > 0.17",
+            "PC9 > 0.73",
+            "PC2 > 1.16",
+            "PC18 <= -0.39"
+        ],
+        "precision": 1.0,
+        "coverage": 0.0174,
+        "prediction": "0",
+        "prediction_proba": "[0.9142107 0.0857893]"
+    },
+    {
+        "sample_idx": 18,
+        "anchor_rule": [
+            "PC8 > 0.17",
+            "PC2 > 1.16",
+            "PC9 > 0.06"
+        ],
+        "precision": 0.9543080939947781,
+        "coverage": 0.0643,
+        "prediction": "0",
+        "prediction_proba": "[0.88731098 0.11268902]"
+    },
+    {
+        "sample_idx": 19,
+        "anchor_rule": [
+            "PC8 > 0.17",
+            "PC9 > -0.51",
+            "PC5 > 0.67",
+            "PC10 > 0.02"
+        ],
+        "precision": 0.9679358717434869,
+        "coverage": 0.0527,
+        "prediction": "0",
+        "prediction_proba": "[0.86112381 0.13887619]"
+    }
+]
