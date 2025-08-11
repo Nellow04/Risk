@@ -1,0 +1,1758 @@
+Patient_ID,Code,Description
+LIB193263,272.4,Other and unspecified hyperlipidemia
+LIB193264,354.0,Carpal tunnel syndrome
+LIB193264,574.00,"Calculus of gallbladder with acute cholecystitis, without mention of obstruction"
+LIB193264,719.41,"Pain in joint, shoulder region"
+LIB193266,253.5,Diabetes insipidus
+LIB193266,372.14,Other chronic allergic conjunctivitis
+LIB193267,995.27,Other drug allergy
+LIB193269,788.3,"Urinary incontinence, unspecified"
+LIB193272,250.51,"Diabetes with ophthalmic manifestations, type I [juvenile type], not stated as uncontrolled"
+LIB193272,300.02,Generalized anxiety disorder
+LIB193273,472.0,Chronic rhinitis
+LIB193273,477.0,Allergic rhinitis due to pollen
+LIB193273,493.9,"Asthma, unspecified type, unspecified"
+LIB193274,244.8,Other specified acquired hypothyroidism
+LIB193274,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193274,354.0,Carpal tunnel syndrome
+LIB193274,365.04,Ocular hypertension
+LIB193276,244.9,Unspecified acquired hypothyroidism
+LIB193276,272.4,Other and unspecified hyperlipidemia
+LIB193276,362.9,Unspecified retinal disorder
+LIB193276,401.9,Unspecified essential hypertension
+LIB193276,562.1,Diverticulosis of colon (without mention of hemorrhage)
+LIB193276,812.44,Closed fracture of unspecified condyle(s) of humerus
+LIB193276,V58.61,Long-term (current) use of anticoagulants
+LIB193277,459.81,"Venous (peripheral) insufficiency, unspecified"
+LIB193277,V24.2,Routine postpartum follow-up
+LIB193277,V67.00,"Follow-up examination, following surgery, unspecified"
+LIB193278,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193278,250.8,"Diabetes with other specified manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193278,272.2,Mixed hyperlipidemia
+LIB193278,278.01,Morbid obesity
+LIB193278,300.4,Dysthymic disorder
+LIB193278,634.9,"Spontaneous abortion, without mention of complication, unspecified"
+LIB193278,V49.70,Unspecified level lower limb amputation status
+LIB193279,362.01,Background diabetic retinopathy
+LIB193279,472.1,Chronic pharyngitis
+LIB193279,787.91,Diarrhea
+LIB193280,280.9,"Iron deficiency anemia, unspecified"
+LIB193281,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193281,362.01,Background diabetic retinopathy
+LIB193281,728.6,Contracture of palmar fascia
+LIB193282,387.9,"Otosclerosis, unspecified"
+LIB193283,250.4,"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193283,250.51,"Diabetes with ophthalmic manifestations, type I [juvenile type], not stated as uncontrolled"
+LIB193283,289.9,Unspecified diseases of blood and blood-forming organs
+LIB193283,305.1,Tobacco use disorder
+LIB193284,459.81,"Venous (peripheral) insufficiency, unspecified"
+LIB193284,477.9,"Allergic rhinitis, cause unspecified"
+LIB193302,215.9,"Other benign neoplasm of connective and other soft tissue, site unspecified"
+LIB193302,218.9,"Leiomyoma of uterus, unspecified"
+LIB193302,220,Benign neoplasm of ovary
+LIB193302,272.4,Other and unspecified hyperlipidemia
+LIB193302,493.9,"Asthma, unspecified type, unspecified"
+LIB193302,617.9,"Endometriosis, site unspecified"
+LIB193302,620.2,Other and unspecified ovarian cyst
+LIB193302,784.0,Headache
+LIB193302,V25.2,Sterilization
+LIB193303,244.9,Unspecified acquired hypothyroidism
+LIB193303,300.00,"Anxiety state, unspecified"
+LIB193307,244.9,Unspecified acquired hypothyroidism
+LIB193307,365.04,Ocular hypertension
+LIB193307,416.0,Primary pulmonary hypertension
+LIB193307,443.0,Raynaud's syndrome
+LIB193307,592.0,Calculus of kidney
+LIB193307,701.0,Circumscribed scleroderma
+LIB193307,719.41,"Pain in joint, shoulder region"
+LIB193307,726.12,Bicipital tenosynovitis
+LIB193307,732.9,Unspecified osteochondropathy
+LIB193307,79.82,SARS-associated coronavirus
+LIB193307,813.81,Closed fracture of unspecified part of radius (alone)
+LIB193309,493.00,"Extrinsic asthma, unspecified"
+LIB193310,648.83,"Abnormal glucose tolerance of mother, antepartum condition or complication"
+LIB193310,737.3,"Scoliosis [and kyphoscoliosis], idiopathic"
+LIB193311,009.0,"Infectious colitis, enteritis, and gastroenteritis"
+LIB193312,300.00,"Anxiety state, unspecified"
+LIB193312,493.00,"Extrinsic asthma, unspecified"
+LIB193313,278.00,"Obesity, unspecified"
+LIB193313,555.9,Regional enteritis of unspecified site
+LIB193314,256.4,Polycystic ovaries
+LIB193314,686.9,Unspecified local infection of skin and subcutaneous tissue
+LIB193315,493.9,"Asthma, unspecified type, unspecified"
+LIB193315,726.9,Enthesopathy of unspecified site
+LIB193317,244.9,Unspecified acquired hypothyroidism
+LIB193317,492.8,Other emphysema
+LIB193317,496,"Chronic airway obstruction, not elsewhere classified"
+LIB193317,577.0,Acute pancreatitis
+LIB193318,300.00,"Anxiety state, unspecified"
+LIB193318,305.1,Tobacco use disorder
+LIB193319,194.8,Malignant neoplasm of other endocrine glands and related structures
+LIB193319,251.2,"Hypoglycemia, unspecified"
+LIB193319,435.3,Vertebrobasilar artery syndrome
+LIB193319,435.9,Unspecified transient cerebral ischemia
+LIB193319,627.3,Postmenopausal atrophic vaginitis
+LIB193319,785.6,Enlargement of lymph nodes
+LIB193319,V67.9,Unspecified follow-up examination
+LIB193330,250.51,"Diabetes with ophthalmic manifestations, type I [juvenile type], not stated as uncontrolled"
+LIB193330,401.9,Unspecified essential hypertension
+LIB193334,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193334,V25.2,Sterilization
+LIB193335,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193335,250.9,"Diabetes with unspecified complication, type II or unspecified type, not stated as uncontrolled"
+LIB193335,370.00,"Corneal ulcer, unspecified"
+LIB193335,790.4,Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH]
+LIB193338,625.3,Dysmenorrhea
+LIB193338,737.3,"Scoliosis [and kyphoscoliosis], idiopathic"
+LIB193341,389.9,Unspecified hearing loss
+LIB193341,V15.82,Personal history of tobacco use
+LIB193344,242.9,"Thyrotoxicosis without mention of goiter or other cause, and without mention of thyrotoxic crisis or storm"
+LIB193344,253.5,Diabetes insipidus
+LIB193344,424.0,Mitral valve disorders
+LIB193344,592.1,Calculus of ureter
+LIB193345,579.0,Celiac disease
+LIB193345,780.52,"Insomnia, unspecified"
+LIB193345,82.41,Ehrlichiosis chafeensis [E. chafeensis]
+LIB193346,272.2,Mixed hyperlipidemia
+LIB193346,272.4,Other and unspecified hyperlipidemia
+LIB193346,401.1,Benign essential hypertension
+LIB193346,451.9,Phlebitis and thrombophlebitis of unspecified site
+LIB193346,571.3,"Alcoholic liver damage, unspecified"
+LIB193346,571.8,Other chronic nonalcoholic liver disease
+LIB193346,577.0,Acute pancreatitis
+LIB193346,724.3,Sciatica
+LIB193346,786.5,"Chest pain, unspecified"
+LIB193346,790.6,Other abnormal blood chemistry
+LIB193347,250.6,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193347,250.9,"Diabetes with unspecified complication, type II or unspecified type, not stated as uncontrolled"
+LIB193347,278.00,"Obesity, unspecified"
+LIB193347,362.01,Background diabetic retinopathy
+LIB193347,401.9,Unspecified essential hypertension
+LIB193347,410.9,"Acute myocardial infarction of unspecified site, episode of care unspecified"
+LIB193349,346.9,"Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus"
+LIB193349,401.9,Unspecified essential hypertension
+LIB193349,726.19,Other specified disorders of bursae and tendons in shoulder region
+LIB193349,784.0,Headache
+LIB193349,812.2,Closed fracture of unspecified part of humerus
+LIB193350,215.9,"Other benign neoplasm of connective and other soft tissue, site unspecified"
+LIB193350,244.9,Unspecified acquired hypothyroidism
+LIB193350,285.9,"Anemia, unspecified"
+LIB193350,709.01,Vitiligo
+LIB193351,272.4,Other and unspecified hyperlipidemia
+LIB193351,550.9,"Inguinal hernia, without mention of obstruction or gangrene, unilateral or unspecified (not specified as recurrent)"
+LIB193351,738.4,Acquired spondylolisthesis
+LIB193352,272.4,Other and unspecified hyperlipidemia
+LIB193352,715.34,"Osteoarthrosis, localized, not specified whether primary or secondary, hand"
+LIB193352,726.2,"Other affections of shoulder region, not elsewhere classified"
+LIB193352,780.57,Unspecified sleep apnea
+LIB193353,363.7,"Choroidal detachment, unspecified"
+LIB193354,242.9,"Thyrotoxicosis without mention of goiter or other cause, and without mention of thyrotoxic crisis or storm"
+LIB193354,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193354,556.9,"Ulcerative colitis, unspecified"
+LIB193356,244.9,Unspecified acquired hypothyroidism
+LIB193358,157.9,"Malignant neoplasm of pancreas, part unspecified"
+LIB193358,197.7,"Malignant neoplasm of liver, secondary"
+LIB193358,215.9,"Other benign neoplasm of connective and other soft tissue, site unspecified"
+LIB193358,244.9,Unspecified acquired hypothyroidism
+LIB193358,41.86,Helicobacter pylori [H. pylori]
+LIB193358,474.9,Unspecified chronic disease of tonsils and adenoids
+LIB193358,477.9,"Allergic rhinitis, cause unspecified"
+LIB193358,493.00,"Extrinsic asthma, unspecified"
+LIB193358,518.89,"Other diseases of lung, not elsewhere classified"
+LIB193358,696.0,Psoriatic arthropathy
+LIB193358,V15.0,"Allergy, other than to medicinal agents"
+LIB193361,244.9,Unspecified acquired hypothyroidism
+LIB193361,726.1,"Disorders of bursae and tendons in shoulder region, unspecified"
+LIB193361,790.6,Other abnormal blood chemistry
+LIB193361,792.1,Nonspecific abnormal findings in stool contents
+LIB193365,239.4,Neoplasm of unspecified nature of bladder
+LIB193365,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193365,356.9,Unspecified hereditary and idiopathic peripheral neuropathy
+LIB193365,428.9,"Heart failure, unspecified"
+LIB193366,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193366,250.6,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193366,272.4,Other and unspecified hyperlipidemia
+LIB193366,401.9,Unspecified essential hypertension
+LIB193366,600.00,Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS)
+LIB193367,272.4,Other and unspecified hyperlipidemia
+LIB193367,362.9,Unspecified retinal disorder
+LIB193367,535.1,"Atrophic gastritis, without mention of hemorrhage"
+LIB193367,553.3,Diaphragmatic hernia without mention of obstruction or gangrene
+LIB193368,244.9,Unspecified acquired hypothyroidism
+LIB193368,401.9,Unspecified essential hypertension
+LIB193369,250.4,"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193369,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193369,250.73,"Diabetes with peripheral circulatory disorders, type I [juvenile type], uncontrolled"
+LIB193369,433.3,Occlusion and stenosis of multiple and bilateral precerebral arteries without mention of cerebral infarction
+LIB193369,459.9,Unspecified circulatory system disorder
+LIB193369,496,"Chronic airway obstruction, not elsewhere classified"
+LIB193370,250.4,"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193370,401.9,Unspecified essential hypertension
+LIB193370,403.9,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"
+LIB193370,428.9,"Heart failure, unspecified"
+LIB193370,496,"Chronic airway obstruction, not elsewhere classified"
+LIB193370,715.36,"Osteoarthrosis, localized, not specified whether primary or secondary, lower leg"
+LIB193370,719.55,"Stiffness of joint, not elsewhere classified, pelvic region and thigh"
+LIB193370,727.51,Synovial cyst of popliteal space
+LIB193371,244.9,Unspecified acquired hypothyroidism
+LIB193371,244.9,Unspecified acquired hypothyroidism
+LIB193372,162.9,"Malignant neoplasm of bronchus and lung, unspecified"
+LIB193372,199.1,Other malignant neoplasm without specification of site
+LIB193372,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193372,272.0,Pure hypercholesterolemia
+LIB193372,272.4,Other and unspecified hyperlipidemia
+LIB193372,275.0,Disorders of iron metabolism
+LIB193372,366.9,Unspecified cataract
+LIB193372,447.9,Unspecified disorders of arteries and arterioles
+LIB193372,574.01,"Calculus of gallbladder with acute cholecystitis, with obstruction"
+LIB193372,574.31,"Calculus of bile duct with acute cholecystitis, with obstruction"
+LIB193372,733.00,"Osteoporosis, unspecified"
+LIB193372,813.41,Closed Colles' fracture
+LIB193375,250.4,"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193375,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193375,272.4,Other and unspecified hyperlipidemia
+LIB193375,366.9,Unspecified cataract
+LIB193375,586,"Renal failure, unspecified"
+LIB193375,701.0,Circumscribed scleroderma
+LIB193375,V68.1,Issue of repeat prescriptions
+LIB193376,250.4,"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193376,250.7,"Diabetes with peripheral circulatory disorders, type II or unspecified type, not stated as uncontrolled"
+LIB193376,305.1,Tobacco use disorder
+LIB193376,355.9,Mononeuritis of unspecified site
+LIB193376,401.9,Unspecified essential hypertension
+LIB193376,438.0,"Late effects of cerebrovascular disease, cognitive deficits"
+LIB193376,440.21,Atherosclerosis of native arteries of the extremities with intermittent claudication
+LIB193376,459.9,Unspecified circulatory system disorder
+LIB193376,530.2,Ulcer of esophagus without bleeding
+LIB193376,530.81,Esophageal reflux
+LIB193376,531.3,"Acute gastric ulcer without mention of hemorrhage or perforation, without mention of obstruction"
+LIB193376,532.3,"Acute duodenal ulcer without mention of hemorrhage or perforation, without mention of obstruction"
+LIB193376,703.8,Other specified diseases of nail
+LIB193377,244.0,Postsurgical hypothyroidism
+LIB193377,250.41,"Diabetes with renal manifestations, type I [juvenile type], not stated as uncontrolled"
+LIB193377,250.51,"Diabetes with ophthalmic manifestations, type I [juvenile type], not stated as uncontrolled"
+LIB193377,369.22,Better eye: severe vision impairment; lesser eye: severe vision impairment
+LIB193377,401.1,Benign essential hypertension
+LIB193377,600.00,Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS)
+LIB193377,600.00,Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS)
+LIB193377,820.21,Closed fracture of intertrochanteric section of neck of femur
+LIB193378,244.9,Unspecified acquired hypothyroidism
+LIB193378,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193378,585.3,"Chronic kidney disease, Stage III (moderate)"
+LIB193378,592.0,Calculus of kidney
+LIB193379,244.9,Unspecified acquired hypothyroidism
+LIB193379,574.1,"Calculus of gallbladder with other cholecystitis, without mention of obstruction"
+LIB193379,715.34,"Osteoarthrosis, localized, not specified whether primary or secondary, hand"
+LIB193379,715.35,"Osteoarthrosis, localized, not specified whether primary or secondary, pelvic region and thigh"
+LIB193379,733.00,"Osteoporosis, unspecified"
+LIB193379,737.3,"Scoliosis [and kyphoscoliosis], idiopathic"
+LIB193380,275.0,Disorders of iron metabolism
+LIB193380,275.01,Hereditary hemochromatosis
+LIB193380,275.1,Disorders of copper metabolism
+LIB193380,356.9,Unspecified hereditary and idiopathic peripheral neuropathy
+LIB193380,356.9,Unspecified hereditary and idiopathic peripheral neuropathy
+LIB193380,362.5,"Macular degeneration (senile), unspecified"
+LIB193380,362.57,Drusen (degenerative)
+LIB193380,377.1,"Optic atrophy, unspecified"
+LIB193380,601.9,"Prostatitis, unspecified"
+LIB193380,709.01,Vitiligo
+LIB193380,722.0,Displacement of cervical intervertebral disc without myelopathy
+LIB193381,241.1,Nontoxic multinodular goiter
+LIB193381,244.9,Unspecified acquired hypothyroidism
+LIB193381,272.4,Other and unspecified hyperlipidemia
+LIB193381,389.1,"Sensorineural hearing loss, unspecified"
+LIB193381,389.9,Unspecified hearing loss
+LIB193381,413.9,Other and unspecified angina pectoris
+LIB193381,704.01,Alopecia areata
+LIB193381,726.9,Enthesopathy of unspecified site
+LIB193381,733.00,"Osteoporosis, unspecified"
+LIB193382,733.00,"Osteoporosis, unspecified"
+LIB193383,309.9,Unspecified adjustment reaction
+LIB193383,401.9,Unspecified essential hypertension
+LIB193383,536.8,Dyspepsia and other specified disorders of function of stomach
+LIB193383,553.3,Diaphragmatic hernia without mention of obstruction or gangrene
+LIB193383,695.1,"Erythema multiforme, unspecified"
+LIB193384,410.9,"Acute myocardial infarction of unspecified site, episode of care unspecified"
+LIB193385,726.9,Enthesopathy of unspecified site
+LIB193386,726.32,Lateral epicondylitis
+LIB193386,728.6,Contracture of palmar fascia
+LIB193389,462,Acute pharyngitis
+LIB193390,278.00,"Obesity, unspecified"
+LIB193391,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193391,250.6,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193391,410.9,"Acute myocardial infarction of unspecified site, episode of care unspecified"
+LIB193391,592.9,"Urinary calculus, unspecified"
+LIB193391,728.6,Contracture of palmar fascia
+LIB193392,79.82,SARS-associated coronavirus
+LIB193393,272.0,Pure hypercholesterolemia
+LIB193393,696.1,Other psoriasis
+LIB193395,272.4,Other and unspecified hyperlipidemia
+LIB193395,401.9,Unspecified essential hypertension
+LIB193398,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193398,250.8,"Diabetes with other specified manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193398,250.9,"Diabetes with unspecified complication, type II or unspecified type, not stated as uncontrolled"
+LIB193398,496,"Chronic airway obstruction, not elsewhere classified"
+LIB193398,728.6,Contracture of palmar fascia
+LIB193399,722.2,"Displacement of intervertebral disc, site unspecified, without myelopathy"
+LIB193399,733.00,"Osteoporosis, unspecified"
+LIB193399,V67.00,"Follow-up examination, following surgery, unspecified"
+LIB193400,250.9,"Diabetes with unspecified complication, type II or unspecified type, not stated as uncontrolled"
+LIB193400,458.9,"Hypotension, unspecified"
+LIB193400,721.0,Cervical spondylosis without myelopathy
+LIB193400,733.00,"Osteoporosis, unspecified"
+LIB193404,251.2,"Hypoglycemia, unspecified"
+LIB193404,282.4,"Thalassemia, unspecified"
+LIB193404,382.9,Unspecified otitis media
+LIB193404,389.9,Unspecified hearing loss
+LIB193404,682.0,Cellulitis and abscess of face
+LIB193404,715.89,"Osteoarthrosis involving, or with mention of more than one site, but not specified as generalized, multiple sites"
+LIB193404,721.9,"Spondylosis of unspecified site, without mention of myelopathy"
+LIB193406,250.4,"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193406,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193406,250.7,"Diabetes with peripheral circulatory disorders, type II or unspecified type, not stated as uncontrolled"
+LIB193406,250.8,"Diabetes with other specified manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193406,401.9,Unspecified essential hypertension
+LIB193406,443.9,"Peripheral vascular disease, unspecified"
+LIB193406,586,"Renal failure, unspecified"
+LIB193406,600.00,Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS)
+LIB193406,715.34,"Osteoarthrosis, localized, not specified whether primary or secondary, hand"
+LIB193406,716.59,"Unspecified polyarthropathy or polyarthritis, multiple sites"
+LIB193406,716.97,"Arthropathy, unspecified, ankle and foot"
+LIB193406,716.98,"Arthropathy, unspecified, other specified sites"
+LIB193406,788.0,Renal colic
+LIB193407,302.72,Psychosexual dysfunction with inhibited sexual excitement
+LIB193407,709.01,Vitiligo
+LIB193408,250.51,"Diabetes with ophthalmic manifestations, type I [juvenile type], not stated as uncontrolled"
+LIB193408,250.51,"Diabetes with ophthalmic manifestations, type I [juvenile type], not stated as uncontrolled"
+LIB193408,401.9,Unspecified essential hypertension
+LIB193408,709.01,Vitiligo
+LIB193410,281.9,Unspecified deficiency anemia
+LIB193410,401.9,Unspecified essential hypertension
+LIB193410,401.9,Unspecified essential hypertension
+LIB193410,459.81,"Venous (peripheral) insufficiency, unspecified"
+LIB193410,556.9,"Ulcerative colitis, unspecified"
+LIB193411,715.9,"Osteoarthrosis, unspecified whether generalized or localized, site unspecified"
+LIB193411,726.19,Other specified disorders of bursae and tendons in shoulder region
+LIB193412,41.86,Helicobacter pylori [H. pylori]
+LIB193412,564.1,Irritable bowel syndrome
+LIB193412,696.1,Other psoriasis
+LIB193414,244.9,Unspecified acquired hypothyroidism
+LIB193414,308.0,Predominant disturbance of emotions
+LIB193414,362.1,"Background retinopathy, unspecified"
+LIB193414,362.81,Retinal hemorrhage
+LIB193414,389.9,Unspecified hearing loss
+LIB193414,436,"Acute, but ill-defined, cerebrovascular disease"
+LIB193414,780.4,Dizziness and giddiness
+LIB193414,780.52,"Insomnia, unspecified"
+LIB193414,823.8,Closed fracture of unspecified part of tibia alone
+LIB193414,845.00,"Sprain of ankle, unspecified site"
+LIB193416,211.3,Benign neoplasm of colon
+LIB193416,250.4,"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193416,272.4,Other and unspecified hyperlipidemia
+LIB193416,401.9,Unspecified essential hypertension
+LIB193416,586,"Renal failure, unspecified"
+LIB193418,244.0,Postsurgical hypothyroidism
+LIB193419,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193419,362.5,"Macular degeneration (senile), unspecified"
+LIB193419,415.19,Other pulmonary embolism and infarction
+LIB193419,423.9,Unspecified disease of pericardium
+LIB193419,492.8,Other emphysema
+LIB193419,496,"Chronic airway obstruction, not elsewhere classified"
+LIB193419,714.0,Rheumatoid arthritis
+LIB193419,716.9,"Arthropathy, unspecified, site unspecified"
+LIB193419,733.01,Senile osteoporosis
+LIB193420,244.9,Unspecified acquired hypothyroidism
+LIB193420,346.9,"Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus"
+LIB193420,780.4,Dizziness and giddiness
+LIB193423,364.3,Unspecified iridocyclitis
+LIB193424,296.00,"Bipolar I disorder, single manic episode, unspecified"
+LIB193425,250.6,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193425,272.4,Other and unspecified hyperlipidemia
+LIB193425,358.00,Myasthenia gravis without (acute) exacerbation
+LIB193425,365.9,Unspecified glaucoma
+LIB193425,423.9,Unspecified disease of pericardium
+LIB193425,443.81,Peripheral angiopathy in diseases classified elsewhere
+LIB193425,534.91,"Gastrojejunal ulcer, unspecified as acute or chronic, without mention of hemorrhage or perforation, with obstruction"
+LIB193425,733.00,"Osteoporosis, unspecified"
+LIB193425,V67.00,"Follow-up examination, following surgery, unspecified"
+LIB193426,244.9,Unspecified acquired hypothyroidism
+LIB193426,272.1,Pure hyperglyceridemia
+LIB193426,493.00,"Extrinsic asthma, unspecified"
+LIB193426,698.3,Lichenification and lichen simplex chronicus
+LIB193427,244.9,Unspecified acquired hypothyroidism
+LIB193427,696.1,Other psoriasis
+LIB193428,720.0,Ankylosing spondylitis
+LIB193428,821.00,Closed fracture of unspecified part of femur
+LIB193432,179,"Malignant neoplasm of uterus, part unspecified"
+LIB193432,183.0,Malignant neoplasm of ovary
+LIB193432,215.9,"Other benign neoplasm of connective and other soft tissue, site unspecified"
+LIB193432,244.9,Unspecified acquired hypothyroidism
+LIB193432,726.0,Adhesive capsulitis of shoulder
+LIB193434,272.4,Other and unspecified hyperlipidemia
+LIB193434,366.9,Unspecified cataract
+LIB193434,724.2,Lumbago
+LIB193434,V42.0,Kidney replaced by transplant
+LIB193435,244.9,Unspecified acquired hypothyroidism
+LIB193435,250.4,"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193435,362.01,Background diabetic retinopathy
+LIB193435,362.29,Other nondiabetic proliferative retinopathy
+LIB193435,471.9,Unspecified nasal polyp
+LIB193435,714.0,Rheumatoid arthritis
+LIB193435,716.94,"Arthropathy, unspecified, hand"
+LIB193438,157.9,"Malignant neoplasm of pancreas, part unspecified"
+LIB193438,272.1,Pure hyperglyceridemia
+LIB193438,357.4,Polyneuropathy in other diseases classified elsewhere
+LIB193438,411.1,Intermediate coronary syndrome
+LIB193438,440.9,Generalized and unspecified atherosclerosis
+LIB193438,562.1,Diverticulosis of colon (without mention of hemorrhage)
+LIB193438,592.0,Calculus of kidney
+LIB193438,780.57,Unspecified sleep apnea
+LIB193438,825.2,Closed fracture of unspecified bone(s) of foot [except toes]
+LIB193438,98.85,Other gonococcal heart disease
+LIB193438,98.85,Other gonococcal heart disease
+LIB193438,V15.1,"Personal history of surgery to heart and great vessels, presenting hazards to health"
+LIB193438,V65.42,Counseling on substance use and abuse
+LIB193440,250.51,"Diabetes with ophthalmic manifestations, type I [juvenile type], not stated as uncontrolled"
+LIB193440,250.6,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193441,272.2,Mixed hyperlipidemia
+LIB193441,571.8,Other chronic nonalcoholic liver disease
+LIB193441,788.0,Renal colic
+LIB193442,227.3,Benign neoplasm of pituitary gland and craniopharyngeal duct
+LIB193442,401.9,Unspecified essential hypertension
+LIB193442,496,"Chronic airway obstruction, not elsewhere classified"
+LIB193442,721.0,Cervical spondylosis without myelopathy
+LIB193444,244.9,Unspecified acquired hypothyroidism
+LIB193444,413.9,Other and unspecified angina pectoris
+LIB193444,414.9,"Chronic ischemic heart disease, unspecified"
+LIB193444,780.57,Unspecified sleep apnea
+LIB193444,V15.1,"Personal history of surgery to heart and great vessels, presenting hazards to health"
+LIB193445,244.9,Unspecified acquired hypothyroidism
+LIB193445,637.9,"Unspecified abortion, without mention of complication, unspecified"
+LIB193445,721.9,"Spondylosis of unspecified site, without mention of myelopathy"
+LIB193446,586,"Renal failure, unspecified"
+LIB193448,242.2,Toxic multinodular goiter without mention of thyrotoxic crisis or storm
+LIB193448,250.91,"Diabetes with unspecified complication, type I [juvenile type], not stated as uncontrolled"
+LIB193448,436,"Acute, but ill-defined, cerebrovascular disease"
+LIB193448,719.41,"Pain in joint, shoulder region"
+LIB193448,79.82,SARS-associated coronavirus
+LIB193449,272.4,Other and unspecified hyperlipidemia
+LIB193449,366.9,Unspecified cataract
+LIB193450,272.0,Pure hypercholesterolemia
+LIB193450,401.0,Malignant essential hypertension
+LIB193450,459.81,"Venous (peripheral) insufficiency, unspecified"
+LIB193450,722.1,Displacement of lumbar intervertebral disc without myelopathy
+LIB193450,733.00,"Osteoporosis, unspecified"
+LIB193451,365.04,Ocular hypertension
+LIB193451,365.9,Unspecified glaucoma
+LIB193451,401.9,Unspecified essential hypertension
+LIB193451,709.01,Vitiligo
+LIB193452,300.9,Unspecified nonpsychotic mental disorder
+LIB193452,719.41,"Pain in joint, shoulder region"
+LIB193452,722.2,"Displacement of intervertebral disc, site unspecified, without myelopathy"
+LIB193452,825.25,Closed fracture of metatarsal bone(s)
+LIB193454,375.01,Acute dacryoadenitis
+LIB193454,477.9,"Allergic rhinitis, cause unspecified"
+LIB193455,571.8,Other chronic nonalcoholic liver disease
+LIB193455,79.82,SARS-associated coronavirus
+LIB193456,401.9,Unspecified essential hypertension
+LIB193456,411.1,Intermediate coronary syndrome
+LIB193456,436,"Acute, but ill-defined, cerebrovascular disease"
+LIB193456,493.9,"Asthma, unspecified type, unspecified"
+LIB193456,553.3,Diaphragmatic hernia without mention of obstruction or gangrene
+LIB193456,V42.4,Bone replaced by transplant
+LIB193457,250.7,"Diabetes with peripheral circulatory disorders, type II or unspecified type, not stated as uncontrolled"
+LIB193457,542,Other appendicitis
+LIB193457,709.01,Vitiligo
+LIB193457,722.1,Displacement of lumbar intervertebral disc without myelopathy
+LIB193457,722.93,"Other and unspecified disc disorder, lumbar region"
+LIB193457,733.9,"Disorder of bone and cartilage, unspecified"
+LIB193457,V67.00,"Follow-up examination, following surgery, unspecified"
+LIB193459,714.0,Rheumatoid arthritis
+LIB193459,714.0,Rheumatoid arthritis
+LIB193459,715.9,"Osteoarthrosis, unspecified whether generalized or localized, site unspecified"
+LIB193459,733.00,"Osteoporosis, unspecified"
+LIB193460,244.9,Unspecified acquired hypothyroidism
+LIB193460,574.2,"Calculus of gallbladder without mention of cholecystitis, without mention of obstruction"
+LIB193461,188.9,"Malignant neoplasm of bladder, part unspecified"
+LIB193461,788.41,Urinary frequency
+LIB193462,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193462,250.51,"Diabetes with ophthalmic manifestations, type I [juvenile type], not stated as uncontrolled"
+LIB193462,250.81,"Diabetes with other specified manifestations, type I [juvenile type], not stated as uncontrolled"
+LIB193462,369.00,"Profound impairment, both eyes, impairment level not further specified"
+LIB193462,401.9,Unspecified essential hypertension
+LIB193462,410.9,"Acute myocardial infarction of unspecified site, episode of care unspecified"
+LIB193462,577.0,Acute pancreatitis
+LIB193462,682.5,Cellulitis and abscess of buttock
+LIB193464,272.0,Pure hypercholesterolemia
+LIB193464,278.00,"Obesity, unspecified"
+LIB193464,575.0,Acute cholecystitis
+LIB193465,401.9,Unspecified essential hypertension
+LIB193465,436,"Acute, but ill-defined, cerebrovascular disease"
+LIB193465,586,"Renal failure, unspecified"
+LIB193465,782.4,"Jaundice, unspecified, not of newborn"
+LIB193465,790.4,Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH]
+LIB193465,790.6,Other abnormal blood chemistry
+LIB193465,V15.82,Personal history of tobacco use
+LIB193466,704.8,Other specified diseases of hair and hair follicles
+LIB193467,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193467,250.6,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193467,359.1,Hereditary progressive muscular dystrophy
+LIB193467,426.4,Right bundle branch block
+LIB193467,427.2,"Paroxysmal tachycardia, unspecified"
+LIB193467,599.0,"Urinary tract infection, site not specified"
+LIB193467,V68.9,Encounters for unspecified administrative purpose
+LIB193468,305.1,Tobacco use disorder
+LIB193468,717.5,"Derangement of meniscus, not elsewhere classified"
+LIB193468,718.86,"Other joint derangement, not elsewhere classified, lower leg"
+LIB193468,736.42,Genu varum (acquired)
+LIB193468,805.4,Closed fracture of lumbar vertebra without mention of spinal cord injury
+LIB193468,815.00,"Closed fracture of metacarpal bone(s), site unspecified"
+LIB193469,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193469,496,"Chronic airway obstruction, not elsewhere classified"
+LIB193469,997.99,"Complications affecting other specified body systems, not elsewhere classified"
+LIB193472,272.1,Pure hyperglyceridemia
+LIB193472,305.1,Tobacco use disorder
+LIB193472,454.9,Asymptomatic varicose veins
+LIB193472,550.9,"Inguinal hernia, without mention of obstruction or gangrene, unilateral or unspecified (not specified as recurrent)"
+LIB193472,574.2,"Calculus of gallbladder without mention of cholecystitis, without mention of obstruction"
+LIB193472,582.9,Chronic glomerulonephritis with unspecified pathological lesion in kidney
+LIB193472,790.6,Other abnormal blood chemistry
+LIB193472,997.91,"Complications affecting other specified body systems, not elsewhere classified, hypertension"
+LIB193473,V08,Asymptomatic human immunodeficiency virus [HIV] infection status
+LIB193475,886.1,"Traumatic amputation of other finger(s) (complete) (partial), complicated"
+LIB193476,244.9,Unspecified acquired hypothyroidism
+LIB193476,250.91,"Diabetes with unspecified complication, type I [juvenile type], not stated as uncontrolled"
+LIB193476,272.4,Other and unspecified hyperlipidemia
+LIB193476,401.9,Unspecified essential hypertension
+LIB193476,627.2,Symptomatic menopausal or female climacteric states
+LIB193476,727.03,Trigger finger (acquired)
+LIB193476,V43.1,Lens replaced by other means
+LIB193479,244.0,Postsurgical hypothyroidism
+LIB193479,401.9,Unspecified essential hypertension
+LIB193479,724.02,"Spinal stenosis, lumbar region, without neurogenic claudication"
+LIB193481,244.9,Unspecified acquired hypothyroidism
+LIB193481,280.9,"Iron deficiency anemia, unspecified"
+LIB193481,289.9,Unspecified diseases of blood and blood-forming organs
+LIB193481,715.89,"Osteoarthrosis involving, or with mention of more than one site, but not specified as generalized, multiple sites"
+LIB193482,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193482,272.4,Other and unspecified hyperlipidemia
+LIB193482,367.21,Regular astigmatism
+LIB193482,726.73,Calcaneal spur
+LIB193484,188.9,"Malignant neoplasm of bladder, part unspecified"
+LIB193484,354.0,Carpal tunnel syndrome
+LIB193484,459.81,"Venous (peripheral) insufficiency, unspecified"
+LIB193484,477.9,"Allergic rhinitis, cause unspecified"
+LIB193484,617.9,"Endometriosis, site unspecified"
+LIB193484,620.2,Other and unspecified ovarian cyst
+LIB193484,715.35,"Osteoarthrosis, localized, not specified whether primary or secondary, pelvic region and thigh"
+LIB193484,721.0,Cervical spondylosis without myelopathy
+LIB193484,726.1,"Disorders of bursae and tendons in shoulder region, unspecified"
+LIB193485,354.0,Carpal tunnel syndrome
+LIB193485,402.01,Malignant hypertensive heart disease with heart failure
+LIB193485,627.2,Symptomatic menopausal or female climacteric states
+LIB193485,696.1,Other psoriasis
+LIB193485,729.4,"Fasciitis, unspecified"
+LIB193485,753.1,"Cystic kidney disease, unspecified"
+LIB193485,782.3,Edema
+LIB193486,215.9,"Other benign neoplasm of connective and other soft tissue, site unspecified"
+LIB193486,217,Benign neoplasm of breast
+LIB193486,365.9,Unspecified glaucoma
+LIB193486,366.9,Unspecified cataract
+LIB193486,401.9,Unspecified essential hypertension
+LIB193487,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193487,401.9,Unspecified essential hypertension
+LIB193488,244.9,Unspecified acquired hypothyroidism
+LIB193488,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193488,362.9,Unspecified retinal disorder
+LIB193488,401.9,Unspecified essential hypertension
+LIB193488,726.9,Enthesopathy of unspecified site
+LIB193488,726.9,Enthesopathy of unspecified site
+LIB193490,410.9,"Acute myocardial infarction of unspecified site, episode of care unspecified"
+LIB193494,216.9,"Benign neoplasm of skin, site unspecified"
+LIB193494,244.9,Unspecified acquired hypothyroidism
+LIB193494,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193494,362.9,Unspecified retinal disorder
+LIB193494,401.9,Unspecified essential hypertension
+LIB193494,427.6,"Premature beats, unspecified"
+LIB193494,427.69,Other premature beats
+LIB193494,626.6,Metrorrhagia
+LIB193494,627.3,Postmenopausal atrophic vaginitis
+LIB193494,733.9,"Disorder of bone and cartilage, unspecified"
+LIB193494,790.6,Other abnormal blood chemistry
+LIB193495,250.6,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193497,218.9,"Leiomyoma of uterus, unspecified"
+LIB193497,244.8,Other specified acquired hypothyroidism
+LIB193497,593.2,"Cyst of kidney, acquired"
+LIB193497,696.1,Other psoriasis
+LIB193497,709.01,Vitiligo
+LIB193497,715.34,"Osteoarthrosis, localized, not specified whether primary or secondary, hand"
+LIB193497,737.3,"Scoliosis [and kyphoscoliosis], idiopathic"
+LIB193497,753.1,"Cystic kidney disease, unspecified"
+LIB193497,842.13,Sprain of interphalangeal (joint) of hand
+LIB193498,244.9,Unspecified acquired hypothyroidism
+LIB193498,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193498,733.00,"Osteoporosis, unspecified"
+LIB193499,401.9,Unspecified essential hypertension
+LIB193499,V45.3,Intestinal bypass or anastomosis status
+LIB193499,V45.3,Intestinal bypass or anastomosis status
+LIB193500,733.9,"Disorder of bone and cartilage, unspecified"
+LIB193502,492.8,Other emphysema
+LIB193502,552.00,"Femoral hernia with obstruction, unilateral or unspecified (not specified as recurrent)"
+LIB193502,577.0,Acute pancreatitis
+LIB193503,272.4,Other and unspecified hyperlipidemia
+LIB193504,401.9,Unspecified essential hypertension
+LIB193505,454.9,Asymptomatic varicose veins
+LIB193505,455.0,Internal hemorrhoids without mention of complication
+LIB193505,535.1,"Atrophic gastritis, without mention of hemorrhage"
+LIB193505,553.3,Diaphragmatic hernia without mention of obstruction or gangrene
+LIB193505,569.3,Hemorrhage of rectum and anus
+LIB193505,577.2,Cyst and pseudocyst of pancreas
+LIB193505,719.4,"Pain in joint, site unspecified"
+LIB193505,723.5,"Torticollis, unspecified"
+LIB193505,790.6,Other abnormal blood chemistry
+LIB193507,250.9,"Diabetes with unspecified complication, type II or unspecified type, not stated as uncontrolled"
+LIB193507,345.9,"Epilepsy, unspecified, without mention of intractable epilepsy"
+LIB193507,365.9,Unspecified glaucoma
+LIB193507,709.01,Vitiligo
+LIB193508,250.6,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193508,365.9,Unspecified glaucoma
+LIB193508,375.15,"Tear film insufficiency, unspecified"
+LIB193508,401.9,Unspecified essential hypertension
+LIB193508,463,Acute tonsillitis
+LIB193508,574.2,"Calculus of gallbladder without mention of cholecystitis, without mention of obstruction"
+LIB193508,577.9,Unspecified disease of pancreas
+LIB193508,715.36,"Osteoarthrosis, localized, not specified whether primary or secondary, lower leg"
+LIB193508,726.32,Lateral epicondylitis
+LIB193511,365.00,"Preglaucoma, unspecified"
+LIB193511,696.1,Other psoriasis
+LIB193511,79.82,SARS-associated coronavirus
+LIB193513,244.9,Unspecified acquired hypothyroidism
+LIB193513,272.0,Pure hypercholesterolemia
+LIB193513,345.11,"Generalized convulsive epilepsy, with intractable epilepsy"
+LIB193513,365.1,"Open-angle glaucoma, unspecified"
+LIB193513,38.9,Unspecified septicemia
+LIB193513,694.5,Pemphigoid
+LIB193515,244.9,Unspecified acquired hypothyroidism
+LIB193515,362.01,Background diabetic retinopathy
+LIB193515,717.5,"Derangement of meniscus, not elsewhere classified"
+LIB193515,717.7,Chondromalacia of patella
+LIB193518,188.9,"Malignant neoplasm of bladder, part unspecified"
+LIB193518,272.0,Pure hypercholesterolemia
+LIB193518,362.01,Background diabetic retinopathy
+LIB193518,401.1,Benign essential hypertension
+LIB193520,11.9,"Pulmonary tuberculosis, unspecified, unspecified"
+LIB193521,250.51,"Diabetes with ophthalmic manifestations, type I [juvenile type], not stated as uncontrolled"
+LIB193522,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193522,272.0,Pure hypercholesterolemia
+LIB193522,365.9,Unspecified glaucoma
+LIB193522,369.00,"Profound impairment, both eyes, impairment level not further specified"
+LIB193522,379.23,Vitreous hemorrhage
+LIB193522,472.1,Chronic pharyngitis
+LIB193522,564.1,Irritable bowel syndrome
+LIB193522,721.9,"Spondylosis of unspecified site, without mention of myelopathy"
+LIB193522,738.4,Acquired spondylolisthesis
+LIB193523,250.6,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193524,722.2,"Displacement of intervertebral disc, site unspecified, without myelopathy"
+LIB193525,155.0,"Malignant neoplasm of liver, primary"
+LIB193525,211.1,Benign neoplasm of stomach
+LIB193525,287.5,"Thrombocytopenia, unspecified"
+LIB193525,401.9,Unspecified essential hypertension
+LIB193525,571.0,Alcoholic fatty liver
+LIB193525,571.2,Alcoholic cirrhosis of liver
+LIB193525,571.5,Cirrhosis of liver without mention of alcohol
+LIB193525,573.8,Other specified disorders of liver
+LIB193525,576.8,Other specified disorders of biliary tract
+LIB193525,694.4,Pemphigus
+LIB193525,694.5,Pemphigoid
+LIB193526,493.9,"Asthma, unspecified type, unspecified"
+LIB193527,250.91,"Diabetes with unspecified complication, type I [juvenile type], not stated as uncontrolled"
+LIB193528,275.4,Unspecified disorder of calcium metabolism
+LIB193528,366.9,Unspecified cataract
+LIB193528,401.9,Unspecified essential hypertension
+LIB193528,426.4,Right bundle branch block
+LIB193528,427.31,Atrial fibrillation
+LIB193528,436,"Acute, but ill-defined, cerebrovascular disease"
+LIB193528,437.9,Unspecified cerebrovascular disease
+LIB193528,585.1,"Chronic kidney disease, Stage I"
+LIB193528,586,"Renal failure, unspecified"
+LIB193528,702.0,Actinic keratosis
+LIB193528,715.36,"Osteoarthrosis, localized, not specified whether primary or secondary, lower leg"
+LIB193528,719.41,"Pain in joint, shoulder region"
+LIB193528,721.0,Cervical spondylosis without myelopathy
+LIB193528,726.12,Bicipital tenosynovitis
+LIB193528,791.0,Proteinuria
+LIB193529,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193529,272.0,Pure hypercholesterolemia
+LIB193529,791.0,Proteinuria
+LIB193530,244.9,Unspecified acquired hypothyroidism
+LIB193530,278.00,"Obesity, unspecified"
+LIB193530,V67.00,"Follow-up examination, following surgery, unspecified"
+LIB193531,250.51,"Diabetes with ophthalmic manifestations, type I [juvenile type], not stated as uncontrolled"
+LIB193531,250.53,"Diabetes with ophthalmic manifestations, type I [juvenile type], uncontrolled"
+LIB193531,362.01,Background diabetic retinopathy
+LIB193531,696.1,Other psoriasis
+LIB193534,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193535,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193535,272.4,Other and unspecified hyperlipidemia
+LIB193536,218.9,"Leiomyoma of uterus, unspecified"
+LIB193536,244.9,Unspecified acquired hypothyroidism
+LIB193536,300.4,Dysthymic disorder
+LIB193536,556.9,"Ulcerative colitis, unspecified"
+LIB193536,617.9,"Endometriosis, site unspecified"
+LIB193536,710.2,Sicca syndrome
+LIB193536,714.2,Other rheumatoid arthritis with visceral or systemic involvement
+LIB193536,714.3,"Polyarticular juvenile rheumatoid arthritis, chronic or unspecified"
+LIB193537,553.3,Diaphragmatic hernia without mention of obstruction or gangrene
+LIB193538,424.0,Mitral valve disorders
+LIB193538,425.4,Other primary cardiomyopathies
+LIB193538,455.6,Unspecified hemorrhoids without mention of complication
+LIB193539,241.9,Unspecified nontoxic nodular goiter
+LIB193539,354.0,Carpal tunnel syndrome
+LIB193539,812.2,Closed fracture of unspecified part of humerus
+LIB193540,250.4,"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193540,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193540,250.51,"Diabetes with ophthalmic manifestations, type I [juvenile type], not stated as uncontrolled"
+LIB193540,250.8,"Diabetes with other specified manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193540,272.4,Other and unspecified hyperlipidemia
+LIB193540,285.29,Anemia of other chronic disease
+LIB193540,285.9,"Anemia, unspecified"
+LIB193540,361.81,Traction detachment of retina
+LIB193540,362.02,Proliferative diabetic retinopathy
+LIB193540,366.41,Diabetic cataract
+LIB193540,369.7,"Moderate or severe impairment, one eye, impairment level not further specified"
+LIB193540,374.05,Trichiasis of eyelid without entropion
+LIB193540,375.15,"Tear film insufficiency, unspecified"
+LIB193540,401.9,Unspecified essential hypertension
+LIB193540,536.3,Gastroparesis
+LIB193540,553.3,Diaphragmatic hernia without mention of obstruction or gangrene
+LIB193540,696.1,Other psoriasis
+LIB193540,787.91,Diarrhea
+LIB193540,V45.51,Presence of intrauterine contraceptive device
+LIB193542,272.1,Pure hyperglyceridemia
+LIB193542,272.2,Mixed hyperlipidemia
+LIB193542,340,Multiple sclerosis
+LIB193542,401.9,Unspecified essential hypertension
+LIB193542,715.9,"Osteoarthrosis, unspecified whether generalized or localized, site unspecified"
+LIB193542,721.0,Cervical spondylosis without myelopathy
+LIB193542,722.2,"Displacement of intervertebral disc, site unspecified, without myelopathy"
+LIB193544,477.0,Allergic rhinitis due to pollen
+LIB193545,579.0,Celiac disease
+LIB193545,579.0,Celiac disease
+LIB193545,579.0,Celiac disease
+LIB193545,754.71,Talipes cavus
+LIB193546,250.91,"Diabetes with unspecified complication, type I [juvenile type], not stated as uncontrolled"
+LIB193549,401.9,Unspecified essential hypertension
+LIB193550,112.9,Candidiasis of unspecified site
+LIB193550,211.3,Benign neoplasm of colon
+LIB193550,244.9,Unspecified acquired hypothyroidism
+LIB193550,394.0,Mitral stenosis
+LIB193550,423.2,Constrictive pericarditis
+LIB193550,427.32,Atrial flutter
+LIB193550,535.5,"Unspecified gastritis and gastroduodenitis, without mention of hemorrhage"
+LIB193550,728.6,Contracture of palmar fascia
+LIB193552,244.9,Unspecified acquired hypothyroidism
+LIB193552,245.0,Acute thyroiditis
+LIB193552,245.0,Acute thyroiditis
+LIB193552,255.4,Corticoadrenal insufficiency
+LIB193552,704.01,Alopecia areata
+LIB193553,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193553,272.4,Other and unspecified hyperlipidemia
+LIB193553,278.00,"Obesity, unspecified"
+LIB193554,272.4,Other and unspecified hyperlipidemia
+LIB193555,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193556,272.4,Other and unspecified hyperlipidemia
+LIB193557,272.4,Other and unspecified hyperlipidemia
+LIB193557,362.9,Unspecified retinal disorder
+LIB193557,411.89,"Other acute and subacute forms of ischemic heart disease, other"
+LIB193557,436,"Acute, but ill-defined, cerebrovascular disease"
+LIB193557,733.00,"Osteoporosis, unspecified"
+LIB193557,829.0,"Fracture of unspecified bone, closed"
+LIB193558,272.4,Other and unspecified hyperlipidemia
+LIB193558,618.9,Unspecified genital prolapse
+LIB193559,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193559,401.9,Unspecified essential hypertension
+LIB193559,428.9,"Heart failure, unspecified"
+LIB193560,162.3,"Malignant neoplasm of upper lobe, bronchus or lung"
+LIB193560,440.8,Atherosclerosis of other specified arteries
+LIB193560,530.81,Esophageal reflux
+LIB193560,V45.51,Presence of intrauterine contraceptive device
+LIB193560,V67.00,"Follow-up examination, following surgery, unspecified"
+LIB193561,362.83,Retinal edema
+LIB193561,367.1,Myopia
+LIB193561,367.2,"Astigmatism, unspecified"
+LIB193561,648.83,"Abnormal glucose tolerance of mother, antepartum condition or complication"
+LIB193561,789.2,Splenomegaly
+LIB193561,994.1,Drowning and nonfatal submersion
+LIB193562,250.81,"Diabetes with other specified manifestations, type I [juvenile type], not stated as uncontrolled"
+LIB193563,127.4,Enterobiasis
+LIB193563,362.9,Unspecified retinal disorder
+LIB193563,401.9,Unspecified essential hypertension
+LIB193563,791.0,Proteinuria
+LIB193565,491.9,Unspecified chronic bronchitis
+LIB193566,701.0,Circumscribed scleroderma
+LIB193566,721.9,"Spondylosis of unspecified site, without mention of myelopathy"
+LIB193566,722.2,"Displacement of intervertebral disc, site unspecified, without myelopathy"
+LIB193566,788.0,Renal colic
+LIB193567,454.9,Asymptomatic varicose veins
+LIB193569,244.9,Unspecified acquired hypothyroidism
+LIB193569,367.0,Hypermetropia
+LIB193569,389.9,Unspecified hearing loss
+LIB193569,459.81,"Venous (peripheral) insufficiency, unspecified"
+LIB193569,643.03,"Mild hyperemesis gravidarum, antepartum condition or complication"
+LIB193569,729.1,"Myalgia and myositis, unspecified"
+LIB193572,562.1,Diverticulosis of colon (without mention of hemorrhage)
+LIB193572,717.7,Chondromalacia of patella
+LIB193573,272.4,Other and unspecified hyperlipidemia
+LIB193574,244.9,Unspecified acquired hypothyroidism
+LIB193574,253.4,Other anterior pituitary disorders
+LIB193574,272.0,Pure hypercholesterolemia
+LIB193574,287.5,"Thrombocytopenia, unspecified"
+LIB193574,308.0,Predominant disturbance of emotions
+LIB193574,345.9,"Epilepsy, unspecified, without mention of intractable epilepsy"
+LIB193574,354.0,Carpal tunnel syndrome
+LIB193574,535.1,"Atrophic gastritis, without mention of hemorrhage"
+LIB193574,564.1,Irritable bowel syndrome
+LIB193574,574.2,"Calculus of gallbladder without mention of cholecystitis, without mention of obstruction"
+LIB193574,V25.2,Sterilization
+LIB193575,386.9,Unspecified vertiginous syndromes and labyrinthine disorders
+LIB193576,354.0,Carpal tunnel syndrome
+LIB193577,250.6,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193577,577.0,Acute pancreatitis
+LIB193579,153.9,"Malignant neoplasm of colon, unspecified site"
+LIB193579,208.9,"Unspecified leukemia, without mention of having achieved remission"
+LIB193579,250.9,"Diabetes with unspecified complication, type II or unspecified type, not stated as uncontrolled"
+LIB193580,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193580,272.4,Other and unspecified hyperlipidemia
+LIB193581,242.2,Toxic multinodular goiter without mention of thyrotoxic crisis or storm
+LIB193581,311,"Depressive disorder, not elsewhere classified"
+LIB193584,244.9,Unspecified acquired hypothyroidism
+LIB193584,255.4,Corticoadrenal insufficiency
+LIB193584,357.0,Acute infective polyneuritis
+LIB193584,724.2,Lumbago
+LIB193585,258.8,Other specified polyglandular dysfunction
+LIB193585,709.01,Vitiligo
+LIB193586,305.1,Tobacco use disorder
+LIB193587,244.9,Unspecified acquired hypothyroidism
+LIB193587,401.9,Unspecified essential hypertension
+LIB193587,715.96,"Osteoarthrosis, unspecified whether generalized or localized, lower leg"
+LIB193587,V45.51,Presence of intrauterine contraceptive device
+LIB193588,242.9,"Thyrotoxicosis without mention of goiter or other cause, and without mention of thyrotoxic crisis or storm"
+LIB193588,435.9,Unspecified transient cerebral ischemia
+LIB193588,459.81,"Venous (peripheral) insufficiency, unspecified"
+LIB193589,244.9,Unspecified acquired hypothyroidism
+LIB193589,354.0,Carpal tunnel syndrome
+LIB193589,553.3,Diaphragmatic hernia without mention of obstruction or gangrene
+LIB193590,244.3,Other iatrogenic hypothyroidism
+LIB193590,360.21,Progressive high (degenerative) myopia
+LIB193590,367.1,Myopia
+LIB193590,564.00,"Constipation, unspecified"
+LIB193590,625.3,Dysmenorrhea
+LIB193590,758.0,Down's syndrome
+LIB193591,251.0,Hypoglycemic coma
+LIB193591,305.1,Tobacco use disorder
+LIB193591,354.0,Carpal tunnel syndrome
+LIB193591,362.01,Background diabetic retinopathy
+LIB193591,477.9,"Allergic rhinitis, cause unspecified"
+LIB193591,715.36,"Osteoarthrosis, localized, not specified whether primary or secondary, lower leg"
+LIB193592,726.0,Adhesive capsulitis of shoulder
+LIB193594,362.9,Unspecified retinal disorder
+LIB193594,790.4,Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH]
+LIB193595,366.9,Unspecified cataract
+LIB193596,714.0,Rheumatoid arthritis
+LIB193596,733.9,"Disorder of bone and cartilage, unspecified"
+LIB193597,244.3,Other iatrogenic hypothyroidism
+LIB193597,345.9,"Epilepsy, unspecified, without mention of intractable epilepsy"
+LIB193597,379.23,Vitreous hemorrhage
+LIB193597,459.81,"Venous (peripheral) insufficiency, unspecified"
+LIB193598,754.71,Talipes cavus
+LIB193599,272.4,Other and unspecified hyperlipidemia
+LIB193599,384.2,"Perforation of tympanic membrane, unspecified"
+LIB193600,171.9,"Malignant neoplasm of connective and other soft tissue, site unspecified"
+LIB193602,300.00,"Anxiety state, unspecified"
+LIB193602,359.29,Other specified myotonic disorder
+LIB193602,477.9,"Allergic rhinitis, cause unspecified"
+LIB193602,535.1,"Atrophic gastritis, without mention of hemorrhage"
+LIB193602,785.2,Undiagnosed cardiac murmurs
+LIB193603,241.1,Nontoxic multinodular goiter
+LIB193603,244.9,Unspecified acquired hypothyroidism
+LIB193603,272.4,Other and unspecified hyperlipidemia
+LIB193604,311,"Depressive disorder, not elsewhere classified"
+LIB193604,402.00,Malignant hypertensive heart disease without heart failure
+LIB193604,586,"Renal failure, unspecified"
+LIB193604,715.36,"Osteoarthrosis, localized, not specified whether primary or secondary, lower leg"
+LIB193604,715.9,"Osteoarthrosis, unspecified whether generalized or localized, site unspecified"
+LIB193604,721.9,"Spondylosis of unspecified site, without mention of myelopathy"
+LIB193604,733.00,"Osteoporosis, unspecified"
+LIB193604,733.00,"Osteoporosis, unspecified"
+LIB193604,780.4,Dizziness and giddiness
+LIB193604,814.00,"Closed fracture of carpal bone, unspecified"
+LIB193605,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193605,354.0,Carpal tunnel syndrome
+LIB193605,721.9,"Spondylosis of unspecified site, without mention of myelopathy"
+LIB193605,V68.1,Issue of repeat prescriptions
+LIB193606,244.9,Unspecified acquired hypothyroidism
+LIB193606,362.07,Diabetic macular edema
+LIB193606,366.2,"Traumatic cataract, unspecified"
+LIB193606,401.9,Unspecified essential hypertension
+LIB193607,250.4,"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193607,378.54,Sixth or abducens nerve palsy
+LIB193607,401.9,Unspecified essential hypertension
+LIB193607,780.57,Unspecified sleep apnea
+LIB193607,790.5,Other nonspecific abnormal serum enzyme levels
+LIB193608,787.1,Heartburn
+LIB193609,305.1,Tobacco use disorder
+LIB193610,218.9,"Leiomyoma of uterus, unspecified"
+LIB193610,272.4,Other and unspecified hyperlipidemia
+LIB193610,426.4,Right bundle branch block
+LIB193610,620.2,Other and unspecified ovarian cyst
+LIB193611,250.6,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193611,258.1,Other combinations of endocrine dysfunction
+LIB193611,338.29,Other chronic pain
+LIB193611,564.1,Irritable bowel syndrome
+LIB193611,715.35,"Osteoarthrosis, localized, not specified whether primary or secondary, pelvic region and thigh"
+LIB193611,715.36,"Osteoarthrosis, localized, not specified whether primary or secondary, lower leg"
+LIB193611,715.94,"Osteoarthrosis, unspecified whether generalized or localized, hand"
+LIB193611,722.0,Displacement of cervical intervertebral disc without myelopathy
+LIB193611,723.1,Cervicalgia
+LIB193611,729.1,"Myalgia and myositis, unspecified"
+LIB193611,729.2,"Neuralgia, neuritis, and radiculitis, unspecified"
+LIB193611,733.9,"Disorder of bone and cartilage, unspecified"
+LIB193613,250.1,"Diabetes with ketoacidosis, type II or unspecified type, not stated as uncontrolled"
+LIB193613,718.65,"Unspecified intrapelvic protrusion of acetabulum, pelvic region and thigh"
+LIB193613,790.6,Other abnormal blood chemistry
+LIB193614,401.9,Unspecified essential hypertension
+LIB193614,493.91,"Asthma, unspecified type, with status asthmaticus"
+LIB193614,748.3,"Other anomalies of larynx, trachea, and bronchus"
+LIB193615,362.9,Unspecified retinal disorder
+LIB193615,540.0,Acute appendicitis with generalized peritonitis
+LIB193615,567.9,Unspecified peritonitis
+LIB193615,V67.00,"Follow-up examination, following surgery, unspecified"
+LIB193617,845.00,"Sprain of ankle, unspecified site"
+LIB193617,V68.9,Encounters for unspecified administrative purpose
+LIB193618,454.9,Asymptomatic varicose veins
+LIB193618,V15.82,Personal history of tobacco use
+LIB193620,355.9,Mononeuritis of unspecified site
+LIB193620,362.9,Unspecified retinal disorder
+LIB193620,401.9,Unspecified essential hypertension
+LIB193620,436,"Acute, but ill-defined, cerebrovascular disease"
+LIB193620,586,"Renal failure, unspecified"
+LIB193620,719.4,"Pain in joint, site unspecified"
+LIB193622,242.9,"Thyrotoxicosis without mention of goiter or other cause, and without mention of thyrotoxic crisis or storm"
+LIB193624,272.0,Pure hypercholesterolemia
+LIB193624,362.9,Unspecified retinal disorder
+LIB193626,685.1,Pilonidal cyst without mention of abscess
+LIB193628,346.9,"Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus"
+LIB193628,366.12,Incipient senile cataract
+LIB193630,117.9,Other and unspecified mycoses
+LIB193630,285.9,"Anemia, unspecified"
+LIB193630,311,"Depressive disorder, not elsewhere classified"
+LIB193630,460,Acute nasopharyngitis [common cold]
+LIB193630,466.0,Acute bronchitis
+LIB193630,493.9,"Asthma, unspecified type, unspecified"
+LIB193630,724.2,Lumbago
+LIB193630,728.85,Spasm of muscle
+LIB193630,788.3,"Urinary incontinence, unspecified"
+LIB193630,V22.2,"Pregnant state, incidental"
+LIB193630,V24.2,Routine postpartum follow-up
+LIB193631,345.9,"Epilepsy, unspecified, without mention of intractable epilepsy"
+LIB193632,590.1,Acute pyelonephritis without lesion of renal medullary necrosis
+LIB193632,690.1,"Seborrheic dermatitis, unspecified"
+LIB193632,696.5,Other and unspecified pityriasis
+LIB193635,216.9,"Benign neoplasm of skin, site unspecified"
+LIB193639,361.9,Unspecified retinal detachment
+LIB193639,379.23,Vitreous hemorrhage
+LIB193639,814.00,"Closed fracture of carpal bone, unspecified"
+LIB193639,V45.6,States following surgery of eye and adnexa
+LIB193644,354.0,Carpal tunnel syndrome
+LIB193644,477.9,"Allergic rhinitis, cause unspecified"
+LIB193644,541,"Appendicitis, unqualified"
+LIB193644,715.35,"Osteoarthrosis, localized, not specified whether primary or secondary, pelvic region and thigh"
+LIB193644,79.82,SARS-associated coronavirus
+LIB193645,272.4,Other and unspecified hyperlipidemia
+LIB193647,493.9,"Asthma, unspecified type, unspecified"
+LIB193648,346.9,"Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus"
+LIB193648,377.39,Other optic neuritis
+LIB193648,723.1,Cervicalgia
+LIB193650,365.11,Primary open angle glaucoma
+LIB193650,366.9,Unspecified cataract
+LIB193652,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193653,244.9,Unspecified acquired hypothyroidism
+LIB193653,429.0,"Myocarditis, unspecified"
+LIB193655,735.0,Hallux valgus (acquired)
+LIB193656,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193658,577.2,Cyst and pseudocyst of pancreas
+LIB193658,737.3,"Scoliosis [and kyphoscoliosis], idiopathic"
+LIB193658,737.8,Other curvatures of spine
+LIB193659,250.4,"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193659,389.9,Unspecified hearing loss
+LIB193659,434.11,Cerebral embolism with cerebral infarction
+LIB193659,436,"Acute, but ill-defined, cerebrovascular disease"
+LIB193659,477.0,Allergic rhinitis due to pollen
+LIB193659,780.39,Other convulsions
+LIB193662,380.4,Impacted cerumen
+LIB193662,695.3,Rosacea
+LIB193662,785.2,Undiagnosed cardiac murmurs
+LIB193663,244.9,Unspecified acquired hypothyroidism
+LIB193663,737.3,"Scoliosis [and kyphoscoliosis], idiopathic"
+LIB193664,244.9,Unspecified acquired hypothyroidism
+LIB193668,216.9,"Benign neoplasm of skin, site unspecified"
+LIB193668,706.1,Other acne
+LIB193668,79.82,SARS-associated coronavirus
+LIB193669,244.9,Unspecified acquired hypothyroidism
+LIB193669,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193669,362.1,"Background retinopathy, unspecified"
+LIB193669,727.03,Trigger finger (acquired)
+LIB193669,V15.82,Personal history of tobacco use
+LIB193672,367.2,"Astigmatism, unspecified"
+LIB193673,585.3,"Chronic kidney disease, Stage III (moderate)"
+LIB193674,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193674,300.4,Dysthymic disorder
+LIB193674,493.00,"Extrinsic asthma, unspecified"
+LIB193674,727.04,Radial styloid tenosynovitis
+LIB193674,733.9,"Disorder of bone and cartilage, unspecified"
+LIB193677,193,Malignant neoplasm of thyroid gland
+LIB193677,242.91,"Thyrotoxicosis without mention of goiter or other cause, with mention of thyrotoxic crisis or storm"
+LIB193677,278.00,"Obesity, unspecified"
+LIB193677,454.9,Asymptomatic varicose veins
+LIB193677,610.1,Diffuse cystic mastopathy
+LIB193678,401.9,Unspecified essential hypertension
+LIB193681,637.9,"Unspecified abortion, without mention of complication, unspecified"
+LIB193681,637.9,"Unspecified abortion, without mention of complication, unspecified"
+LIB193682,250.9,"Diabetes with unspecified complication, type II or unspecified type, not stated as uncontrolled"
+LIB193682,724.2,Lumbago
+LIB193682,790.6,Other abnormal blood chemistry
+LIB193683,477.0,Allergic rhinitis due to pollen
+LIB193683,691.8,Other atopic dermatitis and related conditions
+LIB193684,647.13,"Gonorrhea of mother, complicating pregnancy, childbirth, or the puerperium, antepartum condition or complication"
+LIB193687,244.9,Unspecified acquired hypothyroidism
+LIB193687,259.1,"Precocious sexual development and puberty, not elsewhere classified"
+LIB193687,260,Kwashiorkor
+LIB193687,756.16,Klippel-Feil syndrome
+LIB193688,211.3,Benign neoplasm of colon
+LIB193688,717.5,"Derangement of meniscus, not elsewhere classified"
+LIB193688,V16.0,Family history of malignant neoplasm of gastrointestinal tract
+LIB193690,340,Multiple sclerosis
+LIB193690,401.9,Unspecified essential hypertension
+LIB193695,250.11,"Diabetes with ketoacidosis, type I [juvenile type], not stated as uncontrolled"
+LIB193695,477.0,Allergic rhinitis due to pollen
+LIB193699,578.9,"Hemorrhage of gastrointestinal tract, unspecified"
+LIB193699,714.0,Rheumatoid arthritis
+LIB193700,285.9,"Anemia, unspecified"
+LIB193704,493.9,"Asthma, unspecified type, unspecified"
+LIB193706,249.91,"Secondary diabetes mellitus with unspecified complication, uncontrolled"
+LIB193706,277.4,Disorders of bilirubin excretion
+LIB193706,477.9,"Allergic rhinitis, cause unspecified"
+LIB193706,V15.0,"Allergy, other than to medicinal agents"
+LIB193707,401.0,Malignant essential hypertension
+LIB193708,277.00,Cystic fibrosis without mention of meconium ileus
+LIB193710,244.9,Unspecified acquired hypothyroidism
+LIB193710,308.0,Predominant disturbance of emotions
+LIB193710,443.0,Raynaud's syndrome
+LIB193710,610.0,Solitary cyst of breast
+LIB193711,346.9,"Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus"
+LIB193717,381.19,Other chronic serous otitis media
+LIB193717,474.00,Chronic tonsillitis
+LIB193717,812.41,Closed supracondylar fracture of humerus
+LIB193717,816.00,"Closed fracture of phalanx or phalanges of hand, unspecified"
+LIB193719,277.4,Disorders of bilirubin excretion
+LIB193720,217,Benign neoplasm of breast
+LIB193720,244.9,Unspecified acquired hypothyroidism
+LIB193720,244.9,Unspecified acquired hypothyroidism
+LIB193720,245.2,Chronic lymphocytic thyroiditis
+LIB193720,477.0,Allergic rhinitis due to pollen
+LIB193720,726.1,"Disorders of bursae and tendons in shoulder region, unspecified"
+LIB193721,218.9,"Leiomyoma of uterus, unspecified"
+LIB193721,244.0,Postsurgical hypothyroidism
+LIB193721,250.91,"Diabetes with unspecified complication, type I [juvenile type], not stated as uncontrolled"
+LIB193722,706.1,Other acne
+LIB193725,362.01,Background diabetic retinopathy
+LIB193728,250.41,"Diabetes with renal manifestations, type I [juvenile type], not stated as uncontrolled"
+LIB193728,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193729,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193729,278.00,"Obesity, unspecified"
+LIB193729,791.0,Proteinuria
+LIB193730,244.9,Unspecified acquired hypothyroidism
+LIB193732,278.02,Overweight
+LIB193732,465.8,Acute upper respiratory infections of other multiple sites
+LIB193732,685.1,Pilonidal cyst without mention of abscess
+LIB193733,477.0,Allergic rhinitis due to pollen
+LIB193733,709.01,Vitiligo
+LIB193734,255.0,Cushing's syndrome
+LIB193734,704.01,Alopecia areata
+LIB193735,346.9,"Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus"
+LIB193735,592.0,Calculus of kidney
+LIB193736,250.4,"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193736,285.8,Other specified anemias
+LIB193736,401.9,Unspecified essential hypertension
+LIB193736,480.3,Pneumonia due to SARS-associated coronavirus
+LIB193736,480.3,Pneumonia due to SARS-associated coronavirus
+LIB193736,584.9,"Acute kidney failure, unspecified"
+LIB193736,785.52,Septic shock
+LIB193736,790.7,Bacteremia
+LIB193742,250.1,"Diabetes with ketoacidosis, type II or unspecified type, not stated as uncontrolled"
+LIB193746,41.86,Helicobacter pylori [H. pylori]
+LIB193746,535.5,"Unspecified gastritis and gastroduodenitis, without mention of hemorrhage"
+LIB193746,536.8,Dyspepsia and other specified disorders of function of stomach
+LIB193746,553.3,Diaphragmatic hernia without mention of obstruction or gangrene
+LIB193746,564.1,Irritable bowel syndrome
+LIB193746,569.3,Hemorrhage of rectum and anus
+LIB193746,571.8,Other chronic nonalcoholic liver disease
+LIB193746,730.2,"Unspecified osteomyelitis, site unspecified"
+LIB193747,401.9,Unspecified essential hypertension
+LIB193747,722.1,Displacement of lumbar intervertebral disc without myelopathy
+LIB193747,722.2,"Displacement of intervertebral disc, site unspecified, without myelopathy"
+LIB193747,724.3,Sciatica
+LIB193749,244.9,Unspecified acquired hypothyroidism
+LIB193749,459.81,"Venous (peripheral) insufficiency, unspecified"
+LIB193749,579.0,Celiac disease
+LIB193749,719.41,"Pain in joint, shoulder region"
+LIB193749,726.73,Calcaneal spur
+LIB193750,401.9,Unspecified essential hypertension
+LIB193751,174.9,"Malignant neoplasm of breast (female), unspecified"
+LIB193751,179,"Malignant neoplasm of uterus, part unspecified"
+LIB193751,272.0,Pure hypercholesterolemia
+LIB193751,327.24,Idiopathic sleep related non-obstructive alveolar hypoventilation
+LIB193751,445.02,Atheroembolism of lower extremity
+LIB193751,733.00,"Osteoporosis, unspecified"
+LIB193753,211.3,Benign neoplasm of colon
+LIB193753,272.0,Pure hypercholesterolemia
+LIB193753,368.2,Diplopia
+LIB193753,478.0,Hypertrophy of nasal turbinates
+LIB193753,690.1,"Seborrheic dermatitis, unspecified"
+LIB193753,715.36,"Osteoarthrosis, localized, not specified whether primary or secondary, lower leg"
+LIB193755,250.51,"Diabetes with ophthalmic manifestations, type I [juvenile type], not stated as uncontrolled"
+LIB193757,553.3,Diaphragmatic hernia without mention of obstruction or gangrene
+LIB193759,616.1,"Vaginitis and vulvovaginitis, unspecified"
+LIB193761,244.9,Unspecified acquired hypothyroidism
+LIB193761,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193761,272.4,Other and unspecified hyperlipidemia
+LIB193761,278.00,"Obesity, unspecified"
+LIB193761,401.9,Unspecified essential hypertension
+LIB193761,401.9,Unspecified essential hypertension
+LIB193761,410.9,"Acute myocardial infarction of unspecified site, episode of care unspecified"
+LIB193761,414.9,"Chronic ischemic heart disease, unspecified"
+LIB193761,465.8,Acute upper respiratory infections of other multiple sites
+LIB193762,245.2,Chronic lymphocytic thyroiditis
+LIB193762,252.1,Hypoparathyroidism
+LIB193762,733.9,"Disorder of bone and cartilage, unspecified"
+LIB193764,250.6,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193764,401.9,Unspecified essential hypertension
+LIB193764,410.9,"Acute myocardial infarction of unspecified site, episode of care unspecified"
+LIB193765,278.00,"Obesity, unspecified"
+LIB193765,401.9,Unspecified essential hypertension
+LIB193767,250.6,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193767,401.9,Unspecified essential hypertension
+LIB193767,571.9,Unspecified chronic liver disease without mention of alcohol
+LIB193767,70.51,Acute hepatitis C without mention of hepatic coma
+LIB193767,720.1,Spinal enthesopathy
+LIB193770,252.00,"Hyperparathyroidism, unspecified"
+LIB193770,410.1,"Acute myocardial infarction of other anterior wall, episode of care unspecified"
+LIB193770,410.9,"Acute myocardial infarction of unspecified site, episode of care unspecified"
+LIB193770,413.9,Other and unspecified angina pectoris
+LIB193771,272.0,Pure hypercholesterolemia
+LIB193771,471.9,Unspecified nasal polyp
+LIB193771,530.81,Esophageal reflux
+LIB193771,780.57,Unspecified sleep apnea
+LIB193773,244.8,Other specified acquired hypothyroidism
+LIB193773,345.9,"Epilepsy, unspecified, without mention of intractable epilepsy"
+LIB193775,242.9,"Thyrotoxicosis without mention of goiter or other cause, and without mention of thyrotoxic crisis or storm"
+LIB193775,252.00,"Hyperparathyroidism, unspecified"
+LIB193775,364.3,Unspecified iridocyclitis
+LIB193775,715.35,"Osteoarthrosis, localized, not specified whether primary or secondary, pelvic region and thigh"
+LIB193775,721.9,"Spondylosis of unspecified site, without mention of myelopathy"
+LIB193775,733.00,"Osteoporosis, unspecified"
+LIB193775,733.01,Senile osteoporosis
+LIB193775,733.9,"Disorder of bone and cartilage, unspecified"
+LIB193776,272.4,Other and unspecified hyperlipidemia
+LIB193776,571.8,Other chronic nonalcoholic liver disease
+LIB193776,577.0,Acute pancreatitis
+LIB193779,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193779,401.9,Unspecified essential hypertension
+LIB193780,189.0,"Malignant neoplasm of kidney, except pelvis"
+LIB193780,239.5,Neoplasm of unspecified nature of other genitourinary organs
+LIB193780,241.1,Nontoxic multinodular goiter
+LIB193780,272.2,Mixed hyperlipidemia
+LIB193780,427.31,Atrial fibrillation
+LIB193780,470,Deviated nasal septum
+LIB193780,593.89,Other specified disorders of kidney and ureter
+LIB193780,686.1,Pyogenic granuloma of skin and subcutaneous tissue
+LIB193780,708.9,"Urticaria, unspecified"
+LIB193781,E873.9,Unspecified failure in dosage
+LIB193783,244.9,Unspecified acquired hypothyroidism
+LIB193783,250.93,"Diabetes with unspecified complication, type I [juvenile type], uncontrolled"
+LIB193785,153.9,"Malignant neoplasm of colon, unspecified site"
+LIB193786,250.4,"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193786,250.8,"Diabetes with other specified manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193786,305.1,Tobacco use disorder
+LIB193786,492.8,Other emphysema
+LIB193786,V42.0,Kidney replaced by transplant
+LIB193787,389.1,"Sensorineural hearing loss, unspecified"
+LIB193788,362.01,Background diabetic retinopathy
+LIB193788,401.9,Unspecified essential hypertension
+LIB193788,440.8,Atherosclerosis of other specified arteries
+LIB193789,412,Old myocardial infarction
+LIB193789,428.9,"Heart failure, unspecified"
+LIB193790,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193790,250.6,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193790,251.2,"Hypoglycemia, unspecified"
+LIB193790,272.4,Other and unspecified hyperlipidemia
+LIB193790,281.0,Pernicious anemia
+LIB193790,389.9,Unspecified hearing loss
+LIB193790,401.9,Unspecified essential hypertension
+LIB193790,476.0,Chronic laryngitis
+LIB193790,478.6,Edema of larynx
+LIB193790,733.00,"Osteoporosis, unspecified"
+LIB193790,805.8,Closed fracture of unspecified vertebral column without mention of spinal cord injury
+LIB193792,346.9,"Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus"
+LIB193792,454.9,Asymptomatic varicose veins
+LIB193793,829.0,"Fracture of unspecified bone, closed"
+LIB193794,272.4,Other and unspecified hyperlipidemia
+LIB193794,401.9,Unspecified essential hypertension
+LIB193795,272.4,Other and unspecified hyperlipidemia
+LIB193795,401.9,Unspecified essential hypertension
+LIB193795,412,Old myocardial infarction
+LIB193796,11.9,"Pulmonary tuberculosis, unspecified, unspecified"
+LIB193796,155.0,"Malignant neoplasm of liver, primary"
+LIB193796,571.2,Alcoholic cirrhosis of liver
+LIB193796,572.3,Portal hypertension
+LIB193796,717.5,"Derangement of meniscus, not elsewhere classified"
+LIB193796,823.8,Closed fracture of unspecified part of tibia alone
+LIB193796,V42.7,Liver replaced by transplant
+LIB193799,41.86,Helicobacter pylori [H. pylori]
+LIB193799,443.0,Raynaud's syndrome
+LIB193799,459.81,"Venous (peripheral) insufficiency, unspecified"
+LIB193799,637.9,"Unspecified abortion, without mention of complication, unspecified"
+LIB193799,719.65,"Other symptoms referable to joint, pelvic region and thigh"
+LIB193799,805.2,Closed fracture of dorsal [thoracic] vertebra without mention of spinal cord injury
+LIB193799,V45.51,Presence of intrauterine contraceptive device
+LIB193799,V68.1,Issue of repeat prescriptions
+LIB193800,377.39,Other optic neuritis
+LIB193800,493.9,"Asthma, unspecified type, unspecified"
+LIB193800,641.13,"Hemorrhage from placenta previa, antepartum condition or complication"
+LIB193800,648.83,"Abnormal glucose tolerance of mother, antepartum condition or complication"
+LIB193800,722.2,"Displacement of intervertebral disc, site unspecified, without myelopathy"
+LIB193801,250.11,"Diabetes with ketoacidosis, type I [juvenile type], not stated as uncontrolled"
+LIB193801,253.1,Other and unspecified anterior pituitary hyperfunction
+LIB193801,41.86,Helicobacter pylori [H. pylori]
+LIB193801,V72.85,Other specified examination
+LIB193802,244.9,Unspecified acquired hypothyroidism
+LIB193802,790.6,Other abnormal blood chemistry
+LIB193803,216.9,"Benign neoplasm of skin, site unspecified"
+LIB193805,250.6,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193805,272.0,Pure hypercholesterolemia
+LIB193805,611.1,Hypertrophy of breast
+LIB193805,V68.1,Issue of repeat prescriptions
+LIB193808,401.9,Unspecified essential hypertension
+LIB193809,724.2,Lumbago
+LIB193809,788.0,Renal colic
+LIB193812,V65.40,Counseling NOS
+LIB193813,227.3,Benign neoplasm of pituitary gland and craniopharyngeal duct
+LIB193813,252.00,"Hyperparathyroidism, unspecified"
+LIB193813,737.8,Other curvatures of spine
+LIB193814,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193814,331.9,"Cerebral degeneration, unspecified"
+LIB193814,38.3,Septicemia due to anaerobes
+LIB193814,596.54,Neurogenic bladder NOS
+LIB193814,780.4,Dizziness and giddiness
+LIB193814,781.3,Lack of coordination
+LIB193815,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193815,791.0,Proteinuria
+LIB193816,710.0,Systemic lupus erythematosus
+LIB193816,741.9,"Spina bifida without mention of hydrocephalus, unspecified region"
+LIB193817,79.82,SARS-associated coronavirus
+LIB193818,278.00,"Obesity, unspecified"
+LIB193818,52.9,Varicella without mention of complication
+LIB193818,V15.82,Personal history of tobacco use
+LIB193819,373.00,"Blepharitis, unspecified"
+LIB193820,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193820,272.4,Other and unspecified hyperlipidemia
+LIB193820,401.9,Unspecified essential hypertension
+LIB193820,428.9,"Heart failure, unspecified"
+LIB193820,715.9,"Osteoarthrosis, unspecified whether generalized or localized, site unspecified"
+LIB193820,V43.3,Heart valve replaced by other means
+LIB193821,244.9,Unspecified acquired hypothyroidism
+LIB193821,387.9,"Otosclerosis, unspecified"
+LIB193824,272.8,Other disorders of lipoid metabolism
+LIB193824,852.4,"Extradural hemorrhage following injury without mention of open intracranial wound, unspecified state of consciousness"
+LIB193825,V71.9,Observation for unspecified suspected condition
+LIB193826,709.01,Vitiligo
+LIB193826,780.8,Generalized hyperhidrosis
+LIB193826,V67.00,"Follow-up examination, following surgery, unspecified"
+LIB193827,472.0,Chronic rhinitis
+LIB193827,493.00,"Extrinsic asthma, unspecified"
+LIB193827,696.0,Psoriatic arthropathy
+LIB193830,179,"Malignant neoplasm of uterus, part unspecified"
+LIB193830,215.9,"Other benign neoplasm of connective and other soft tissue, site unspecified"
+LIB193830,272.0,Pure hypercholesterolemia
+LIB193830,280.9,"Iron deficiency anemia, unspecified"
+LIB193830,289.9,Unspecified diseases of blood and blood-forming organs
+LIB193830,354.0,Carpal tunnel syndrome
+LIB193830,454.9,Asymptomatic varicose veins
+LIB193830,455.0,Internal hemorrhoids without mention of complication
+LIB193830,477.9,"Allergic rhinitis, cause unspecified"
+LIB193830,530.81,Esophageal reflux
+LIB193830,553.3,Diaphragmatic hernia without mention of obstruction or gangrene
+LIB193830,571.8,Other chronic nonalcoholic liver disease
+LIB193830,611.72,Lump or mass in breast
+LIB193830,620.2,Other and unspecified ovarian cyst
+LIB193830,626.6,Metrorrhagia
+LIB193830,648.83,"Abnormal glucose tolerance of mother, antepartum condition or complication"
+LIB193830,685.1,Pilonidal cyst without mention of abscess
+LIB193830,690.1,"Seborrheic dermatitis, unspecified"
+LIB193830,695.3,Rosacea
+LIB193830,696.1,Other psoriasis
+LIB193830,726.9,Enthesopathy of unspecified site
+LIB193830,727.3,Other bursitis
+LIB193830,788.0,Renal colic
+LIB193830,790.4,Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH]
+LIB193831,244.9,Unspecified acquired hypothyroidism
+LIB193831,278.00,"Obesity, unspecified"
+LIB193831,367.2,"Astigmatism, unspecified"
+LIB193835,788.0,Renal colic
+LIB193835,79.82,SARS-associated coronavirus
+LIB193836,250.4,"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193836,362.01,Background diabetic retinopathy
+LIB193836,362.83,Retinal edema
+LIB193836,723.1,Cervicalgia
+LIB193837,244.9,Unspecified acquired hypothyroidism
+LIB193837,272.4,Other and unspecified hyperlipidemia
+LIB193837,277.4,Disorders of bilirubin excretion
+LIB193837,733.9,"Disorder of bone and cartilage, unspecified"
+LIB193838,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193839,781.3,Lack of coordination
+LIB193840,244.9,Unspecified acquired hypothyroidism
+LIB193840,V15.82,Personal history of tobacco use
+LIB193844,477.9,"Allergic rhinitis, cause unspecified"
+LIB193846,250.81,"Diabetes with other specified manifestations, type I [juvenile type], not stated as uncontrolled"
+LIB193853,75,Infectious mononucleosis
+LIB193856,348.31,Metabolic encephalopathy
+LIB193856,425.4,Other primary cardiomyopathies
+LIB193856,718.00,"Articular cartilage disorder, site unspecified"
+LIB193856,780.52,"Insomnia, unspecified"
+LIB193856,854.15,"Intracranial injury of other and unspecified nature with open intracranial wound, with prolonged [more than 24 hours] loss of consciousness without return to pre-existing conscious level"
+LIB193856,98.36,"Gonococcal endometritis, chronic"
+LIB193858,706.1,Other acne
+LIB193858,706.1,Other acne
+LIB193859,553.3,Diaphragmatic hernia without mention of obstruction or gangrene
+LIB193863,244.9,Unspecified acquired hypothyroidism
+LIB193863,345.9,"Epilepsy, unspecified, without mention of intractable epilepsy"
+LIB193863,460,Acute nasopharyngitis [common cold]
+LIB193863,463,Acute tonsillitis
+LIB193864,244.9,Unspecified acquired hypothyroidism
+LIB193864,360.21,Progressive high (degenerative) myopia
+LIB193864,455.3,External hemorrhoids without mention of complication
+LIB193864,477.0,Allergic rhinitis due to pollen
+LIB193865,244.9,Unspecified acquired hypothyroidism
+LIB193865,493.01,Extrinsic asthma with status asthmaticus
+LIB193866,375.15,"Tear film insufficiency, unspecified"
+LIB193866,460,Acute nasopharyngitis [common cold]
+LIB193866,493.9,"Asthma, unspecified type, unspecified"
+LIB193866,530.81,Esophageal reflux
+LIB193866,784.0,Headache
+LIB193866,788.3,"Urinary incontinence, unspecified"
+LIB193866,V25.43,Surveillance of implantable subdermal contraceptive
+LIB193867,244.9,Unspecified acquired hypothyroidism
+LIB193868,346.9,"Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus"
+LIB193869,75,Infectious mononucleosis
+LIB193870,217,Benign neoplasm of breast
+LIB193870,242.9,"Thyrotoxicosis without mention of goiter or other cause, and without mention of thyrotoxic crisis or storm"
+LIB193870,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193873,486,"Pneumonia, organism unspecified"
+LIB193879,244.9,Unspecified acquired hypothyroidism
+LIB193879,362.9,Unspecified retinal disorder
+LIB193879,466.0,Acute bronchitis
+LIB193879,472.0,Chronic rhinitis
+LIB193879,493.9,"Asthma, unspecified type, unspecified"
+LIB193881,541,"Appendicitis, unqualified"
+LIB193882,244.9,Unspecified acquired hypothyroidism
+LIB193882,308.0,Predominant disturbance of emotions
+LIB193882,372.3,"Conjunctivitis, unspecified"
+LIB193882,401.9,Unspecified essential hypertension
+LIB193882,493.00,"Extrinsic asthma, unspecified"
+LIB193882,536.8,Dyspepsia and other specified disorders of function of stomach
+LIB193882,592.0,Calculus of kidney
+LIB193882,722.2,"Displacement of intervertebral disc, site unspecified, without myelopathy"
+LIB193882,723.1,Cervicalgia
+LIB193882,726.1,"Disorders of bursae and tendons in shoulder region, unspecified"
+LIB193882,729.2,"Neuralgia, neuritis, and radiculitis, unspecified"
+LIB193887,244.9,Unspecified acquired hypothyroidism
+LIB193887,278.00,"Obesity, unspecified"
+LIB193887,V15.01,Allergy to peanuts
+LIB193892,427.89,Other specified cardiac dysrhythmias
+LIB193892,733.9,"Disorder of bone and cartilage, unspecified"
+LIB193892,782.0,Disturbance of skin sensation
+LIB193892,784.0,Headache
+LIB193894,172.9,"Melanoma of skin, site unspecified"
+LIB193894,722.73,"Intervertebral disc disorder with myelopathy, lumbar region"
+LIB193894,737.8,Other curvatures of spine
+LIB193895,477.0,Allergic rhinitis due to pollen
+LIB193895,53.9,Herpes zoster without mention of complication
+LIB193896,245.9,"Thyroiditis, unspecified"
+LIB193897,215.9,"Other benign neoplasm of connective and other soft tissue, site unspecified"
+LIB193898,519.8,"Other diseases of respiratory system, not elsewhere classified"
+LIB193898,785.6,Enlargement of lymph nodes
+LIB193898,791.0,Proteinuria
+LIB193899,250.63,"Diabetes with neurological manifestations, type I [juvenile type], uncontrolled"
+LIB193900,241.0,Nontoxic uninodular goiter
+LIB193900,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193900,354.0,Carpal tunnel syndrome
+LIB193900,362.9,Unspecified retinal disorder
+LIB193900,366.9,Unspecified cataract
+LIB193900,389.9,Unspecified hearing loss
+LIB193900,389.9,Unspecified hearing loss
+LIB193900,737.2,Lordosis (acquired) (postural)
+LIB193900,780.57,Unspecified sleep apnea
+LIB193902,272.4,Other and unspecified hyperlipidemia
+LIB193902,V15.82,Personal history of tobacco use
+LIB193903,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193903,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193903,807.09,"Closed fracture of multiple ribs, unspecified"
+LIB193903,829.0,"Fracture of unspecified bone, closed"
+LIB193906,372.14,Other chronic allergic conjunctivitis
+LIB193912,244.9,Unspecified acquired hypothyroidism
+LIB193914,244.9,Unspecified acquired hypothyroidism
+LIB193914,V45.51,Presence of intrauterine contraceptive device
+LIB193915,180.9,"Malignant neoplasm of cervix uteri, unspecified site"
+LIB193915,362.01,Background diabetic retinopathy
+LIB193915,365.9,Unspecified glaucoma
+LIB193915,401.9,Unspecified essential hypertension
+LIB193915,410.9,"Acute myocardial infarction of unspecified site, episode of care unspecified"
+LIB193915,530.81,Esophageal reflux
+LIB193915,785.52,Septic shock
+LIB193916,215.9,"Other benign neoplasm of connective and other soft tissue, site unspecified"
+LIB193916,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193916,250.6,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193916,354.0,Carpal tunnel syndrome
+LIB193917,691.8,Other atopic dermatitis and related conditions
+LIB193917,V67.00,"Follow-up examination, following surgery, unspecified"
+LIB193918,278.00,"Obesity, unspecified"
+LIB193918,V72.0,Examination of eyes and vision
+LIB193920,367.1,Myopia
+LIB193921,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193926,365.9,Unspecified glaucoma
+LIB193926,477.0,Allergic rhinitis due to pollen
+LIB193927,244.9,Unspecified acquired hypothyroidism
+LIB193928,272.0,Pure hypercholesterolemia
+LIB193928,300.00,"Anxiety state, unspecified"
+LIB193930,244.8,Other specified acquired hypothyroidism
+LIB193931,737.3,"Scoliosis [and kyphoscoliosis], idiopathic"
+LIB193932,272.0,Pure hypercholesterolemia
+LIB193932,425.4,Other primary cardiomyopathies
+LIB193934,250.91,"Diabetes with unspecified complication, type I [juvenile type], not stated as uncontrolled"
+LIB193938,423.9,Unspecified disease of pericardium
+LIB193938,486,"Pneumonia, organism unspecified"
+LIB193939,579.0,Celiac disease
+LIB193940,244.9,Unspecified acquired hypothyroidism
+LIB193940,735.0,Hallux valgus (acquired)
+LIB193940,736.73,"Cavus deformity of foot, acquired"
+LIB193941,280.9,"Iron deficiency anemia, unspecified"
+LIB193941,380.4,Impacted cerumen
+LIB193941,447.6,"Arteritis, unspecified"
+LIB193941,53.9,Herpes zoster without mention of complication
+LIB193941,599.0,"Urinary tract infection, site not specified"
+LIB193941,616.1,"Vaginitis and vulvovaginitis, unspecified"
+LIB193942,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193944,244.9,Unspecified acquired hypothyroidism
+LIB193944,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193944,477.9,"Allergic rhinitis, cause unspecified"
+LIB193945,244.9,Unspecified acquired hypothyroidism
+LIB193945,250.4,"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193945,250.51,"Diabetes with ophthalmic manifestations, type I [juvenile type], not stated as uncontrolled"
+LIB193945,251.2,"Hypoglycemia, unspecified"
+LIB193945,305.1,Tobacco use disorder
+LIB193945,362.53,Cystoid macular degeneration
+LIB193945,477.9,"Allergic rhinitis, cause unspecified"
+LIB193945,493.9,"Asthma, unspecified type, unspecified"
+LIB193945,52.9,Varicella without mention of complication
+LIB193945,780.39,Other convulsions
+LIB193946,79.82,SARS-associated coronavirus
+LIB193948,244.9,Unspecified acquired hypothyroidism
+LIB193948,V67.00,"Follow-up examination, following surgery, unspecified"
+LIB193949,486,"Pneumonia, organism unspecified"
+LIB193950,250.91,"Diabetes with unspecified complication, type I [juvenile type], not stated as uncontrolled"
+LIB193950,288.3,Eosinophilia
+LIB193950,382.9,Unspecified otitis media
+LIB193956,466.0,Acute bronchitis
+LIB193956,474.12,Hypertrophy of adenoids alone
+LIB193956,493.00,"Extrinsic asthma, unspecified"
+LIB193957,382.9,Unspecified otitis media
+LIB193957,493.91,"Asthma, unspecified type, with status asthmaticus"
+LIB193961,350.1,Trigeminal neuralgia
+LIB193961,829.0,"Fracture of unspecified bone, closed"
+LIB193961,V45.6,States following surgery of eye and adnexa
+LIB193962,425.4,Other primary cardiomyopathies
+LIB193962,436,"Acute, but ill-defined, cerebrovascular disease"
+LIB193964,278.00,"Obesity, unspecified"
+LIB193965,530.1,"Esophagitis, unspecified"
+LIB193965,727.06,Tenosynovitis of foot and ankle
+LIB193967,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193971,250.4,"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193971,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193971,272.0,Pure hypercholesterolemia
+LIB193971,401.9,Unspecified essential hypertension
+LIB193971,477.9,"Allergic rhinitis, cause unspecified"
+LIB193971,715.09,"Osteoarthrosis, generalized, multiple sites"
+LIB193971,V70.5,Health examination of defined subpopulations
+LIB193973,737.3,"Scoliosis [and kyphoscoliosis], idiopathic"
+LIB193974,334.0,Friedreich's ataxia
+LIB193977,709.01,Vitiligo
+LIB193977,78.19,Other specified viral warts
+LIB193977,V67.00,"Follow-up examination, following surgery, unspecified"
+LIB193978,278.00,"Obesity, unspecified"
+LIB193980,244.9,Unspecified acquired hypothyroidism
+LIB193980,272.4,Other and unspecified hyperlipidemia
+LIB193980,709.01,Vitiligo
+LIB193980,710.2,Sicca syndrome
+LIB193980,721.9,"Spondylosis of unspecified site, without mention of myelopathy"
+LIB193980,790.6,Other abnormal blood chemistry
+LIB193981,466.0,Acute bronchitis
+LIB193981,493.9,"Asthma, unspecified type, unspecified"
+LIB193981,564.00,"Constipation, unspecified"
+LIB193982,216.9,"Benign neoplasm of skin, site unspecified"
+LIB193982,245.2,Chronic lymphocytic thyroiditis
+LIB193982,477.9,"Allergic rhinitis, cause unspecified"
+LIB193982,685.1,Pilonidal cyst without mention of abscess
+LIB193990,250.4,"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193990,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB193990,282.4,"Thalassemia, unspecified"
+LIB193990,311,"Depressive disorder, not elsewhere classified"
+LIB193990,401.9,Unspecified essential hypertension
+LIB193990,413.9,Other and unspecified angina pectoris
+LIB193990,443.9,"Peripheral vascular disease, unspecified"
+LIB193990,537.9,Unspecified disorder of stomach and duodenum
+LIB193990,577.0,Acute pancreatitis
+LIB193991,242.2,Toxic multinodular goiter without mention of thyrotoxic crisis or storm
+LIB193991,244.9,Unspecified acquired hypothyroidism
+LIB193991,611.72,Lump or mass in breast
+LIB193993,250.91,"Diabetes with unspecified complication, type I [juvenile type], not stated as uncontrolled"
+LIB193993,251.2,"Hypoglycemia, unspecified"
+LIB193993,276.2,Acidosis
+LIB193993,477.9,"Allergic rhinitis, cause unspecified"
+LIB193993,493.00,"Extrinsic asthma, unspecified"
+LIB193995,737.3,"Scoliosis [and kyphoscoliosis], idiopathic"
+LIB193997,250.11,"Diabetes with ketoacidosis, type I [juvenile type], not stated as uncontrolled"
+LIB193997,41.86,Helicobacter pylori [H. pylori]
+LIB193999,244.9,Unspecified acquired hypothyroidism
+LIB193999,477.0,Allergic rhinitis due to pollen
+LIB194002,367.1,Myopia
+LIB194002,579.0,Celiac disease
+LIB194004,052.0,Postvaricella encephalitis
+LIB194004,249.01,"Secondary diabetes mellitus without mention of complication, uncontrolled"
+LIB194006,250.13,"Diabetes with ketoacidosis, type I [juvenile type], uncontrolled"
+LIB194006,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB194006,323.61,Infectious acute disseminated encephalomyelitis (ADEM)
+LIB194007,605,Redundant prepuce and phimosis
+LIB194008,401.9,Unspecified essential hypertension
+LIB194008,425.4,Other primary cardiomyopathies
+LIB194008,493.9,"Asthma, unspecified type, unspecified"
+LIB194008,V25.9,Unspecified contraceptive management
+LIB194009,244.9,Unspecified acquired hypothyroidism
+LIB194010,214.9,"Lipoma, unspecified site"
+LIB194010,244.9,Unspecified acquired hypothyroidism
+LIB194010,364.3,Unspecified iridocyclitis
+LIB194010,54.9,Herpes simplex without mention of complication
+LIB194010,566,Abscess of anal and rectal regions
+LIB194010,805.8,Closed fracture of unspecified vertebral column without mention of spinal cord injury
+LIB194010,847.0,Sprain of neck
+LIB194010,V15.0,"Allergy, other than to medicinal agents"
+LIB194011,530.81,Esophageal reflux
+LIB194013,477.0,Allergic rhinitis due to pollen
+LIB194015,272.2,Mixed hyperlipidemia
+LIB194015,278.00,"Obesity, unspecified"
+LIB194015,571.8,Other chronic nonalcoholic liver disease
+LIB194015,790.6,Other abnormal blood chemistry
+LIB194019,250.4,"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB194019,250.51,"Diabetes with ophthalmic manifestations, type I [juvenile type], not stated as uncontrolled"
+LIB194019,272.1,Pure hyperglyceridemia
+LIB194019,362.01,Background diabetic retinopathy
+LIB194019,403.9,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"
+LIB194019,477.0,Allergic rhinitis due to pollen
+LIB194019,812.2,Closed fracture of unspecified part of humerus
+LIB194019,812.2,Closed fracture of unspecified part of humerus
+LIB194021,244.9,Unspecified acquired hypothyroidism
+LIB194021,579.0,Celiac disease
+LIB194023,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB194023,250.6,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB194023,486,"Pneumonia, organism unspecified"
+LIB194023,721.9,"Spondylosis of unspecified site, without mention of myelopathy"
+LIB194024,648.83,"Abnormal glucose tolerance of mother, antepartum condition or complication"
+LIB194025,244.9,Unspecified acquired hypothyroidism
+LIB194025,244.9,Unspecified acquired hypothyroidism
+LIB194025,367.1,Myopia
+LIB194026,213.9,"Benign neoplasm of bone and articular cartilage, site unspecified"
+LIB194026,715.34,"Osteoarthrosis, localized, not specified whether primary or secondary, hand"
+LIB194026,V62.82,"Bereavement, uncomplicated"
+LIB194028,460,Acute nasopharyngitis [common cold]
+LIB194028,477.9,"Allergic rhinitis, cause unspecified"
+LIB194028,690.1,"Seborrheic dermatitis, unspecified"
+LIB194028,736.79,Other acquired deformities of ankle and foot
+LIB194028,995.3,"Allergy, unspecified, not elsewhere classified"
+LIB194030,244.9,Unspecified acquired hypothyroidism
+LIB194030,278.00,"Obesity, unspecified"
+LIB194030,367.1,Myopia
+LIB194031,244.9,Unspecified acquired hypothyroidism
+LIB194031,244.9,Unspecified acquired hypothyroidism
+LIB194031,367.1,Myopia
+LIB194031,477.0,Allergic rhinitis due to pollen
+LIB194031,V68.2,Request for expert evidence
+LIB194032,278.02,Overweight
+LIB194032,367.1,Myopia
+LIB194032,541,"Appendicitis, unqualified"
+LIB194032,591,Hydronephrosis
+LIB194032,592.0,Calculus of kidney
+LIB194036,367.1,Myopia
+LIB194036,530.81,Esophageal reflux
+LIB194039,493.00,"Extrinsic asthma, unspecified"
+LIB194039,708.5,Cholinergic urticaria
+LIB194042,530.81,Esophageal reflux
+LIB194043,477.9,"Allergic rhinitis, cause unspecified"
+LIB194044,240.9,"Goiter, unspecified"
+LIB194044,244.9,Unspecified acquired hypothyroidism
+LIB194044,443.0,Raynaud's syndrome
+LIB194044,V14.0,Personal history of allergy to penicillin
+LIB194044,V15.0,"Allergy, other than to medicinal agents"
+LIB194045,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB194046,250.11,"Diabetes with ketoacidosis, type I [juvenile type], not stated as uncontrolled"
+LIB194046,477.0,Allergic rhinitis due to pollen
+LIB194052,695.2,Erythema nodosum
+LIB194053,216.9,"Benign neoplasm of skin, site unspecified"
+LIB194053,245.2,Chronic lymphocytic thyroiditis
+LIB194053,300.00,"Anxiety state, unspecified"
+LIB194053,372.4,"Pterygium, unspecified"
+LIB194053,702.19,Other seborrheic keratosis
+LIB194055,244.9,Unspecified acquired hypothyroidism
+LIB194055,245.0,Acute thyroiditis
+LIB194056,576.1,Cholangitis
+LIB194062,244.9,Unspecified acquired hypothyroidism
+LIB194062,272.4,Other and unspecified hyperlipidemia
+LIB194062,715.36,"Osteoarthrosis, localized, not specified whether primary or secondary, lower leg"
+LIB194062,715.9,"Osteoarthrosis, unspecified whether generalized or localized, site unspecified"
+LIB194063,244.9,Unspecified acquired hypothyroidism
+LIB194063,244.9,Unspecified acquired hypothyroidism
+LIB194063,346.9,"Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus"
+LIB194063,493.9,"Asthma, unspecified type, unspecified"
+LIB194063,691.0,Diaper or napkin rash
+LIB194066,564.1,Irritable bowel syndrome
+LIB194067,244.8,Other specified acquired hypothyroidism
+LIB194067,272.0,Pure hypercholesterolemia
+LIB194067,345.9,"Epilepsy, unspecified, without mention of intractable epilepsy"
+LIB194067,384.2,"Perforation of tympanic membrane, unspecified"
+LIB194067,54.1,"Genital herpes, unspecified"
+LIB194067,742.9,"Unspecified congenital anomaly of brain, spinal cord, and nervous system"
+LIB194067,758.6,Gonadal dysgenesis
+LIB194068,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB194068,251.2,"Hypoglycemia, unspecified"
+LIB194068,75,Infectious mononucleosis
+LIB194068,794.5,Nonspecific abnormal results of function study of thyroid
+LIB194068,831.00,"Closed dislocation of shoulder, unspecified"
+LIB194068,V16.0,Family history of malignant neoplasm of gastrointestinal tract
+LIB194071,244.8,Other specified acquired hypothyroidism
+LIB194073,250.4,"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB194073,696.1,Other psoriasis
+LIB194075,373.00,"Blepharitis, unspecified"
+LIB194088,244.9,Unspecified acquired hypothyroidism
+LIB194088,401.9,Unspecified essential hypertension
+LIB194089,278.00,"Obesity, unspecified"
+LIB194089,727.00,"Synovitis and tenosynovitis, unspecified"
+LIB194089,790.6,Other abnormal blood chemistry
+LIB194091,220,Benign neoplasm of ovary
+LIB194091,616.1,"Vaginitis and vulvovaginitis, unspecified"
+LIB194091,620.2,Other and unspecified ovarian cyst
+LIB194091,V72.32,Encounter for Papanicolaou cervical smear to confirm findings of recent normal smear following initial abnormal smear
+LIB194094,244.9,Unspecified acquired hypothyroidism
+LIB194095,300.14,Dissociative identity disorder
+LIB194095,305.1,Tobacco use disorder
+LIB194095,345.9,"Epilepsy, unspecified, without mention of intractable epilepsy"
+LIB194095,370.21,Punctate keratitis
+LIB194095,371.03,Central opacity of cornea
+LIB194095,377.39,Other optic neuritis
+LIB194095,41.86,Helicobacter pylori [H. pylori]
+LIB194095,455.6,Unspecified hemorrhoids without mention of complication
+LIB194095,493.9,"Asthma, unspecified type, unspecified"
+LIB194095,556.9,"Ulcerative colitis, unspecified"
+LIB194095,564.1,Irritable bowel syndrome
+LIB194095,715.36,"Osteoarthrosis, localized, not specified whether primary or secondary, lower leg"
+LIB194095,720.0,Ankylosing spondylitis
+LIB194095,729.1,"Myalgia and myositis, unspecified"
+LIB194095,733.42,Aseptic necrosis of head and neck of femur
+LIB194095,79.82,SARS-associated coronavirus
+LIB194095,V62.82,"Bereavement, uncomplicated"
+LIB194097,250.9,"Diabetes with unspecified complication, type II or unspecified type, not stated as uncontrolled"
+LIB194098,493.9,"Asthma, unspecified type, unspecified"
+LIB194101,401.9,Unspecified essential hypertension
+LIB194101,473.9,Unspecified sinusitis (chronic)
+LIB194101,553.21,Incisional hernia without mention of obstruction or gangrene
+LIB194101,571.8,Other chronic nonalcoholic liver disease
+LIB194101,701.0,Circumscribed scleroderma
+LIB194101,721.0,Cervical spondylosis without myelopathy
+LIB194101,721.9,"Spondylosis of unspecified site, without mention of myelopathy"
+LIB194101,781.0,Abnormal involuntary movements
+LIB194105,11.9,"Pulmonary tuberculosis, unspecified, unspecified"
+LIB194105,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB194105,38.9,Unspecified septicemia
+LIB194105,415.19,Other pulmonary embolism and infarction
+LIB194105,423.9,Unspecified disease of pericardium
+LIB194105,716.91,"Arthropathy, unspecified, shoulder region"
+LIB194105,716.95,"Arthropathy, unspecified, pelvic region and thigh"
+LIB194106,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB194108,278.00,"Obesity, unspecified"
+LIB194108,493.9,"Asthma, unspecified type, unspecified"
+LIB194108,97.9,"Syphilis, unspecified"
+LIB194109,240.0,"Goiter, specified as simple"
+LIB194109,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB194109,300.4,Dysthymic disorder
+LIB194109,354.0,Carpal tunnel syndrome
+LIB194109,356.9,Unspecified hereditary and idiopathic peripheral neuropathy
+LIB194109,357.2,Polyneuropathy in diabetes
+LIB194109,726.9,Enthesopathy of unspecified site
+LIB194109,727.00,"Synovitis and tenosynovitis, unspecified"
+LIB194109,729.1,"Myalgia and myositis, unspecified"
+LIB194109,733.09,Other osteoporosis
+LIB194109,754.0,"Congenital musculoskeletal deformities of skull, face, and jaw"
+LIB194111,485,"Bronchopneumonia, organism unspecified"
+LIB194111,785.2,Undiagnosed cardiac murmurs
+LIB194113,337.2,"Reflex sympathetic dystrophy, unspecified"
+LIB194113,397.0,Diseases of tricuspid valve
+LIB194113,427.61,Supraventricular premature beats
+LIB194113,427.89,Other specified cardiac dysrhythmias
+LIB194113,727.04,Radial styloid tenosynovitis
+LIB194114,244.9,Unspecified acquired hypothyroidism
+LIB194114,394.9,Other and unspecified mitral valve diseases
+LIB194114,401.9,Unspecified essential hypertension
+LIB194114,794.31,Nonspecific abnormal electrocardiogram [ECG] [EKG]
+LIB194116,309.9,Unspecified adjustment reaction
+LIB194117,685.1,Pilonidal cyst without mention of abscess
+LIB194120,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB194120,272.0,Pure hypercholesterolemia
+LIB194120,401.9,Unspecified essential hypertension
+LIB194122,244.9,Unspecified acquired hypothyroidism
+LIB194122,690.1,"Seborrheic dermatitis, unspecified"
+LIB194125,477.9,"Allergic rhinitis, cause unspecified"
+LIB194125,737.2,Lordosis (acquired) (postural)
+LIB194126,272.0,Pure hypercholesterolemia
+LIB194127,642.41,"Mild or unspecified pre-eclampsia, delivered, with or without mention of antepartum condition"
+LIB194127,737.3,"Scoliosis [and kyphoscoliosis], idiopathic"
+LIB194129,244.9,Unspecified acquired hypothyroidism
+LIB194130,706.1,Other acne
+LIB194130,813.81,Closed fracture of unspecified part of radius (alone)
+LIB194131,250.11,"Diabetes with ketoacidosis, type I [juvenile type], not stated as uncontrolled"
+LIB194133,V14.0,Personal history of allergy to penicillin
+LIB194133,V15.0,"Allergy, other than to medicinal agents"
+LIB194133,V43.64,Hip joint replacement
+LIB194136,244.9,Unspecified acquired hypothyroidism
+LIB194137,354.0,Carpal tunnel syndrome
+LIB194137,530.81,Esophageal reflux
+LIB194137,706.1,Other acne
+LIB194139,477.9,"Allergic rhinitis, cause unspecified"
+LIB194148,721.3,Lumbosacral spondylosis without myelopathy
+LIB194148,724.9,Other unspecified back disorders
+LIB194150,726.11,Calcifying tendinitis of shoulder
+LIB194153,250.91,"Diabetes with unspecified complication, type I [juvenile type], not stated as uncontrolled"
+LIB194159,250.5,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+LIB194159,250.9,"Diabetes with unspecified complication, type II or unspecified type, not stated as uncontrolled"
+LIB194161,228.00,Hemangioma of unspecified site
+LIB194161,272.4,Other and unspecified hyperlipidemia
+LIB194161,401.9,Unspecified essential hypertension
+LIB194161,435.9,Unspecified transient cerebral ischemia
+LIB194161,920,"Contusion of face, scalp, and neck except eye(s)"
+LIB194164,637.9,"Unspecified abortion, without mention of complication, unspecified"
