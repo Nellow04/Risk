@@ -1,0 +1,8 @@
+{
+  "model_type": "LightGBM",
+  "analysis_method": "Partial Dependence Plots",
+  "dataset_type": "PCA",
+  "top_features_analyzed": 6,
+  "most_important_feature": "PC9",
+  "total_features": 18
+}

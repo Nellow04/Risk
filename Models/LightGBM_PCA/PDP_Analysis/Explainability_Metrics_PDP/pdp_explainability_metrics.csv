@@ -1,0 +1,6 @@
+Metric,Score,Level,Method
+Fidelity,0.987830876777713,Excellent,PDP analysis
+Faithfulness,0.46212107621653103,Fair,PDP analysis
+Sparsity,0.6666666666666667,Good,PDP analysis
+Stability,0.9976124345253984,Excellent,PDP analysis
+Consistency,0.5,Fair,PDP analysis

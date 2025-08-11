@@ -1,0 +1,67 @@
+{
+  "selected_features": [
+    "PC9",
+    "PC8",
+    "PC2",
+    "PC14",
+    "PC12",
+    "PC10"
+  ],
+  "insights": [
+    {
+      "feature": "PC9",
+      "trend": "decrescente",
+      "effect_range": 0.37628472097598303,
+      "min_value": -1.326901217536284,
+      "max_value": 1.621842204333125,
+      "min_effect": 0.3629788917243693,
+      "max_effect": 0.7392636127003523
+    },
+    {
+      "feature": "PC8",
+      "trend": "decrescente",
+      "effect_range": 0.4593031156443017,
+      "min_value": -1.5123783685782823,
+      "max_value": 1.5215091946921324,
+      "min_effect": 0.28423284599803245,
+      "max_effect": 0.7435359616423342
+    },
+    {
+      "feature": "PC2",
+      "trend": "decrescente",
+      "effect_range": 0.21162940957732101,
+      "min_value": -2.4144487136748234,
+      "max_value": 2.315316959948215,
+      "min_effect": 0.4558241818912043,
+      "max_effect": 0.6674535914685253
+    },
+    {
+      "feature": "PC14",
+      "trend": "decrescente",
+      "effect_range": 0.09629876778981195,
+      "min_value": -1.080493664701715,
+      "max_value": 1.215740176098653,
+      "min_effect": 0.44867611795329354,
+      "max_effect": 0.5449748857431055
+    },
+    {
+      "feature": "PC12",
+      "trend": "decrescente",
+      "effect_range": 0.10674985884119004,
+      "min_value": -1.1949120971757887,
+      "max_value": 1.3613363646361103,
+      "min_effect": 0.4516783586755482,
+      "max_effect": 0.5584282175167382
+    },
+    {
+      "feature": "PC10",
+      "trend": "decrescente",
+      "effect_range": 0.13726901529330493,
+      "min_value": -1.348960055581771,
+      "max_value": 1.4352930248949072,
+      "min_effect": 0.4595724418191829,
+      "max_effect": 0.5968414571124878
+    }
+  ],
+  "timestamp": "2025-07-28T11:34:50.681272"
+}
