@@ -1,0 +1,6 @@
+Metric,Score,Level,Method
+Fidelity,1.0,Excellent,Rule-based analysis
+Faithfulness,0.9788897080331521,Excellent,Rule-based analysis
+Sparsity,0.8148148148148148,Excellent,Rule-based analysis
+Stability,0.6645201465201466,Good,Rule-based analysis
+Consistency,0.4017857142857143,Fair,Rule-based analysis

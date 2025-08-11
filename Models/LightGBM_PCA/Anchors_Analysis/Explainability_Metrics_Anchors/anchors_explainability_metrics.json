@@ -1,0 +1,11 @@
+{
+  "fidelity": 1.0,
+  "faithfulness": 0.9788897080331521,
+  "sparsity": 0.8148148148148148,
+  "stability": 0.6645201465201466,
+  "consistency": 0.4017857142857143,
+  "timestamp": "2025-07-28T11:31:00.571319",
+  "model_type": "LightGBM",
+  "explanation_method": "Anchors",
+  "dataset_type": "PCA"
+}
