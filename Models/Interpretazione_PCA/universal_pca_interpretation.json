@@ -1,0 +1,966 @@
+{
+    "timestamp": "2025-08-11T22:40:32.380653",
+    "analysis_type": "Universal PCA Components Interpretation",
+    "description": "Base di conoscenza riutilizzabile per tutti i modelli ML",
+    "total_components": 18,
+    "universal_interpretations": {
+        "PC1": {
+            "pca_rank": 1,
+            "explained_variance": 0.1291169559161858,
+            "cumulative_variance": 0.1291169559161858,
+            "top_features": [
+                {
+                    "feature": "Creatinine",
+                    "loading": 0.4945284388759243,
+                    "abs_loading": 0.4945284388759243,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "Albumin_urine",
+                    "loading": 0.4635748761252163,
+                    "abs_loading": 0.4635748761252163,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "Uric_acid",
+                    "loading": 0.3089152256688261,
+                    "abs_loading": 0.3089152256688261,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "Cardiovascular_Comorbidity",
+                    "loading": 0.2959683409848614,
+                    "abs_loading": 0.2959683409848614,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "Number_of_diagnostics",
+                    "loading": 0.24508185026147924,
+                    "abs_loading": 0.24508185026147924,
+                    "direction": "positive"
+                }
+            ],
+            "top5_percentage": 49.76702519057827,
+            "clinical_interpretation": {
+                "primary_domain": "kidney_function",
+                "domain_description": "Funzione Renale (principalmente: Creatinine, Albumin_urine, Uric_acid)",
+                "domains_represented": {
+                    "kidney_function": 2,
+                    "metabolism": 1,
+                    "cardiovascular": 1,
+                    "clinical_history": 1
+                },
+                "primary_features": [
+                    "Creatinine",
+                    "Albumin_urine",
+                    "Uric_acid"
+                ]
+            }
+        },
+        "PC2": {
+            "pca_rank": 2,
+            "explained_variance": 0.1032542460716731,
+            "cumulative_variance": 0.2323712019878589,
+            "top_features": [
+                {
+                    "feature": "Sodium",
+                    "loading": 0.4254222055567557,
+                    "abs_loading": 0.4254222055567557,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "Glucose",
+                    "loading": -0.41093343891300893,
+                    "abs_loading": 0.41093343891300893,
+                    "direction": "negative"
+                },
+                {
+                    "feature": "Creatinine_urine",
+                    "loading": 0.3152702090346878,
+                    "abs_loading": 0.3152702090346878,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "HbA1c",
+                    "loading": -0.2976253190228539,
+                    "abs_loading": 0.2976253190228539,
+                    "direction": "negative"
+                },
+                {
+                    "feature": "Sex",
+                    "loading": -0.26667226065698774,
+                    "abs_loading": 0.26667226065698774,
+                    "direction": "negative"
+                }
+            ],
+            "top5_percentage": 43.81398152610619,
+            "clinical_interpretation": {
+                "primary_domain": "glucose_control",
+                "domain_description": "Controllo Glicemico (principalmente: Sodium, Glucose, Creatinine_urine)",
+                "domains_represented": {
+                    "electrolytes": 1,
+                    "glucose_control": 2,
+                    "kidney_function": 1,
+                    "demographic": 1
+                },
+                "primary_features": [
+                    "Sodium",
+                    "Glucose",
+                    "Creatinine_urine"
+                ]
+            }
+        },
+        "PC3": {
+            "pca_rank": 3,
+            "explained_variance": 0.0929200519904622,
+            "cumulative_variance": 0.3252912539783212,
+            "top_features": [
+                {
+                    "feature": "Age",
+                    "loading": 0.39437636920940305,
+                    "abs_loading": 0.39437636920940305,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "HDL_cholesterol",
+                    "loading": 0.3915702257960428,
+                    "abs_loading": 0.3915702257960428,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "Sex",
+                    "loading": 0.33454258187528635,
+                    "abs_loading": 0.33454258187528635,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "HbA1c",
+                    "loading": -0.31664908540347086,
+                    "abs_loading": 0.31664908540347086,
+                    "direction": "negative"
+                },
+                {
+                    "feature": "Triglycerides",
+                    "loading": -0.2845044870386793,
+                    "abs_loading": 0.2845044870386793,
+                    "direction": "negative"
+                }
+            ],
+            "top5_percentage": 45.699168343596256,
+            "clinical_interpretation": {
+                "primary_domain": "demographic",
+                "domain_description": "Fattori Demografici (principalmente: Age, HDL_cholesterol, Sex)",
+                "domains_represented": {
+                    "demographic": 2,
+                    "lipid_profile": 2,
+                    "glucose_control": 1
+                },
+                "primary_features": [
+                    "Age",
+                    "HDL_cholesterol",
+                    "Sex",
+                    "HbA1c"
+                ]
+            }
+        },
+        "PC4": {
+            "pca_rank": 4,
+            "explained_variance": 0.0812947754911815,
+            "cumulative_variance": 0.4065860294695027,
+            "top_features": [
+                {
+                    "feature": "Albumin_urine",
+                    "loading": 0.6322998316702078,
+                    "abs_loading": 0.6322998316702078,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "Creatinine",
+                    "loading": 0.3124765261528514,
+                    "abs_loading": 0.3124765261528514,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "Total_cholesterol",
+                    "loading": 0.3010410762537608,
+                    "abs_loading": 0.3010410762537608,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "HDL_cholesterol",
+                    "loading": 0.2979733167069994,
+                    "abs_loading": 0.2979733167069994,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "Uric_acid",
+                    "loading": -0.26056114451400064,
+                    "abs_loading": 0.26056114451400064,
+                    "direction": "negative"
+                }
+            ],
+            "top5_percentage": 50.26345467477037,
+            "clinical_interpretation": {
+                "primary_domain": "kidney_function",
+                "domain_description": "Funzione Renale (principalmente: Albumin_urine, Creatinine, Total_cholesterol)",
+                "domains_represented": {
+                    "kidney_function": 2,
+                    "lipid_profile": 2,
+                    "metabolism": 1
+                },
+                "primary_features": [
+                    "Albumin_urine",
+                    "Creatinine",
+                    "Total_cholesterol"
+                ]
+            }
+        },
+        "PC5": {
+            "pca_rank": 5,
+            "explained_variance": 0.0640453481802,
+            "cumulative_variance": 0.4706313776497027,
+            "top_features": [
+                {
+                    "feature": "Total_cholesterol",
+                    "loading": 0.5355776096955737,
+                    "abs_loading": 0.5355776096955737,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "GGT",
+                    "loading": 0.4439966762355342,
+                    "abs_loading": 0.4439966762355342,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "Uric_acid",
+                    "loading": 0.3177654769004356,
+                    "abs_loading": 0.3177654769004356,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "HDL_cholesterol",
+                    "loading": 0.2976688188925624,
+                    "abs_loading": 0.2976688188925624,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "Triglycerides",
+                    "loading": 0.2685312291707508,
+                    "abs_loading": 0.2685312291707508,
+                    "direction": "positive"
+                }
+            ],
+            "top5_percentage": 52.954663903277485,
+            "clinical_interpretation": {
+                "primary_domain": "lipid_profile",
+                "domain_description": "Profilo Lipidico (principalmente: Total_cholesterol, GGT, Uric_acid)",
+                "domains_represented": {
+                    "lipid_profile": 3,
+                    "liver_function": 1,
+                    "metabolism": 1
+                },
+                "primary_features": [
+                    "Total_cholesterol",
+                    "GGT",
+                    "Uric_acid"
+                ]
+            }
+        },
+        "PC6": {
+            "pca_rank": 6,
+            "explained_variance": 0.0606402997415711,
+            "cumulative_variance": 0.5312716773912739,
+            "top_features": [
+                {
+                    "feature": "TSH",
+                    "loading": 0.7850793671868366,
+                    "abs_loading": 0.7850793671868366,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "GGT",
+                    "loading": -0.30856860301943645,
+                    "abs_loading": 0.30856860301943645,
+                    "direction": "negative"
+                },
+                {
+                    "feature": "Chlorine",
+                    "loading": 0.27904809444954454,
+                    "abs_loading": 0.27904809444954454,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "Triglycerides",
+                    "loading": 0.26285633458896424,
+                    "abs_loading": 0.26285633458896424,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "Potassium",
+                    "loading": 0.21416159326030307,
+                    "abs_loading": 0.21416159326030307,
+                    "direction": "positive"
+                }
+            ],
+            "top5_percentage": 63.60725352995448,
+            "clinical_interpretation": {
+                "primary_domain": "electrolytes",
+                "domain_description": "Equilibrio Elettrolitico (principalmente: TSH, GGT)",
+                "domains_represented": {
+                    "thyroid_function": 1,
+                    "liver_function": 1,
+                    "electrolytes": 2,
+                    "lipid_profile": 1
+                },
+                "primary_features": [
+                    "TSH",
+                    "GGT"
+                ]
+            }
+        },
+        "PC7": {
+            "pca_rank": 7,
+            "explained_variance": 0.0549113371990502,
+            "cumulative_variance": 0.5861830145903242,
+            "top_features": [
+                {
+                    "feature": "Potassium",
+                    "loading": 0.6853914075490137,
+                    "abs_loading": 0.6853914075490137,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "TSH",
+                    "loading": -0.424006212832401,
+                    "abs_loading": 0.424006212832401,
+                    "direction": "negative"
+                },
+                {
+                    "feature": "GGT",
+                    "loading": -0.35259990543982106,
+                    "abs_loading": 0.35259990543982106,
+                    "direction": "negative"
+                },
+                {
+                    "feature": "Glucose",
+                    "loading": 0.20568234597562374,
+                    "abs_loading": 0.20568234597562374,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "Number_of_diagnostics",
+                    "loading": -0.19574462207498247,
+                    "abs_loading": 0.19574462207498247,
+                    "direction": "negative"
+                }
+            ],
+            "top5_percentage": 60.096917934624216,
+            "clinical_interpretation": {
+                "primary_domain": "electrolytes",
+                "domain_description": "Equilibrio Elettrolitico (principalmente: Potassium, TSH, GGT)",
+                "domains_represented": {
+                    "electrolytes": 1,
+                    "thyroid_function": 1,
+                    "liver_function": 1,
+                    "glucose_control": 1,
+                    "clinical_history": 1
+                },
+                "primary_features": [
+                    "Potassium",
+                    "TSH",
+                    "GGT"
+                ]
+            }
+        },
+        "PC8": {
+            "pca_rank": 8,
+            "explained_variance": 0.0535736888877474,
+            "cumulative_variance": 0.6397567034780717,
+            "top_features": [
+                {
+                    "feature": "TIR",
+                    "loading": 0.53632590862326,
+                    "abs_loading": 0.53632590862326,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "GGT",
+                    "loading": -0.47106295953659255,
+                    "abs_loading": 0.47106295953659255,
+                    "direction": "negative"
+                },
+                {
+                    "feature": "Chlorine",
+                    "loading": -0.4394708937758042,
+                    "abs_loading": 0.4394708937758042,
+                    "direction": "negative"
+                },
+                {
+                    "feature": "HbA1c",
+                    "loading": -0.2798301136834239,
+                    "abs_loading": 0.2798301136834239,
+                    "direction": "negative"
+                },
+                {
+                    "feature": "Sodium",
+                    "loading": -0.2356937024133835,
+                    "abs_loading": 0.2356937024133835,
+                    "direction": "negative"
+                }
+            ],
+            "top5_percentage": 59.98149046382826,
+            "clinical_interpretation": {
+                "primary_domain": "glucose_control",
+                "domain_description": "Controllo Glicemico (principalmente: TIR, GGT, Chlorine)",
+                "domains_represented": {
+                    "glucose_control": 2,
+                    "liver_function": 1,
+                    "electrolytes": 2
+                },
+                "primary_features": [
+                    "TIR",
+                    "GGT",
+                    "Chlorine"
+                ]
+            }
+        },
+        "PC9": {
+            "pca_rank": 9,
+            "explained_variance": 0.0476086375888615,
+            "cumulative_variance": 0.6873653410669331,
+            "top_features": [
+                {
+                    "feature": "GGT",
+                    "loading": 0.4460808566927121,
+                    "abs_loading": 0.4460808566927121,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "CV",
+                    "loading": -0.37559479492615067,
+                    "abs_loading": 0.37559479492615067,
+                    "direction": "negative"
+                },
+                {
+                    "feature": "TIR",
+                    "loading": 0.3324185975096508,
+                    "abs_loading": 0.3324185975096508,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "Cardiovascular_Comorbidity",
+                    "loading": -0.29500851348735313,
+                    "abs_loading": 0.29500851348735313,
+                    "direction": "negative"
+                },
+                {
+                    "feature": "Number_of_diagnostics",
+                    "loading": -0.2932700161027708,
+                    "abs_loading": 0.2932700161027708,
+                    "direction": "negative"
+                }
+            ],
+            "top5_percentage": 43.936116434512,
+            "clinical_interpretation": {
+                "primary_domain": "liver_function",
+                "domain_description": "Funzione Epatica (principalmente: GGT, CV, TIR)",
+                "domains_represented": {
+                    "liver_function": 1,
+                    "glucose_variability": 1,
+                    "glucose_control": 1,
+                    "cardiovascular": 1,
+                    "clinical_history": 1
+                },
+                "primary_features": [
+                    "GGT",
+                    "CV",
+                    "TIR"
+                ]
+            }
+        },
+        "PC10": {
+            "pca_rank": 10,
+            "explained_variance": 0.0439680514688574,
+            "cumulative_variance": 0.7313333925357907,
+            "top_features": [
+                {
+                    "feature": "Triglycerides",
+                    "loading": 0.5327860525346386,
+                    "abs_loading": 0.5327860525346386,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "Potassium",
+                    "loading": -0.40835799426207875,
+                    "abs_loading": 0.40835799426207875,
+                    "direction": "negative"
+                },
+                {
+                    "feature": "Chlorine",
+                    "loading": 0.3454733124578574,
+                    "abs_loading": 0.3454733124578574,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "TSH",
+                    "loading": -0.2997685963441869,
+                    "abs_loading": 0.2997685963441869,
+                    "direction": "negative"
+                },
+                {
+                    "feature": "TIR",
+                    "loading": 0.25772716792667294,
+                    "abs_loading": 0.25772716792667294,
+                    "direction": "positive"
+                }
+            ],
+            "top5_percentage": 52.55892733376493,
+            "clinical_interpretation": {
+                "primary_domain": "electrolytes",
+                "domain_description": "Equilibrio Elettrolitico (principalmente: Triglycerides, Potassium, Chlorine)",
+                "domains_represented": {
+                    "lipid_profile": 1,
+                    "electrolytes": 2,
+                    "thyroid_function": 1,
+                    "glucose_control": 1
+                },
+                "primary_features": [
+                    "Triglycerides",
+                    "Potassium",
+                    "Chlorine"
+                ]
+            }
+        },
+        "PC11": {
+            "pca_rank": 11,
+            "explained_variance": 0.0412190509729053,
+            "cumulative_variance": 0.772552443508696,
+            "top_features": [
+                {
+                    "feature": "CV",
+                    "loading": 0.6223717703499594,
+                    "abs_loading": 0.6223717703499594,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "TIR",
+                    "loading": 0.3463989502126213,
+                    "abs_loading": 0.3463989502126213,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "Number_of_diagnostics",
+                    "loading": 0.3249187544107487,
+                    "abs_loading": 0.3249187544107487,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "Chlorine",
+                    "loading": 0.2766020108378711,
+                    "abs_loading": 0.2766020108378711,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "Cardiovascular_Comorbidity",
+                    "loading": 0.27433889541706113,
+                    "abs_loading": 0.27433889541706113,
+                    "direction": "positive"
+                }
+            ],
+            "top5_percentage": 52.51682347486831,
+            "clinical_interpretation": {
+                "primary_domain": "glucose_variability",
+                "domain_description": "Variabilit\u00e0 Glicemica (principalmente: CV, TIR, Number_of_diagnostics)",
+                "domains_represented": {
+                    "glucose_variability": 1,
+                    "glucose_control": 1,
+                    "clinical_history": 1,
+                    "electrolytes": 1,
+                    "cardiovascular": 1
+                },
+                "primary_features": [
+                    "CV",
+                    "TIR",
+                    "Number_of_diagnostics"
+                ]
+            }
+        },
+        "PC12": {
+            "pca_rank": 12,
+            "explained_variance": 0.0371224074585061,
+            "cumulative_variance": 0.8096748509672022,
+            "top_features": [
+                {
+                    "feature": "Creatinine_urine",
+                    "loading": 0.48209964071583095,
+                    "abs_loading": 0.48209964071583095,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "CV",
+                    "loading": -0.44401769664446206,
+                    "abs_loading": 0.44401769664446206,
+                    "direction": "negative"
+                },
+                {
+                    "feature": "Chlorine",
+                    "loading": 0.4082225320004361,
+                    "abs_loading": 0.4082225320004361,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "Number_of_diagnostics",
+                    "loading": 0.28324306642334784,
+                    "abs_loading": 0.28324306642334784,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "Sex",
+                    "loading": -0.25400657436927127,
+                    "abs_loading": 0.25400657436927127,
+                    "direction": "negative"
+                }
+            ],
+            "top5_percentage": 53.80192395176484,
+            "clinical_interpretation": {
+                "primary_domain": "kidney_function",
+                "domain_description": "Funzione Renale (principalmente: Creatinine_urine, CV, Chlorine)",
+                "domains_represented": {
+                    "kidney_function": 1,
+                    "glucose_variability": 1,
+                    "electrolytes": 1,
+                    "clinical_history": 1,
+                    "demographic": 1
+                },
+                "primary_features": [
+                    "Creatinine_urine",
+                    "CV",
+                    "Chlorine"
+                ]
+            }
+        },
+        "PC13": {
+            "pca_rank": 13,
+            "explained_variance": 0.0350669408823021,
+            "cumulative_variance": 0.8447417918495043,
+            "top_features": [
+                {
+                    "feature": "Chlorine",
+                    "loading": 0.38425860074607776,
+                    "abs_loading": 0.38425860074607776,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "HbA1c",
+                    "loading": -0.3769912627252754,
+                    "abs_loading": 0.3769912627252754,
+                    "direction": "negative"
+                },
+                {
+                    "feature": "Potassium",
+                    "loading": -0.37085912290840173,
+                    "abs_loading": 0.37085912290840173,
+                    "direction": "negative"
+                },
+                {
+                    "feature": "Uric_acid",
+                    "loading": 0.36953455406213476,
+                    "abs_loading": 0.36953455406213476,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "Sodium",
+                    "loading": -0.32876930197317805,
+                    "abs_loading": 0.32876930197317805,
+                    "direction": "negative"
+                }
+            ],
+            "top5_percentage": 48.18558086748403,
+            "clinical_interpretation": {
+                "primary_domain": "electrolytes",
+                "domain_description": "Equilibrio Elettrolitico (principalmente: Chlorine, HbA1c, Potassium)",
+                "domains_represented": {
+                    "electrolytes": 3,
+                    "glucose_control": 1,
+                    "metabolism": 1
+                },
+                "primary_features": [
+                    "Chlorine",
+                    "HbA1c",
+                    "Potassium",
+                    "Uric_acid",
+                    "Sodium"
+                ]
+            }
+        },
+        "PC14": {
+            "pca_rank": 14,
+            "explained_variance": 0.0269014998216233,
+            "cumulative_variance": 0.8716432916711275,
+            "top_features": [
+                {
+                    "feature": "Sex",
+                    "loading": 0.3610287666007193,
+                    "abs_loading": 0.3610287666007193,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "TIR",
+                    "loading": -0.3584380506062177,
+                    "abs_loading": 0.3584380506062177,
+                    "direction": "negative"
+                },
+                {
+                    "feature": "Number_of_diagnostics",
+                    "loading": 0.3506830580698204,
+                    "abs_loading": 0.3506830580698204,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "Age",
+                    "loading": -0.34272552923344324,
+                    "abs_loading": 0.34272552923344324,
+                    "direction": "negative"
+                },
+                {
+                    "feature": "HbA1c",
+                    "loading": -0.3353270520092332,
+                    "abs_loading": 0.3353270520092332,
+                    "direction": "negative"
+                }
+            ],
+            "top5_percentage": 46.65016171412112,
+            "clinical_interpretation": {
+                "primary_domain": "demographic",
+                "domain_description": "Fattori Demografici (principalmente: Sex, TIR, Number_of_diagnostics)",
+                "domains_represented": {
+                    "demographic": 2,
+                    "glucose_control": 2,
+                    "clinical_history": 1
+                },
+                "primary_features": [
+                    "Sex",
+                    "TIR",
+                    "Number_of_diagnostics",
+                    "Age",
+                    "HbA1c"
+                ]
+            }
+        },
+        "PC15": {
+            "pca_rank": 15,
+            "explained_variance": 0.0261338881488625,
+            "cumulative_variance": 0.8977771798199901,
+            "top_features": [
+                {
+                    "feature": "Creatinine_urine",
+                    "loading": 0.541536856738857,
+                    "abs_loading": 0.541536856738857,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "Age",
+                    "loading": 0.47176988287102384,
+                    "abs_loading": 0.47176988287102384,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "Triglycerides",
+                    "loading": 0.29896947808307567,
+                    "abs_loading": 0.29896947808307567,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "HbA1c",
+                    "loading": -0.29545314102660686,
+                    "abs_loading": 0.29545314102660686,
+                    "direction": "negative"
+                },
+                {
+                    "feature": "Sex",
+                    "loading": 0.267581559824896,
+                    "abs_loading": 0.267581559824896,
+                    "direction": "positive"
+                }
+            ],
+            "top5_percentage": 52.48427132204322,
+            "clinical_interpretation": {
+                "primary_domain": "demographic",
+                "domain_description": "Fattori Demografici (principalmente: Creatinine_urine, Age)",
+                "domains_represented": {
+                    "kidney_function": 1,
+                    "demographic": 2,
+                    "lipid_profile": 1,
+                    "glucose_control": 1
+                },
+                "primary_features": [
+                    "Creatinine_urine",
+                    "Age"
+                ]
+            }
+        },
+        "PC16": {
+            "pca_rank": 16,
+            "explained_variance": 0.0224858163488084,
+            "cumulative_variance": 0.9202629961687984,
+            "top_features": [
+                {
+                    "feature": "Cardiovascular_Comorbidity",
+                    "loading": 0.6093794647253052,
+                    "abs_loading": 0.6093794647253052,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "Number_of_diagnostics",
+                    "loading": -0.5514033464505195,
+                    "abs_loading": 0.5514033464505195,
+                    "direction": "negative"
+                },
+                {
+                    "feature": "Uric_acid",
+                    "loading": 0.295691703925437,
+                    "abs_loading": 0.295691703925437,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "Sex",
+                    "loading": 0.28265344945241366,
+                    "abs_loading": 0.28265344945241366,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "Age",
+                    "loading": -0.21517603175457134,
+                    "abs_loading": 0.21517603175457134,
+                    "direction": "negative"
+                }
+            ],
+            "top5_percentage": 65.4236151305073,
+            "clinical_interpretation": {
+                "primary_domain": "demographic",
+                "domain_description": "Fattori Demografici (principalmente: Cardiovascular_Comorbidity, Number_of_diagnostics)",
+                "domains_represented": {
+                    "cardiovascular": 1,
+                    "clinical_history": 1,
+                    "metabolism": 1,
+                    "demographic": 2
+                },
+                "primary_features": [
+                    "Cardiovascular_Comorbidity",
+                    "Number_of_diagnostics"
+                ]
+            }
+        },
+        "PC17": {
+            "pca_rank": 17,
+            "explained_variance": 0.0200691144693892,
+            "cumulative_variance": 0.9403321106381876,
+            "top_features": [
+                {
+                    "feature": "Sodium",
+                    "loading": 0.503967987102806,
+                    "abs_loading": 0.503967987102806,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "Glucose",
+                    "loading": 0.4895877700016474,
+                    "abs_loading": 0.4895877700016474,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "Uric_acid",
+                    "loading": 0.40537333822477833,
+                    "abs_loading": 0.40537333822477833,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "Sex",
+                    "loading": 0.3850476344523513,
+                    "abs_loading": 0.3850476344523513,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "Cardiovascular_Comorbidity",
+                    "loading": -0.23118131941438497,
+                    "abs_loading": 0.23118131941438497,
+                    "direction": "negative"
+                }
+            ],
+            "top5_percentage": 61.690297844758405,
+            "clinical_interpretation": {
+                "primary_domain": "electrolytes",
+                "domain_description": "Equilibrio Elettrolitico (principalmente: Sodium, Glucose, Uric_acid)",
+                "domains_represented": {
+                    "electrolytes": 1,
+                    "glucose_control": 1,
+                    "metabolism": 1,
+                    "demographic": 1,
+                    "cardiovascular": 1
+                },
+                "primary_features": [
+                    "Sodium",
+                    "Glucose",
+                    "Uric_acid",
+                    "Sex"
+                ]
+            }
+        },
+        "PC18": {
+            "pca_rank": 18,
+            "explained_variance": 0.0192328802458304,
+            "cumulative_variance": 0.959564990884018,
+            "top_features": [
+                {
+                    "feature": "HbA1c",
+                    "loading": 0.4861645599548114,
+                    "abs_loading": 0.4861645599548114,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "Age",
+                    "loading": 0.35539019117880033,
+                    "abs_loading": 0.35539019117880033,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "Sodium",
+                    "loading": -0.3552859615254394,
+                    "abs_loading": 0.3552859615254394,
+                    "direction": "negative"
+                },
+                {
+                    "feature": "Creatinine_urine",
+                    "loading": 0.31244449885369063,
+                    "abs_loading": 0.31244449885369063,
+                    "direction": "positive"
+                },
+                {
+                    "feature": "Cardiovascular_Comorbidity",
+                    "loading": -0.2839503786147706,
+                    "abs_loading": 0.2839503786147706,
+                    "direction": "negative"
+                }
+            ],
+            "top5_percentage": 49.29920704624026,
+            "clinical_interpretation": {
+                "primary_domain": "glucose_control",
+                "domain_description": "Controllo Glicemico (principalmente: HbA1c, Age, Sodium)",
+                "domains_represented": {
+                    "glucose_control": 1,
+                    "demographic": 1,
+                    "electrolytes": 1,
+                    "kidney_function": 1,
+                    "cardiovascular": 1
+                },
+                "primary_features": [
+                    "HbA1c",
+                    "Age",
+                    "Sodium",
+                    "Creatinine_urine"
+                ]
+            }
+        }
+    }
+}

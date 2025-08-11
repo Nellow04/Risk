@@ -1,0 +1,106 @@
+{
+    "kidney_function": [
+        {
+            "component": "PC1",
+            "variance": 0.1291169559161858,
+            "description": "Funzione Renale (principalmente: Creatinine, Albumin_urine, Uric_acid)"
+        },
+        {
+            "component": "PC4",
+            "variance": 0.0812947754911815,
+            "description": "Funzione Renale (principalmente: Albumin_urine, Creatinine, Total_cholesterol)"
+        },
+        {
+            "component": "PC12",
+            "variance": 0.0371224074585061,
+            "description": "Funzione Renale (principalmente: Creatinine_urine, CV, Chlorine)"
+        }
+    ],
+    "glucose_control": [
+        {
+            "component": "PC2",
+            "variance": 0.1032542460716731,
+            "description": "Controllo Glicemico (principalmente: Sodium, Glucose, Creatinine_urine)"
+        },
+        {
+            "component": "PC8",
+            "variance": 0.0535736888877474,
+            "description": "Controllo Glicemico (principalmente: TIR, GGT, Chlorine)"
+        },
+        {
+            "component": "PC18",
+            "variance": 0.0192328802458304,
+            "description": "Controllo Glicemico (principalmente: HbA1c, Age, Sodium)"
+        }
+    ],
+    "demographic": [
+        {
+            "component": "PC3",
+            "variance": 0.0929200519904622,
+            "description": "Fattori Demografici (principalmente: Age, HDL_cholesterol, Sex)"
+        },
+        {
+            "component": "PC14",
+            "variance": 0.0269014998216233,
+            "description": "Fattori Demografici (principalmente: Sex, TIR, Number_of_diagnostics)"
+        },
+        {
+            "component": "PC15",
+            "variance": 0.0261338881488625,
+            "description": "Fattori Demografici (principalmente: Creatinine_urine, Age)"
+        },
+        {
+            "component": "PC16",
+            "variance": 0.0224858163488084,
+            "description": "Fattori Demografici (principalmente: Cardiovascular_Comorbidity, Number_of_diagnostics)"
+        }
+    ],
+    "lipid_profile": [
+        {
+            "component": "PC5",
+            "variance": 0.0640453481802,
+            "description": "Profilo Lipidico (principalmente: Total_cholesterol, GGT, Uric_acid)"
+        }
+    ],
+    "electrolytes": [
+        {
+            "component": "PC6",
+            "variance": 0.0606402997415711,
+            "description": "Equilibrio Elettrolitico (principalmente: TSH, GGT)"
+        },
+        {
+            "component": "PC7",
+            "variance": 0.0549113371990502,
+            "description": "Equilibrio Elettrolitico (principalmente: Potassium, TSH, GGT)"
+        },
+        {
+            "component": "PC10",
+            "variance": 0.0439680514688574,
+            "description": "Equilibrio Elettrolitico (principalmente: Triglycerides, Potassium, Chlorine)"
+        },
+        {
+            "component": "PC13",
+            "variance": 0.0350669408823021,
+            "description": "Equilibrio Elettrolitico (principalmente: Chlorine, HbA1c, Potassium)"
+        },
+        {
+            "component": "PC17",
+            "variance": 0.0200691144693892,
+            "description": "Equilibrio Elettrolitico (principalmente: Sodium, Glucose, Uric_acid)"
+        }
+    ],
+    "liver_function": [
+        {
+            "component": "PC9",
+            "variance": 0.0476086375888615,
+            "description": "Funzione Epatica (principalmente: GGT, CV, TIR)"
+        }
+    ],
+    "glucose_variability": [
+        {
+            "component": "PC11",
+            "variance": 0.0412190509729053,
+            "description": "Variabilit\u00e0 Glicemica (principalmente: CV, TIR, Number_of_diagnostics)"
+        }
+    ]
+}

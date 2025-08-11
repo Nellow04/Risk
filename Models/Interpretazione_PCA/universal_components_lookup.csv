@@ -1,0 +1,19 @@
+Component,PCA_Rank,Explained_Variance,Cumulative_Variance,Clinical_Domain,Primary_Domain,Top_Features,Top5_Coverage
+PC1,1,0.1291169559161858,0.1291169559161858,"Funzione Renale (principalmente: Creatinine, Albumin_urine, Uric_acid)",kidney_function,"Creatinine, Albumin_urine, Uric_acid",49.8%
+PC2,2,0.1032542460716731,0.2323712019878589,"Controllo Glicemico (principalmente: Sodium, Glucose, Creatinine_urine)",glucose_control,"Sodium, Glucose, Creatinine_urine",43.8%
+PC3,3,0.0929200519904622,0.3252912539783212,"Fattori Demografici (principalmente: Age, HDL_cholesterol, Sex)",demographic,"Age, HDL_cholesterol, Sex",45.7%
+PC4,4,0.0812947754911815,0.4065860294695027,"Funzione Renale (principalmente: Albumin_urine, Creatinine, Total_cholesterol)",kidney_function,"Albumin_urine, Creatinine, Total_cholesterol",50.3%
+PC5,5,0.0640453481802,0.4706313776497027,"Profilo Lipidico (principalmente: Total_cholesterol, GGT, Uric_acid)",lipid_profile,"Total_cholesterol, GGT, Uric_acid",53.0%
+PC6,6,0.0606402997415711,0.5312716773912739,"Equilibrio Elettrolitico (principalmente: TSH, GGT)",electrolytes,"TSH, GGT, Chlorine",63.6%
+PC7,7,0.0549113371990502,0.5861830145903242,"Equilibrio Elettrolitico (principalmente: Potassium, TSH, GGT)",electrolytes,"Potassium, TSH, GGT",60.1%
+PC8,8,0.0535736888877474,0.6397567034780717,"Controllo Glicemico (principalmente: TIR, GGT, Chlorine)",glucose_control,"TIR, GGT, Chlorine",60.0%
+PC9,9,0.0476086375888615,0.6873653410669331,"Funzione Epatica (principalmente: GGT, CV, TIR)",liver_function,"GGT, CV, TIR",43.9%
+PC10,10,0.0439680514688574,0.7313333925357907,"Equilibrio Elettrolitico (principalmente: Triglycerides, Potassium, Chlorine)",electrolytes,"Triglycerides, Potassium, Chlorine",52.6%
+PC11,11,0.0412190509729053,0.772552443508696,"Variabilità Glicemica (principalmente: CV, TIR, Number_of_diagnostics)",glucose_variability,"CV, TIR, Number_of_diagnostics",52.5%
+PC12,12,0.0371224074585061,0.8096748509672022,"Funzione Renale (principalmente: Creatinine_urine, CV, Chlorine)",kidney_function,"Creatinine_urine, CV, Chlorine",53.8%
+PC13,13,0.0350669408823021,0.8447417918495043,"Equilibrio Elettrolitico (principalmente: Chlorine, HbA1c, Potassium)",electrolytes,"Chlorine, HbA1c, Potassium",48.2%
+PC14,14,0.0269014998216233,0.8716432916711275,"Fattori Demografici (principalmente: Sex, TIR, Number_of_diagnostics)",demographic,"Sex, TIR, Number_of_diagnostics",46.7%
+PC15,15,0.0261338881488625,0.8977771798199901,"Fattori Demografici (principalmente: Creatinine_urine, Age)",demographic,"Creatinine_urine, Age, Triglycerides",52.5%
+PC16,16,0.0224858163488084,0.9202629961687984,"Fattori Demografici (principalmente: Cardiovascular_Comorbidity, Number_of_diagnostics)",demographic,"Cardiovascular_Comorbidity, Number_of_diagnostics, Uric_acid",65.4%
+PC17,17,0.0200691144693892,0.9403321106381876,"Equilibrio Elettrolitico (principalmente: Sodium, Glucose, Uric_acid)",electrolytes,"Sodium, Glucose, Uric_acid",61.7%
+PC18,18,0.0192328802458304,0.959564990884018,"Controllo Glicemico (principalmente: HbA1c, Age, Sodium)",glucose_control,"HbA1c, Age, Sodium",49.3%
