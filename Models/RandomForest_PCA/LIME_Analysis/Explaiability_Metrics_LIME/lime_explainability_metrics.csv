@@ -1,0 +1,6 @@
+Metric,Score,Interpretation,Description
+Fidelity,0.7681966101494436,🟡 Good,Approssimazione locale del modello
+Faithfulness,0.4217776105739418,🟠 Fair,Impatto rimozione features importanti
+Sparsity,0.652544264921165,🟡 Good,Concentrazione su poche features
+Stability,0.872536956814989,🟢 Excellent,Robustezza a perturbazioni
+Consistency,0.8367857005016088,🟢 Excellent,Coerenza tra campioni simili

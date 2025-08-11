@@ -1,0 +1,27 @@
+{
+  "model_type": "RandomForest_PCA",
+  "explainer_type": "LIME",
+  "n_samples_analyzed": 50,
+  "n_features": 18,
+  "top_5_components": [
+    "PC8",
+    "PC9",
+    "PC2",
+    "PC10",
+    "PC5"
+  ],
+  "top_5_importance_values": [
+    0.11319490766729912,
+    0.10573420304596653,
+    0.050269016821431485,
+    0.04663112248112593,
+    0.034678496749849165
+  ],
+  "statistics": {
+    "total_importance": 0.5371401843643782,
+    "top_5_concentration": 0.35050774676567226,
+    "top_5_percentage": 65.25442649211651,
+    "mean_importance": 0.029841121353576566,
+    "std_importance": 0.031454426965111235
+  }
+}
