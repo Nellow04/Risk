@@ -1,0 +1,59 @@
+{
+  "model_info": {
+    "type": "LightGBM",
+    "dataset": "PCA",
+    "timestamp": "2025-08-11T23:07:57.782594",
+    "best_params": {
+      "subsample_freq": 1,
+      "subsample": 0.8,
+      "reg_lambda": 0.5,
+      "reg_alpha": 0,
+      "num_leaves": 150,
+      "n_estimators": 500,
+      "min_child_weight": 0.1,
+      "min_child_samples": 20,
+      "max_depth": 15,
+      "learning_rate": 0.1,
+      "colsample_bytree": 1.0,
+      "class_weight": null
+    },
+    "cv_score": 0.9651099393095214
+  },
+  "performance": {
+    "accuracy": 0.8378378378378378,
+    "precision": 0.9,
+    "recall": 0.8513513513513513,
+    "f1_score": 0.875,
+    "roc_auc": 0.9050401753104456
+  },
+  "confusion_matrix": [
+    [
+      30,
+      7
+    ],
+    [
+      11,
+      63
+    ]
+  ],
+  "feature_importance": [
+    260,
+    434,
+    264,
+    269,
+    268,
+    203,
+    244,
+    486,
+    530,
+    311,
+    261,
+    349,
+    206,
+    370,
+    282,
+    278,
+    259,
+    270
+  ]
+}
