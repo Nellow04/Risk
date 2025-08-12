@@ -1,0 +1,6 @@
+Metric,Score,Quality,Description
+FIDELITY,0.2856250294541226,Poor,Approssimazione PDP del modello
+FAITHFULNESS,0.026295045045045026,Poor,Impatto rimozione feature importanti
+SPARSITY,0.8858906962375293,Excellent,Concentrazione su poche feature
+STABILITY,0.9784958233765373,Excellent,Robustezza a perturbazioni dataset
+CONSISTENCY,1.0,Excellent,Coerenza tra campioni simili

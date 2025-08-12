@@ -1,0 +1,48 @@
+{
+  "timestamp": "2025-07-28T13:29:47.352916",
+  "model_type": "Ensemble PCA",
+  "method": "Partial Dependence Plots (PDP)",
+  "top_features_analyzed": [
+    "PC9",
+    "PC8",
+    "PC2",
+    "PC14",
+    "PC12",
+    "PC10",
+    "PC15",
+    "PC16"
+  ],
+  "metrics": {
+    "FIDELITY": {
+      "score": 0.2856250294541226,
+      "description": "Approssimazione PDP del modello",
+      "quality": "\ud83d\udd34 Poor"
+    },
+    "FAITHFULNESS": {
+      "score": 0.026295045045045026,
+      "description": "Impatto rimozione feature importanti",
+      "quality": "\ud83d\udd34 Poor"
+    },
+    "SPARSITY": {
+      "score": 0.8858906962375293,
+      "description": "Concentrazione su poche feature",
+      "quality": "\ud83d\udfe2 Excellent"
+    },
+    "STABILITY": {
+      "score": 0.9784958233765373,
+      "description": "Robustezza a perturbazioni dataset",
+      "quality": "\ud83d\udfe2 Excellent"
+    },
+    "CONSISTENCY": {
+      "score": 1.0,
+      "description": "Coerenza tra campioni simili",
+      "quality": "\ud83d\udfe2 Excellent"
+    }
+  },
+  "summary": {
+    "mean_score": 0.6352613188226469,
+    "excellent_metrics": 3,
+    "good_metrics": 0,
+    "poor_metrics": 2
+  }
+}

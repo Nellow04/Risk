@@ -1,0 +1,172 @@
+{
+  "timestamp": "2025-07-28T13:15:14.175293",
+  "model_type": "Ensemble (RandomForest + XGBoost + LightGBM)",
+  "dataset": "PCA",
+  "n_components": 18,
+  "selected_features": [
+    "PC9",
+    "PC8",
+    "PC2",
+    "PC14",
+    "PC12",
+    "PC10",
+    "PC15",
+    "PC16"
+  ],
+  "feature_importance_ranking": [
+    {
+      "feature": "PC9",
+      "importance": 176.74937774241945
+    },
+    {
+      "feature": "PC8",
+      "importance": 162.1052396797824
+    },
+    {
+      "feature": "PC2",
+      "importance": 144.71296287278972
+    },
+    {
+      "feature": "PC14",
+      "importance": 123.36677392342636
+    },
+    {
+      "feature": "PC12",
+      "importance": 116.37062142095023
+    },
+    {
+      "feature": "PC10",
+      "importance": 103.71149082631483
+    },
+    {
+      "feature": "PC15",
+      "importance": 94.02202221978952
+    },
+    {
+      "feature": "PC16",
+      "importance": 92.70223609001538
+    },
+    {
+      "feature": "PC18",
+      "importance": 90.02394338225497
+    },
+    {
+      "feature": "PC4",
+      "importance": 89.68777432595233
+    },
+    {
+      "feature": "PC5",
+      "importance": 89.37279503177245
+    },
+    {
+      "feature": "PC3",
+      "importance": 88.02511838666867
+    },
+    {
+      "feature": "PC11",
+      "importance": 87.0261455189373
+    },
+    {
+      "feature": "PC1",
+      "importance": 86.68990614769321
+    },
+    {
+      "feature": "PC17",
+      "importance": 86.35653050392672
+    },
+    {
+      "feature": "PC7",
+      "importance": 81.36947745051505
+    },
+    {
+      "feature": "PC13",
+      "importance": 68.68663818416854
+    },
+    {
+      "feature": "PC6",
+      "importance": 67.68761294873455
+    }
+  ],
+  "pdp_insights": [
+    {
+      "feature": "PC9",
+      "trend": "decrescente",
+      "effect_range": 0.3450560358001756,
+      "min_value": -1.4364313395850234,
+      "max_value": 1.62563983036884,
+      "min_effect": 0.4749587670237155,
+      "max_effect": 0.820014802823891,
+      "importance": 176.74937774241945
+    },
+    {
+      "feature": "PC8",
+      "trend": "decrescente",
+      "effect_range": 0.42466960594664316,
+      "min_value": -1.617999409069525,
+      "max_value": 1.4377194211147408,
+      "min_effect": 0.39504728741438666,
+      "max_effect": 0.8197168933610298,
+      "importance": 162.1052396797824
+    },
+    {
+      "feature": "PC2",
+      "trend": "decrescente",
+      "effect_range": 0.1520296519553317,
+      "min_value": -2.6078153619783486,
+      "max_value": 2.262056597644447,
+      "min_effect": 0.5932633722898409,
+      "max_effect": 0.7452930242451726,
+      "importance": 144.71296287278972
+    },
+    {
+      "feature": "PC14",
+      "trend": "decrescente",
+      "effect_range": 0.11507117778305742,
+      "min_value": -1.1478629595621772,
+      "max_value": 1.2366639974091314,
+      "min_effect": 0.5899530309369946,
+      "max_effect": 0.705024208720052,
+      "importance": 123.36677392342636
+    },
+    {
+      "feature": "PC12",
+      "trend": "decrescente",
+      "effect_range": 0.11786763923409471,
+      "min_value": -1.332791045492471,
+      "max_value": 1.4674916613914448,
+      "min_effect": 0.585607025538755,
+      "max_effect": 0.7034746647728497,
+      "importance": 116.37062142095023
+    },
+    {
+      "feature": "PC10",
+      "trend": "decrescente",
+      "effect_range": 0.14179479173292742,
+      "min_value": -1.4619002734851243,
+      "max_value": 1.4576764667375937,
+      "min_effect": 0.5907806853337859,
+      "max_effect": 0.7325754770667133,
+      "importance": 103.71149082631483
+    },
+    {
+      "feature": "PC15",
+      "trend": "crescente",
+      "effect_range": 0.02531161539651472,
+      "min_value": -1.230372052254768,
+      "max_value": 1.1799556447376918,
+      "min_effect": 0.6414627684225666,
+      "max_effect": 0.6667743838190813,
+      "importance": 94.02202221978952
+    },
+    {
+      "feature": "PC16",
+      "trend": "crescente",
+      "effect_range": 0.0704972171122964,
+      "min_value": -1.0797172990389299,
+      "max_value": 1.156521048788052,
+      "min_effect": 0.637839120390086,
+      "max_effect": 0.7083363375023823,
+      "importance": 92.70223609001538
+    }
+  ]
+}
