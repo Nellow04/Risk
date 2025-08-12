@@ -1,0 +1,11 @@
+{
+  "fidelity": 1.0,
+  "faithfulness": 0.5389967192253857,
+  "sparsity": 0.11261561117999219,
+  "stability": 0.9700744754285241,
+  "consistency": 0.7696356433516234,
+  "timestamp": "2025-07-28T12:31:14.615628",
+  "model_type": "Ensemble",
+  "explanation_method": "LIME",
+  "dataset_type": "PCA"
+}
