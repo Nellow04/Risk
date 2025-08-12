@@ -1,0 +1,77 @@
+{
+  "patient_index": 5,
+  "true_label": 0,
+  "true_label_text": "Basso Rischio",
+  "predicted_label": 0,
+  "predicted_label_text": "Basso Rischio",
+  "prediction_probability": {
+    "basso_rischio": 0.9935629963874817,
+    "alto_rischio": 0.006436979863792658
+  },
+  "lime_explanation": [
+    {
+      "feature": "PC8",
+      "importance": 0.19875081300101766
+    },
+    {
+      "feature": "PC9",
+      "importance": 0.17904399379913719
+    },
+    {
+      "feature": "PC2",
+      "importance": 0.11610502273980153
+    },
+    {
+      "feature": "PC10",
+      "importance": 0.09850299983675585
+    },
+    {
+      "feature": "PC12",
+      "importance": 0.0707069202896407
+    },
+    {
+      "feature": "PC5",
+      "importance": 0.06946785663823518
+    },
+    {
+      "feature": "PC14",
+      "importance": 0.0606436917558827
+    },
+    {
+      "feature": "PC7",
+      "importance": 0.04215107074787156
+    },
+    {
+      "feature": "PC15",
+      "importance": -0.023971459508530624
+    },
+    {
+      "feature": "PC18",
+      "importance": -0.009158675212427922
+    }
+  ],
+  "top_positive_features": [
+    {
+      "feature": "PC8",
+      "importance": 0.19875081300101766
+    },
+    {
+      "feature": "PC9",
+      "importance": 0.17904399379913719
+    },
+    {
+      "feature": "PC2",
+      "importance": 0.11610502273980153
+    }
+  ],
+  "top_negative_features": [
+    {
+      "feature": "PC15",
+      "importance": -0.023971459508530624
+    },
+    {
+      "feature": "PC18",
+      "importance": -0.009158675212427922
+    }
+  ]
+}

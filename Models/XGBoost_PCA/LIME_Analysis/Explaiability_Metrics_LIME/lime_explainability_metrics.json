@@ -1,0 +1,27 @@
+{
+  "fidelity": {
+    "score": 0.673514838006108,
+    "interpretation": "\ud83d\udfe1 Good",
+    "description": "Approssimazione locale del modello"
+  },
+  "faithfulness": {
+    "score": 0.727035641670227,
+    "interpretation": "\ud83d\udfe1 Good",
+    "description": "Impatto rimozione features importanti"
+  },
+  "sparsity": {
+    "score": 0.6281987404589666,
+    "interpretation": "\ud83d\udfe1 Good",
+    "description": "Concentrazione su poche features"
+  },
+  "stability": {
+    "score": 0.8202712398681322,
+    "interpretation": "\ud83d\udfe2 Excellent",
+    "description": "Robustezza a perturbazioni"
+  },
+  "consistency": {
+    "score": 0.7928702410829608,
+    "interpretation": "\ud83d\udfe1 Good",
+    "description": "Coerenza tra campioni simili"
+  }
+}

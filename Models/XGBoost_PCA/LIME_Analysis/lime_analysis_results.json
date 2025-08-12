@@ -1,0 +1,27 @@
+{
+  "model_type": "XGBoost_PCA",
+  "explainer_type": "LIME",
+  "n_samples_analyzed": 50,
+  "n_features": 18,
+  "top_5_components": [
+    "PC8",
+    "PC9",
+    "PC2",
+    "PC10",
+    "PC5"
+  ],
+  "top_5_importance_values": [
+    0.1907888677817795,
+    0.18001798615722645,
+    0.11512650972847487,
+    0.09056562775981536,
+    0.07185623757303515
+  ],
+  "statistics": {
+    "total_importance": 1.034708386926273,
+    "top_5_concentration": 0.6483552290003314,
+    "top_5_percentage": 62.6606720494795,
+    "mean_importance": 0.05748379927368183,
+    "std_importance": 0.0536853131615452
+  }
+}
