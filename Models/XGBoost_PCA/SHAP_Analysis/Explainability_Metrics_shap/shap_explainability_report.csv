@@ -1,0 +1,6 @@
+Metric,Score,Quality,Description
+Fidelity,0.9721,🟢 Excellent,Accuratezza additive feature attribution
+Faithfulness,0.7825,🟡 Good,Impatto rimozione features importanti
+Sparsity,0.1922,🔴 Poor,Concentrazione su poche features
+Stability,1.0000,🟢 Excellent,Robustezza a variazioni del training set
+Consistency,0.6751,🟡 Good,Coerenza tra campioni simili

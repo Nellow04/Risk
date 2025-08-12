@@ -1,0 +1,65 @@
+{
+  "model_type": "XGBoost",
+  "dataset_type": "PCA",
+  "analysis_type": "SHAP",
+  "timestamp": "2025-07-25T16:45:45.141491",
+  "n_samples_analyzed": 100,
+  "n_features": 18,
+  "top_features": [
+    {
+      "Feature": "PC8",
+      "SHAP_Importance": 1.8681434392929077,
+      "Rank": 1
+    },
+    {
+      "Feature": "PC9",
+      "SHAP_Importance": 1.645742654800415,
+      "Rank": 2
+    },
+    {
+      "Feature": "PC2",
+      "SHAP_Importance": 0.9853640794754028,
+      "Rank": 3
+    },
+    {
+      "Feature": "PC10",
+      "SHAP_Importance": 0.855313241481781,
+      "Rank": 4
+    },
+    {
+      "Feature": "PC12",
+      "SHAP_Importance": 0.8258928656578064,
+      "Rank": 5
+    },
+    {
+      "Feature": "PC5",
+      "SHAP_Importance": 0.6263734102249146,
+      "Rank": 6
+    },
+    {
+      "Feature": "PC14",
+      "SHAP_Importance": 0.5728604197502136,
+      "Rank": 7
+    },
+    {
+      "Feature": "PC3",
+      "SHAP_Importance": 0.4962445795536041,
+      "Rank": 8
+    },
+    {
+      "Feature": "PC16",
+      "SHAP_Importance": 0.3483824133872986,
+      "Rank": 9
+    },
+    {
+      "Feature": "PC7",
+      "SHAP_Importance": 0.2779053747653961,
+      "Rank": 10
+    }
+  ],
+  "statistics": {
+    "total_importance": 9.968996047973633,
+    "top_5_percentage": 61.99677586555481,
+    "top_10_percentage": 85.28664112091064
+  }
+}
