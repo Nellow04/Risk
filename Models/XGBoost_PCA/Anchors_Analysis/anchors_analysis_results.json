@@ -1,0 +1,829 @@
+{
+  "model_type": "XGBoost",
+  "dataset_type": "PCA",
+  "analysis_type": "Anchors",
+  "timestamp": "2025-07-25T17:00:18.863382",
+  "anchors_explanations": [
+    {
+      "sample_idx": 28,
+      "prediction": 1,
+      "prediction_proba": [
+        0.00029474496841430664,
+        0.9997052550315857
+      ],
+      "risk_level": "Alto",
+      "anchor_features": [
+        8,
+        7
+      ],
+      "anchor_feature_names": [
+        "PC9",
+        "PC8"
+      ],
+      "anchor_precision": 0.9911764705882353,
+      "anchor_coverage": 0.0939,
+      "anchor_description": [
+        "PC9 = -0.528",
+        "PC8 = -0.619"
+      ],
+      "anchor_size": 2
+    },
+    {
+      "sample_idx": 19,
+      "prediction": 1,
+      "prediction_proba": [
+        0.24087309837341309,
+        0.7591269016265869
+      ],
+      "risk_level": "Alto",
+      "anchor_features": [
+        8,
+        1
+      ],
+      "anchor_feature_names": [
+        "PC9",
+        "PC2"
+      ],
+      "anchor_precision": 0.8292682926829268,
+      "anchor_coverage": 0.1275,
+      "anchor_description": [
+        "PC9 = -0.494",
+        "PC2 = -1.611"
+      ],
+      "anchor_size": 2
+    },
+    {
+      "sample_idx": 13,
+      "prediction": 1,
+      "prediction_proba": [
+        0.0007870197296142578,
+        0.9992129802703857
+      ],
+      "risk_level": "Alto",
+      "anchor_features": [
+        7,
+        1
+      ],
+      "anchor_feature_names": [
+        "PC8",
+        "PC2"
+      ],
+      "anchor_precision": 0.9351432880844646,
+      "anchor_coverage": 0.0789,
+      "anchor_description": [
+        "PC8 = -0.859",
+        "PC2 = -1.704"
+      ],
+      "anchor_size": 2
+    },
+    {
+      "sample_idx": 100,
+      "prediction": 1,
+      "prediction_proba": [
+        0.013667702674865723,
+        0.9863322973251343
+      ],
+      "risk_level": "Alto",
+      "anchor_features": [
+        7,
+        8
+      ],
+      "anchor_feature_names": [
+        "PC8",
+        "PC9"
+      ],
+      "anchor_precision": 0.958969465648855,
+      "anchor_coverage": 0.0897,
+      "anchor_description": [
+        "PC8 = -0.476",
+        "PC9 = -1.436"
+      ],
+      "anchor_size": 2
+    },
+    {
+      "sample_idx": 20,
+      "prediction": 1,
+      "prediction_proba": [
+        0.0020191073417663574,
+        0.9979808926582336
+      ],
+      "risk_level": "Alto",
+      "anchor_features": [
+        7,
+        11,
+        8
+      ],
+      "anchor_feature_names": [
+        "PC8",
+        "PC12",
+        "PC9"
+      ],
+      "anchor_precision": 0.9567474048442907,
+      "anchor_coverage": 0.084,
+      "anchor_description": [
+        "PC8 = -0.154",
+        "PC12 = -0.970",
+        "PC9 = -0.093"
+      ],
+      "anchor_size": 3
+    },
+    {
+      "sample_idx": 92,
+      "prediction": 1,
+      "prediction_proba": [
+        0.011010944843292236,
+        0.9889890551567078
+      ],
+      "risk_level": "Alto",
+      "anchor_features": [
+        7,
+        11
+      ],
+      "anchor_feature_names": [
+        "PC8",
+        "PC12"
+      ],
+      "anchor_precision": 0.8661037394451147,
+      "anchor_coverage": 0.0716,
+      "anchor_description": [
+        "PC8 = -0.631",
+        "PC12 = -1.067"
+      ],
+      "anchor_size": 2
+    },
+    {
+      "sample_idx": 67,
+      "prediction": 1,
+      "prediction_proba": [
+        0.12528878450393677,
+        0.8747112154960632
+      ],
+      "risk_level": "Alto",
+      "anchor_features": [
+        7,
+        9
+      ],
+      "anchor_feature_names": [
+        "PC8",
+        "PC10"
+      ],
+      "anchor_precision": 0.9167455061494797,
+      "anchor_coverage": 0.0734,
+      "anchor_description": [
+        "PC8 = -0.509",
+        "PC10 = -0.514"
+      ],
+      "anchor_size": 2
+    },
+    {
+      "sample_idx": 44,
+      "prediction": 1,
+      "prediction_proba": [
+        0.0012888908386230469,
+        0.998711109161377
+      ],
+      "risk_level": "Alto",
+      "anchor_features": [
+        7,
+        1
+      ],
+      "anchor_feature_names": [
+        "PC8",
+        "PC2"
+      ],
+      "anchor_precision": 0.909541511771995,
+      "anchor_coverage": 0.0794,
+      "anchor_description": [
+        "PC8 = -0.593",
+        "PC2 = -1.055"
+      ],
+      "anchor_size": 2
+    },
+    {
+      "sample_idx": 46,
+      "prediction": 1,
+      "prediction_proba": [
+        0.023854374885559082,
+        0.9761456251144409
+      ],
+      "risk_level": "Alto",
+      "anchor_features": [
+        8,
+        11
+      ],
+      "anchor_feature_names": [
+        "PC9",
+        "PC12"
+      ],
+      "anchor_precision": 0.851207729468599,
+      "anchor_coverage": 0.1219,
+      "anchor_description": [
+        "PC9 = -0.393",
+        "PC12 = -0.984"
+      ],
+      "anchor_size": 2
+    },
+    {
+      "sample_idx": 80,
+      "prediction": 1,
+      "prediction_proba": [
+        0.09998750686645508,
+        0.9000124931335449
+      ],
+      "risk_level": "Alto",
+      "anchor_features": [
+        8,
+        14,
+        9
+      ],
+      "anchor_feature_names": [
+        "PC9",
+        "PC15",
+        "PC10"
+      ],
+      "anchor_precision": 0.8279118572927597,
+      "anchor_coverage": 0.0775,
+      "anchor_description": [
+        "PC9 = -0.191",
+        "PC15 = 0.932",
+        "PC10 = -0.339"
+      ],
+      "anchor_size": 3
+    },
+    {
+      "sample_idx": 87,
+      "prediction": 1,
+      "prediction_proba": [
+        0.15154844522476196,
+        0.848451554775238
+      ],
+      "risk_level": "Alto",
+      "anchor_features": [
+        8,
+        7
+      ],
+      "anchor_feature_names": [
+        "PC9",
+        "PC8"
+      ],
+      "anchor_precision": 0.979557069846678,
+      "anchor_coverage": 0.0905,
+      "anchor_description": [
+        "PC9 = -0.519",
+        "PC8 = -1.566"
+      ],
+      "anchor_size": 2
+    },
+    {
+      "sample_idx": 12,
+      "prediction": 1,
+      "prediction_proba": [
+        0.42831695079803467,
+        0.5716830492019653
+      ],
+      "risk_level": "Alto",
+      "anchor_features": [
+        8,
+        11
+      ],
+      "anchor_feature_names": [
+        "PC9",
+        "PC12"
+      ],
+      "anchor_precision": 0.8437190900098912,
+      "anchor_coverage": 0.1233,
+      "anchor_description": [
+        "PC9 = -0.148",
+        "PC12 = -0.596"
+      ],
+      "anchor_size": 2
+    },
+    {
+      "sample_idx": 108,
+      "prediction": 1,
+      "prediction_proba": [
+        0.3239166736602783,
+        0.6760833263397217
+      ],
+      "risk_level": "Alto",
+      "anchor_features": [
+        9,
+        14,
+        6
+      ],
+      "anchor_feature_names": [
+        "PC10",
+        "PC15",
+        "PC7"
+      ],
+      "anchor_precision": 0.832258064516129,
+      "anchor_coverage": 0.0172,
+      "anchor_description": [
+        "PC10 = -1.234",
+        "PC15 = 1.551",
+        "PC7 = -2.247"
+      ],
+      "anchor_size": 3
+    },
+    {
+      "sample_idx": 81,
+      "prediction": 1,
+      "prediction_proba": [
+        0.008498191833496094,
+        0.9915018081665039
+      ],
+      "risk_level": "Alto",
+      "anchor_features": [
+        8,
+        7
+      ],
+      "anchor_feature_names": [
+        "PC9",
+        "PC8"
+      ],
+      "anchor_precision": 0.9800399201596807,
+      "anchor_coverage": 0.0947,
+      "anchor_description": [
+        "PC9 = -1.392",
+        "PC8 = -1.199"
+      ],
+      "anchor_size": 2
+    },
+    {
+      "sample_idx": 24,
+      "prediction": 1,
+      "prediction_proba": [
+        0.0008074641227722168,
+        0.9991925358772278
+      ],
+      "risk_level": "Alto",
+      "anchor_features": [
+        8,
+        7
+      ],
+      "anchor_feature_names": [
+        "PC9",
+        "PC8"
+      ],
+      "anchor_precision": 0.9754901960784313,
+      "anchor_coverage": 0.086,
+      "anchor_description": [
+        "PC9 = -1.198",
+        "PC8 = -0.442"
+      ],
+      "anchor_size": 2
+    },
+    {
+      "sample_idx": 7,
+      "prediction": 0,
+      "prediction_proba": [
+        0.9393191933631897,
+        0.06068079173564911
+      ],
+      "risk_level": "Basso",
+      "anchor_features": [
+        7,
+        8
+      ],
+      "anchor_feature_names": [
+        "PC8",
+        "PC9"
+      ],
+      "anchor_precision": 0.8878012048192772,
+      "anchor_coverage": 0.1235,
+      "anchor_description": [
+        "PC8 = 0.920",
+        "PC9 = 1.143"
+      ],
+      "anchor_size": 2
+    },
+    {
+      "sample_idx": 25,
+      "prediction": 0,
+      "prediction_proba": [
+        0.9291420578956604,
+        0.0708579570055008
+      ],
+      "risk_level": "Basso",
+      "anchor_features": [
+        7,
+        1,
+        8
+      ],
+      "anchor_feature_names": [
+        "PC8",
+        "PC2",
+        "PC9"
+      ],
+      "anchor_precision": 0.8761061946902655,
+      "anchor_coverage": 0.1019,
+      "anchor_description": [
+        "PC8 = 0.416",
+        "PC2 = 1.707",
+        "PC9 = -0.161"
+      ],
+      "anchor_size": 3
+    },
+    {
+      "sample_idx": 91,
+      "prediction": 0,
+      "prediction_proba": [
+        0.9996455907821655,
+        0.0003544013889040798
+      ],
+      "risk_level": "Basso",
+      "anchor_features": [
+        7,
+        8
+      ],
+      "anchor_feature_names": [
+        "PC8",
+        "PC9"
+      ],
+      "anchor_precision": 0.8847161572052402,
+      "anchor_coverage": 0.1236,
+      "anchor_description": [
+        "PC8 = 2.053",
+        "PC9 = 1.619"
+      ],
+      "anchor_size": 2
+    },
+    {
+      "sample_idx": 30,
+      "prediction": 0,
+      "prediction_proba": [
+        0.5635764002799988,
+        0.4364235997200012
+      ],
+      "risk_level": "Basso",
+      "anchor_features": [
+        7,
+        8,
+        4
+      ],
+      "anchor_feature_names": [
+        "PC8",
+        "PC9",
+        "PC5"
+      ],
+      "anchor_precision": 0.867879746835443,
+      "anchor_coverage": 0.2213,
+      "anchor_description": [
+        "PC8 = 0.444",
+        "PC9 = 0.327",
+        "PC5 = -0.346"
+      ],
+      "anchor_size": 3
+    },
+    {
+      "sample_idx": 2,
+      "prediction": 0,
+      "prediction_proba": [
+        0.9989720582962036,
+        0.0010279263369739056
+      ],
+      "risk_level": "Basso",
+      "anchor_features": [
+        7,
+        8
+      ],
+      "anchor_feature_names": [
+        "PC8",
+        "PC9"
+      ],
+      "anchor_precision": 0.8834586466165414,
+      "anchor_coverage": 0.123,
+      "anchor_description": [
+        "PC8 = 1.077",
+        "PC9 = 1.347"
+      ],
+      "anchor_size": 2
+    },
+    {
+      "sample_idx": 48,
+      "prediction": 0,
+      "prediction_proba": [
+        0.990234375,
+        0.009765599854290485
+      ],
+      "risk_level": "Basso",
+      "anchor_features": [
+        7,
+        8
+      ],
+      "anchor_feature_names": [
+        "PC8",
+        "PC9"
+      ],
+      "anchor_precision": 0.8459143968871595,
+      "anchor_coverage": 0.1814,
+      "anchor_description": [
+        "PC8 = 1.277",
+        "PC9 = 0.693"
+      ],
+      "anchor_size": 2
+    },
+    {
+      "sample_idx": 106,
+      "prediction": 0,
+      "prediction_proba": [
+        0.9995318651199341,
+        0.00046815714449621737
+      ],
+      "risk_level": "Basso",
+      "anchor_features": [
+        7,
+        8
+      ],
+      "anchor_feature_names": [
+        "PC8",
+        "PC9"
+      ],
+      "anchor_precision": 0.886438809261301,
+      "anchor_coverage": 0.1297,
+      "anchor_description": [
+        "PC8 = 1.489",
+        "PC9 = 0.760"
+      ],
+      "anchor_size": 2
+    },
+    {
+      "sample_idx": 105,
+      "prediction": 0,
+      "prediction_proba": [
+        0.998699426651001,
+        0.0013005968648940325
+      ],
+      "risk_level": "Basso",
+      "anchor_features": [
+        7,
+        8
+      ],
+      "anchor_feature_names": [
+        "PC8",
+        "PC9"
+      ],
+      "anchor_precision": 0.8627450980392157,
+      "anchor_coverage": 0.1775,
+      "anchor_description": [
+        "PC8 = 1.445",
+        "PC9 = 0.507"
+      ],
+      "anchor_size": 2
+    },
+    {
+      "sample_idx": 22,
+      "prediction": 0,
+      "prediction_proba": [
+        0.9997092485427856,
+        0.0002907809102907777
+      ],
+      "risk_level": "Basso",
+      "anchor_features": [
+        7,
+        8
+      ],
+      "anchor_feature_names": [
+        "PC8",
+        "PC9"
+      ],
+      "anchor_precision": 0.9085667215815486,
+      "anchor_coverage": 0.122,
+      "anchor_description": [
+        "PC8 = 1.060",
+        "PC9 = 0.789"
+      ],
+      "anchor_size": 2
+    },
+    {
+      "sample_idx": 21,
+      "prediction": 0,
+      "prediction_proba": [
+        0.7095491886138916,
+        0.2904508113861084
+      ],
+      "risk_level": "Basso",
+      "anchor_features": [
+        7,
+        1
+      ],
+      "anchor_feature_names": [
+        "PC8",
+        "PC2"
+      ],
+      "anchor_precision": 0.8741573033707866,
+      "anchor_coverage": 0.0661,
+      "anchor_description": [
+        "PC8 = 1.091",
+        "PC2 = 2.155"
+      ],
+      "anchor_size": 2
+    },
+    {
+      "sample_idx": 55,
+      "prediction": 0,
+      "prediction_proba": [
+        0.9950920939445496,
+        0.004907899536192417
+      ],
+      "risk_level": "Basso",
+      "anchor_features": [
+        8,
+        1
+      ],
+      "anchor_feature_names": [
+        "PC9",
+        "PC2"
+      ],
+      "anchor_precision": 0.8389662027833003,
+      "anchor_coverage": 0.0585,
+      "anchor_description": [
+        "PC9 = 1.789",
+        "PC2 = 1.585"
+      ],
+      "anchor_size": 2
+    },
+    {
+      "sample_idx": 79,
+      "prediction": 0,
+      "prediction_proba": [
+        0.8536049723625183,
+        0.14639504253864288
+      ],
+      "risk_level": "Basso",
+      "anchor_features": [
+        7,
+        1
+      ],
+      "anchor_feature_names": [
+        "PC8",
+        "PC2"
+      ],
+      "anchor_precision": 0.8124156545209177,
+      "anchor_coverage": 0.1339,
+      "anchor_description": [
+        "PC8 = 0.506",
+        "PC2 = 2.578"
+      ],
+      "anchor_size": 2
+    },
+    {
+      "sample_idx": 104,
+      "prediction": 0,
+      "prediction_proba": [
+        0.8924232721328735,
+        0.10757674276828766
+      ],
+      "risk_level": "Basso",
+      "anchor_features": [
+        7,
+        8
+      ],
+      "anchor_feature_names": [
+        "PC8",
+        "PC9"
+      ],
+      "anchor_precision": 0.8987764182424917,
+      "anchor_coverage": 0.1256,
+      "anchor_description": [
+        "PC8 = 2.194",
+        "PC9 = 1.250"
+      ],
+      "anchor_size": 2
+    },
+    {
+      "sample_idx": 95,
+      "prediction": 0,
+      "prediction_proba": [
+        0.9994602203369141,
+        0.0005398080684244633
+      ],
+      "risk_level": "Basso",
+      "anchor_features": [
+        7,
+        8
+      ],
+      "anchor_feature_names": [
+        "PC8",
+        "PC9"
+      ],
+      "anchor_precision": 0.8933500627352572,
+      "anchor_coverage": 0.1235,
+      "anchor_description": [
+        "PC8 = 1.817",
+        "PC9 = 0.821"
+      ],
+      "anchor_size": 2
+    },
+    {
+      "sample_idx": 89,
+      "prediction": 0,
+      "prediction_proba": [
+        0.9995322823524475,
+        0.0004677375836763531
+      ],
+      "risk_level": "Basso",
+      "anchor_features": [
+        7,
+        8
+      ],
+      "anchor_feature_names": [
+        "PC8",
+        "PC9"
+      ],
+      "anchor_precision": 0.9066788655077768,
+      "anchor_coverage": 0.1261,
+      "anchor_description": [
+        "PC8 = 0.836",
+        "PC9 = 1.493"
+      ],
+      "anchor_size": 2
+    }
+  ],
+  "selected_sample_indices": [
+    28,
+    19,
+    13,
+    100,
+    20,
+    92,
+    67,
+    44,
+    46,
+    80,
+    87,
+    12,
+    108,
+    81,
+    24,
+    7,
+    25,
+    91,
+    30,
+    2,
+    48,
+    106,
+    105,
+    22,
+    21,
+    55,
+    79,
+    104,
+    95,
+    89
+  ],
+  "analysis_summary": {
+    "feature_frequency": [
+      {
+        "Feature": "PC8",
+        "Frequency": 24,
+        "Percentage": 80.0
+      },
+      {
+        "Feature": "PC9",
+        "Frequency": 23,
+        "Percentage": 76.66666666666667
+      },
+      {
+        "Feature": "PC2",
+        "Frequency": 7,
+        "Percentage": 23.333333333333332
+      },
+      {
+        "Feature": "PC12",
+        "Frequency": 4,
+        "Percentage": 13.333333333333334
+      },
+      {
+        "Feature": "PC10",
+        "Frequency": 3,
+        "Percentage": 10.0
+      },
+      {
+        "Feature": "PC15",
+        "Frequency": 2,
+        "Percentage": 6.666666666666667
+      },
+      {
+        "Feature": "PC7",
+        "Frequency": 1,
+        "Percentage": 3.3333333333333335
+      },
+      {
+        "Feature": "PC5",
+        "Frequency": 1,
+        "Percentage": 3.3333333333333335
+      }
+    ],
+    "statistics": {
+      "mean_precision": 0.8927283696561351,
+      "std_precision": 0.04964365288582853,
+      "mean_coverage": 0.10823666666666668,
+      "std_coverage": 0.03935572371191881,
+      "mean_size": 2.1666666666666665,
+      "min_size": 2,
+      "max_size": 3
+    },
+    "total_anchors": 30
+  }
+}

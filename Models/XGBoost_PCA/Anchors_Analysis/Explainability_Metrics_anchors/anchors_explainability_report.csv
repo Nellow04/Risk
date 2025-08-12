@@ -1,0 +1,6 @@
+Metric,Score,Quality,Description
+Fidelity,0.8927,🟢 Excellent,Accordo regole-modello pesato per precisione
+Faithfulness,0.7765,🟡 Good,Stabilità quando si modificano features non-anchor
+Sparsity,0.7176,🟡 Good,Concentrazione regole su poche features
+Stability,0.8500,🟢 Excellent,Robustezza regole a perturbazioni (placeholder)
+Consistency,0.7016,🟡 Good,Similarità regole per campioni simili
