@@ -1,0 +1,67 @@
+PARTIAL DEPENDENCE PLOTS ANALYSIS - XGBOOST PCA
+==================================================
+
+TOP 10 COMPONENTI PIÙ IMPORTANTI:
+-----------------------------------
+ 8. PC8 : 0.1198 - Componente PC8
+ 9. PC9 : 0.0748 - Componente PC9
+12. PC12: 0.0396 - Componente PC12
+ 2. PC2 : 0.0342 - Componente PC2
+14. PC14: 0.0279 - Componente PC14
+10. PC10: 0.0252 - Componente PC10
+11. PC11: 0.0153 - Componente PC11
+ 3. PC3 : 0.0144 - Componente PC3
+16. PC16: 0.0117 - Componente PC16
+ 7. PC7 : 0.0045 - Componente PC7
+
+
+ANALISI EFFETTI NON-LINEARI:
+------------------------------
+
+PC8 - Componente PC8:
+  Effect Range: 0.5336
+  Nonlinearity Score: 0.057819
+  Critical Points: 10
+  Interpretazione: Forte impatto sul rischio | Relazione altamente non-lineare | Multiple soglie critiche identificate
+
+PC9 - Componente PC9:
+  Effect Range: 0.4145
+  Nonlinearity Score: 0.039298
+  Critical Points: 10
+  Interpretazione: Forte impatto sul rischio | Relazione altamente non-lineare | Multiple soglie critiche identificate
+
+PC12 - Componente PC12:
+  Effect Range: 0.1808
+  Nonlinearity Score: 0.008631
+  Critical Points: 10
+  Interpretazione: Forte impatto sul rischio | Relazione altamente non-lineare | Multiple soglie critiche identificate
+
+PC2 - Componente PC2:
+  Effect Range: 0.2235
+  Nonlinearity Score: 0.004171
+  Critical Points: 10
+  Interpretazione: Forte impatto sul rischio | Relazione altamente non-lineare | Multiple soglie critiche identificate
+
+PC14 - Componente PC14:
+  Effect Range: 0.1842
+  Nonlinearity Score: 0.007673
+  Critical Points: 10
+  Interpretazione: Forte impatto sul rischio | Relazione altamente non-lineare | Multiple soglie critiche identificate
+
+PC10 - Componente PC10:
+  Effect Range: 0.2149
+  Nonlinearity Score: 0.011530
+  Critical Points: 10
+  Interpretazione: Forte impatto sul rischio | Relazione altamente non-lineare | Multiple soglie critiche identificate
+
+PC11 - Componente PC11:
+  Effect Range: 0.0468
+  Nonlinearity Score: 0.002087
+  Critical Points: 10
+  Interpretazione: Impatto limitato sul rischio | Relazione altamente non-lineare | Multiple soglie critiche identificate
+
+PC3 - Componente PC3:
+  Effect Range: 0.0959
+  Nonlinearity Score: 0.001458
+  Critical Points: 10
+  Interpretazione: Impatto moderato sul rischio | Relazione altamente non-lineare | Multiple soglie critiche identificate
