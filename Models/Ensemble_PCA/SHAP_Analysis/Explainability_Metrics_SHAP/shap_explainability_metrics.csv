@@ -1,0 +1,6 @@
+Metric,Score,Level,Method
+Fidelity,0.9505136617659646,Excellent,Cooperative game theory
+Faithfulness,0.5450986109746654,Fair,Cooperative game theory
+Sparsity,0.14549600448134614,Poor,Cooperative game theory
+Stability,0.7773521216877188,Good,Cooperative game theory
+Consistency,0.639131512820482,Good,Cooperative game theory

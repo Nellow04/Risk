@@ -1,0 +1,37 @@
+{
+  "total_samples_analyzed": 50,
+  "total_features": 18,
+  "importance_stats": {
+    "mean": 0.044825000000000004,
+    "std": 0.04720702189999563,
+    "total": 0.8068500000000001
+  },
+  "top_5_features": [
+    {
+      "feature": "PC8",
+      "importance": 0.18912500000000002,
+      "rank": 1
+    },
+    {
+      "feature": "PC9",
+      "importance": 0.1374,
+      "rank": 2
+    },
+    {
+      "feature": "PC2",
+      "importance": 0.07745,
+      "rank": 3
+    },
+    {
+      "feature": "PC10",
+      "importance": 0.07295000000000001,
+      "rank": 4
+    },
+    {
+      "feature": "PC12",
+      "importance": 0.057275,
+      "rank": 5
+    }
+  ],
+  "timestamp": "2025-07-28T11:49:03.254991"
+}
