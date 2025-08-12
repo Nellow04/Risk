@@ -1,0 +1,11 @@
+{
+  "fidelity": 1.0,
+  "faithfulness": 0.9779236712315665,
+  "sparsity": 0.825925925925926,
+  "stability": 0.7625992063492064,
+  "consistency": 0.6311111111111111,
+  "timestamp": "2025-07-28T12:20:16.974861",
+  "model_type": "Ensemble",
+  "explanation_method": "Anchors",
+  "dataset_type": "PCA"
+}
